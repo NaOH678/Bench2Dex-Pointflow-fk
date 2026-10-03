@@ -220,7 +220,7 @@ GT 的 mesh/link/instance 绑定、真值可见性、永久材料点 ID 单独�
 - `/mnt/afs/WorldAct-cosmos3-edge-droid-sft_mano`
 - `/mnt/afs/WorldAct-pointflow-native`
 
-历史观察到训练仓库 remote 为 `https://github.com/liuhangxu-robin/WorldAct.git`，对应工作分支包括 `WorldAct-cosmos3-edge-droid-sft-pointflow` 与 `WorldAct-cosmos3-edge-droid-sft_mano`。获取时重新确认所需分支、revision、访问权限和本地未提交改动，不能假定 remote 分支已包含旧机器所有代码。缺少训练仓库时先完成独立导出与验收，不阻塞阶段 A/B。
+历史观察到训练仓库 remote 为 `https://github.com/liuhangxu-robin/WorldAct.git`，对应工作分支包括 `WorldAct-cosmos3-edge-droid-sft-pointflow` 与 `WorldAct-cosmos3-edge-droid-sft_mano` 和 `WorldAct-cosmos3-edge-droid-sft-pointflow-fk`(这是当前最新版方案)。获取时重新确认所需分支、revision、访问权限和本地未提交改动，不能假定 remote 分支已包含旧机器所有代码。缺少训练仓库时先完成独立导出与验收，不阻塞阶段 A/B。
 
 PointFlow 训练仓库首先阅读 `docs/pointflow_quickstart.md`。重点审查：
 
