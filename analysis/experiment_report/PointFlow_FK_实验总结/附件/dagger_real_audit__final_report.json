@@ -1,0 +1,164 @@
+{
+  "status": "complete",
+  "episodes": 71,
+  "source_counts": {
+    "9.24": 51,
+    "10.1": 20
+  },
+  "duplicates": 0,
+  "joint_audit_frames": 2530,
+  "surface_sampled_frames": 497,
+  "surface_accepted_frames": 469,
+  "surface_excluded_frames": 28,
+  "surface_matches": 115718,
+  "accepted_candidate_rays": 231863,
+  "all_candidate_rays": 232284,
+  "frame_median_surface_xyz_mm": {
+    "n": 469,
+    "median": 62.29614290653461,
+    "p05": 32.2064036525352,
+    "p95": 130.44975362885265,
+    "mean": 69.13746575389986
+  },
+  "frame_median_signed_surface_z_mm": {
+    "n": 469,
+    "median": 12.773145042190848,
+    "p05": -67.94461255542,
+    "p95": 122.7990303880529,
+    "mean": 16.33741783305084
+  },
+  "positive_depth_frames": 274,
+  "negative_depth_frames": 195,
+  "urdf": "/mnt/afs/WorldAct-cosmos3-edge-droid-sft_base/assets/dagger_fk/marvin_wuji_d435_dagger.urdf",
+  "urdf_sha256": "b467a1ecca9f72c1246c61767543ffe1d1a68a58e954cc8f7931a7b9a26307c7",
+  "camera_R": [
+    [
+      1.2874812327385705e-11,
+      -1.0,
+      -3.598410798602212e-12
+    ],
+    [
+      -0.777125889839377,
+      -7.7407211186496e-12,
+      -0.6293451766251623
+    ],
+    [
+      0.6293451766251623,
+      1.0899149880660843e-11,
+      -0.777125889839377
+    ]
+  ],
+  "camera_t": [
+    0.03150330353089721,
+    0.9215746642153121,
+    1.0102225677177419
+  ],
+  "fk_recompute_max_frame_p95_mm": 5.715679271502479e-05,
+  "all_cache_frame_counts_match": true,
+  "all_export_and_evaluation_videos_identical": true,
+  "sensor_checks": [
+    {
+      "episode": "episode_0002_20260830_155725",
+      "frame": 0,
+      "depth_frame": 2,
+      "delta_frames": 2,
+      "file": "/mnt/afs/Bench2Dex/analysis/dagger_real_audit/episode_0002_20260830_155725_depth0000.png",
+      "n": 134,
+      "pf_minus_d435_z_mm": {
+        "n": 134,
+        "median": -34.217497023756536,
+        "p05": -56.73943306141845,
+        "p95": -16.037461434269638,
+        "mean": -34.34663785099099
+      },
+      "d435_minus_mesh_z_mm": {
+        "n": 134,
+        "median": 2.5040958554664594,
+        "p05": -19.497230949609307,
+        "p95": 16.865381980447964,
+        "mean": 0.5942949983107711
+      }
+    },
+    {
+      "episode": "episode_0002_20260830_155725",
+      "frame": 650,
+      "depth_frame": 651,
+      "delta_frames": 1,
+      "file": "/mnt/afs/Bench2Dex/analysis/dagger_real_audit/episode_0002_20260830_155725_depth0650.png",
+      "n": 236,
+      "pf_minus_d435_z_mm": {
+        "n": 236,
+        "median": 110.7637746645699,
+        "p05": 90.84721210593624,
+        "p95": 148.2816852497907,
+        "mean": 113.64267062285188
+      },
+      "d435_minus_mesh_z_mm": {
+        "n": 236,
+        "median": -6.160918403183557,
+        "p05": -26.111166417513374,
+        "p95": 27.972583671503987,
+        "mean": -4.81648608540186
+      }
+    },
+    {
+      "episode": "episode_0005_20260903_185554",
+      "frame": 0,
+      "depth_frame": 0,
+      "delta_frames": 0,
+      "file": "/mnt/afs/Bench2Dex/analysis/dagger_real_audit/episode_0005_20260903_185554_depth0000.png",
+      "n": 189,
+      "pf_minus_d435_z_mm": {
+        "n": 189,
+        "median": 22.297946468420093,
+        "p05": -11.086316058500678,
+        "p95": 31.98792939498003,
+        "mean": 17.472654135187767
+      },
+      "d435_minus_mesh_z_mm": {
+        "n": 189,
+        "median": 3.247987010656317,
+        "p05": -8.787939727367734,
+        "p95": 17.646628643824446,
+        "mean": 3.7804199139495296
+      }
+    },
+    {
+      "episode": "episode_0005_20260903_185554",
+      "frame": 650,
+      "depth_frame": 649,
+      "delta_frames": -1,
+      "file": "/mnt/afs/Bench2Dex/analysis/dagger_real_audit/episode_0005_20260903_185554_depth0650.png",
+      "n": 187,
+      "pf_minus_d435_z_mm": {
+        "n": 187,
+        "median": 106.97378998064222,
+        "p05": 92.58364984066777,
+        "p95": 153.75521672220268,
+        "mean": 116.5627145432099
+      },
+      "d435_minus_mesh_z_mm": {
+        "n": 187,
+        "median": -9.638097591466831,
+        "p05": -46.044768913333236,
+        "p95": 3.0619126291681193,
+        "mean": -12.99781567527778
+      }
+    }
+  ],
+  "aggregation": "Statistics over per-frame medians, not pooled point quantiles; frames require >=30 mesh intersections.",
+  "methods": [
+    "Existing 9.24/10.1 v61 data merged; no GPU rerun or geometry correction.",
+    "Recorded qpos + provided DAgger URDF visual meshes, fixed camera chain and 180deg optical roll.",
+    "Calibrated per-episode head colour intrinsics, resized to 640x448; no fitted extrinsic, scale or translation.",
+    "Valid & unique class2 points, 5x5 mask erosion, every fourth pixel on each image axis; nearest hand surface ray hit at the same pixel.",
+    "FK recomputed from qpos checked against supplied mix_fk21 landmark positions."
+  ],
+  "limitations": [
+    "URDF/glove shape and residual camera calibration errors remain; mesh is not perfect physical ground truth.",
+    "v61 masks may include arms/cables; only hand mesh intersections measured, unmatched regions excluded.",
+    "Object occlusion is not independently rendered; retained mask provides a visibility approximation.",
+    "D435 corroboration covers four frames only; nearest depth frames differ by -1 to +2 video indices, sensor noise and latency remain.",
+    "Changing error sign does not establish random noise; repeat-inference variance has not been measured."
+  ]
+}

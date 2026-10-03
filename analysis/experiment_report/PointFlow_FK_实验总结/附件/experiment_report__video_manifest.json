@@ -1,0 +1,32 @@
+[
+  {
+    "file": "/mnt/afs/Bench2Dex/analysis/experiment_report/media/sandwich_review.mp4",
+    "group": "sandwich",
+    "episode": "episode_0013_20260731_133649",
+    "source_frames": 1192,
+    "rendered_frames": 398,
+    "fps": 10,
+    "source_stride": 3,
+    "note": "Every third real RGB frame shown at10fps, original speed; no point interpolation. Blue is FK21 joint skeleton, not mesh-surface error ground truth. Orange existing pointflow; sandwich green fixed rerun."
+  },
+  {
+    "file": "/mnt/afs/Bench2Dex/analysis/experiment_report/media/dagger_924_review.mp4",
+    "group": "dagger",
+    "episode": "episode_0002_20260830_155725",
+    "source_frames": 1425,
+    "rendered_frames": 475,
+    "fps": 10,
+    "source_stride": 3,
+    "note": "Every third real RGB frame shown at10fps, original speed; no point interpolation. Blue is FK21 joint skeleton, not mesh-surface error ground truth. Orange existing pointflow; sandwich green fixed rerun."
+  },
+  {
+    "file": "/mnt/afs/Bench2Dex/analysis/experiment_report/media/dagger_101_review.mp4",
+    "group": "dagger",
+    "episode": "episode_0005_20260903_185554",
+    "source_frames": 1496,
+    "rendered_frames": 499,
+    "fps": 10,
+    "source_stride": 3,
+    "note": "Every third real RGB frame shown at10fps, original speed; no point interpolation. Blue is FK21 joint skeleton, not mesh-surface error ground truth. Orange existing pointflow; sandwich green fixed rerun."
+  }
+]

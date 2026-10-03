@@ -1,0 +1,70 @@
+{
+  "episodes": 101,
+  "sampled_frames": 3651,
+  "matched_joint_samples": 71601,
+  "candidate_in_image": 75342,
+  "failed": [],
+  "urdf_md5": "d687e8f52df18839f4f99efe8c12a909",
+  "pointflow_version": "9.24/sandwich/efep_seg_v2",
+  "extrinsic_source": "/mnt/afs/WorldAct-cosmos3-edge-droid-sft_mano/cosmos_framework/data/fk_camera_extrinsic.py",
+  "alignment_fitted": false,
+  "metrics": {
+    "signed_depth_mm": {
+      "n": 71601,
+      "median": -157.1549767137289,
+      "p05": -257.1733209209219,
+      "p95": -48.92522265960542,
+      "mean": -155.62668270742623
+    },
+    "raw_xyz_gap_mm": {
+      "n": 71601,
+      "median": 159.53732360411877,
+      "p05": 52.6992720905454,
+      "p95": 264.4697444962484,
+      "mean": 159.4990503893344
+    },
+    "known_K_xyz_gap_mm": {
+      "n": 71601,
+      "median": 164.50152374130712,
+      "p05": 51.547750575574376,
+      "p95": 273.41507028678456,
+      "mean": 164.04232047489847
+    },
+    "raw_xy_gap_mm": {
+      "n": 71601,
+      "median": 25.77006976645043,
+      "p05": 7.9657503767867395,
+      "p95": 65.09489493592257,
+      "mean": 29.78404154611496
+    },
+    "nn3d_mm": {
+      "n": 71601,
+      "median": 118.80653710841159,
+      "p05": 25.8016253774497,
+      "p95": 218.38160367383634,
+      "mean": 119.95758962541635
+    }
+  },
+  "absolute_depth_mm": {
+    "n": 71601,
+    "median": 157.1549767137289,
+    "p05": 49.72115193981574,
+    "p95": 257.1733209209219,
+    "mean": 156.0954108238981
+  },
+  "boundary_absolute_depth_change_mm": {
+    "n": 782,
+    "median": 17.32045600905957,
+    "p05": 1.8161124308350935,
+    "p95": 58.76269778210523,
+    "mean": 22.20338009096391
+  },
+  "limitations": [
+    "FK joints are internal anatomical reference, not observed hand surface; values are modality gaps, not pure DA3 reconstruction error.",
+    "3px same-pixel neighborhoods require >=3 retained hand pixels; missing/occluded joints excluded and coverage reported.",
+    "No independent sensor depth or mesh-surface ground truth used.",
+    "v2 hand filtering uses URDF projected hand proximity; coverage is not independent calibration validation.",
+    "Frame indices matched directly; timestamp irregularity reported, sensor latency not measured.",
+    "Known-K reprojection is diagnostic only, no source data changed."
+  ]
+}

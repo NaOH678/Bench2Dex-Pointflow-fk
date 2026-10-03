@@ -1,0 +1,142 @@
+{
+  "start": {
+    "camera_poses": {
+      "shape": [
+        64,
+        4,
+        4
+      ],
+      "nonfinite": 0
+    },
+    "frame_indices": {
+      "shape": [
+        64
+      ],
+      "nonfinite": 0
+    },
+    "masks": {
+      "shape": [
+        64,
+        448,
+        640
+      ],
+      "nonfinite": 0
+    },
+    "points": {
+      "shape": [
+        64,
+        448,
+        640,
+        3
+      ],
+      "nonfinite": 0
+    },
+    "traj_2d": {
+      "shape": [
+        63,
+        2,
+        448,
+        640
+      ],
+      "nonfinite": 0
+    },
+    "traj_3d": {
+      "shape": [
+        63,
+        448,
+        640,
+        3
+      ],
+      "nonfinite": 0
+    },
+    "visconf": {
+      "shape": [
+        63,
+        2,
+        448,
+        640
+      ],
+      "nonfinite": 0
+    },
+    "world_points": {
+      "shape": [
+        64,
+        448,
+        640,
+        3
+      ],
+      "nonfinite": 0
+    },
+    "frame_indices_match": true
+  },
+  "motion": {
+    "camera_poses": {
+      "shape": [
+        64,
+        4,
+        4
+      ],
+      "nonfinite": 0
+    },
+    "frame_indices": {
+      "shape": [
+        64
+      ],
+      "nonfinite": 0
+    },
+    "masks": {
+      "shape": [
+        64,
+        448,
+        640
+      ],
+      "nonfinite": 0
+    },
+    "points": {
+      "shape": [
+        64,
+        448,
+        640,
+        3
+      ],
+      "nonfinite": 0
+    },
+    "traj_2d": {
+      "shape": [
+        63,
+        2,
+        448,
+        640
+      ],
+      "nonfinite": 0
+    },
+    "traj_3d": {
+      "shape": [
+        63,
+        448,
+        640,
+        3
+      ],
+      "nonfinite": 0
+    },
+    "visconf": {
+      "shape": [
+        63,
+        2,
+        448,
+        640
+      ],
+      "nonfinite": 0
+    },
+    "world_points": {
+      "shape": [
+        64,
+        448,
+        640,
+        3
+      ],
+      "nonfinite": 0
+    },
+    "frame_indices_match": true
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "version": "v6-efep-sam2",
+  "episode": "task21_episode000000",
+  "frames": 713,
+  "anchor_frame": 0,
+  "observations_labelled": 24763315,
+  "unique_points": 15536965,
+  "groups": {
+    "dexterous_hand": {
+      "label": 2,
+      "valid_per_frame_median": 5888.0,
+      "valid_per_frame_max": 13820,
+      "tracks": 195634
+    },
+    "manipulated_object": {
+      "label": 3,
+      "valid_per_frame_median": 2101.0,
+      "valid_per_frame_max": 5105,
+      "tracks": 37625
+    },
+    "operated_surface": {
+      "label": 4,
+      "valid_per_frame_median": 14911.0,
+      "valid_per_frame_max": 18896,
+      "tracks": 187081
+    }
+  },
+  "export": {
+    "episode": "task21_episode000000",
+    "video": "/mnt/afs/Bench2Dex/analysis/native_full_episode/source/task21_episode000000/videos/head.mp4",
+    "frames": 713,
+    "fps": 20.0,
+    "width": 640,
+    "height": 480,
+    "start_frame": 0,
+    "mode": "3d_efep",
+    "coordinate": "world_depthanythingv3",
+    "metric_scale": true,
+    "inference_call": "model.infer_pair(force_projection=True)",
+    "inference_calls": 1,
+    "external_chunks": 0,
+    "frames_inferred": 713,
+    "infer_height": 448,
+    "infer_width": 640,
+    "inference_seconds": 247.48887037020177,
+    "total_seconds": 269.53333460725844,
+    "observations": 253371352,
+    "tracks": 7707214,
+    "chaining": "official demo.py save_efep rules, sparse storage",
+    "updated": 1790941377.9064827
+  },
+  "segmentation": {
+    "dataset": "bench2dex_task21",
+    "episode": "task21_episode000000",
+    "frames": 713,
+    "anchor": 0,
+    "size": [
+      640,
+      480
+    ],
+    "model": "sam2.1_hiera_large video predictor",
+    "prompts": [
+      {
+        "obj_id": 1,
+        "cls": 2,
+        "box": [
+          0.5145931243896484,
+          5.055427551269531,
+          133.57611083984375,
+          166.0
+        ],
+        "points": null
+      },
+      {
+        "obj_id": 2,
+        "cls": 2,
+        "box": [
+          503.16192626953125,
+          6.899585723876953,
+          638.9248046875,
+          166.0
+        ],
+        "points": null
+      },
+      {
+        "obj_id": 10,
+        "cls": 3,
+        "box": [
+          111.0,
+          105.0,
+          175.0,
+          165.0
+        ],
+        "points": null
+      },
+      {
+        "obj_id": 11,
+        "cls": 3,
+        "box": [
+          169.0,
+          179.0,
+          229.0,
+          228.0
+        ],
+        "points": null
+      },
+      {
+        "obj_id": 12,
+        "cls": 3,
+        "box": [
+          331.0,
+          108.0,
+          365.0,
+          146.0
+        ],
+        "points": null
+      },
+      {
+        "obj_id": 20,
+        "cls": 4,
+        "box": [
+          505.0,
+          84.0,
+          640.0,
+          244.0
+        ],
+        "points": null
+      }
+    ],
+    "hand_prompt": [
+      {
+        "obj_id": 1,
+        "source": "grounding_dino",
+        "score": 0.371,
+        "refinement": "anchor hand box bottom clipped to y=166; excludes wrist and arm"
+      },
+      {
+        "obj_id": 2,
+        "source": "grounding_dino",
+        "score": 0.294,
+        "refinement": "anchor hand box bottom clipped to y=166; excludes wrist and arm"
+      }
+    ],
+    "hand_text": "white robotic hand.",
+    "dino_model": "/data/shichaojian/checkpoints/grounding-dino-base",
+    "classes": {
+      "2": "dexterous_hand",
+      "3": "manipulated_object",
+      "4": "operated_surface"
+    },
+    "mean_coverage_pct": {
+      "2": 2.136839736003974,
+      "3": 0.9478326612903225,
+      "4": 5.35771132830762
+    },
+    "frames_without_class": {
+      "2": 0,
+      "3": 0,
+      "4": 0
+    }
+  },
+  "erode_px": 1,
+  "gap_fill": {
+    "max_frames": 3,
+    "tol_m": 0.02,
+    "observations_readmitted": 152304
+  },
+  "despike": {
+    "threshold_m": 0.03,
+    "observations_dropped": 4270
+  },
+  "point_gates": {
+    "clean_mask": true,
+    "min_conf": 0.3,
+    "depth_m": [
+      0.1,
+      6.0
+    ]
+  },
+  "per_track_filters": false,
+  "interpolation": false,
+  "smoothing": false,
+  "seconds": 36.97095251828432,
+  "detached_removal": {
+    "voxel_m": 0.015,
+    "min_frac": 0.25,
+    "touch_voxels": 2,
+    "depth_gap_m": 0.1,
+    "per_class": {
+      "dexterous_hand": {
+        "points": 7641246,
+        "detached": 34201,
+        "detached_pct": 0.448
+      },
+      "manipulated_object": {
+        "points": 2035085,
+        "detached": 16694,
+        "detached_pct": 0.82
+      },
+      "operated_surface": {
+        "points": 15086984,
+        "detached": 35,
+        "detached_pct": 0.0
+      }
+    }
+  }
+}

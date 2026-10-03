@@ -1,0 +1,83 @@
+{
+  "clip": "start",
+  "seed": 17,
+  "options": {
+    "coordinate": "world_depthanythingv3",
+    "ckpt_init": "/data/shichaojian/checkpoints/track4world_da3.pth",
+    "use_original_backbone": false,
+    "metric_scale": true,
+    "Ts": -1,
+    "inference_iters": 4
+  },
+  "config": {
+    "model": {
+      "encoder": "dinov2_vitl14",
+      "remap_output": "exp",
+      "intermediate_layers": 4,
+      "dim_upsample": [
+        256,
+        128,
+        64
+      ],
+      "dim_times_res_block_hidden": 2,
+      "num_res_blocks": 2,
+      "num_tokens_range": [
+        1200,
+        1200
+      ],
+      "last_conv_channels": 32,
+      "last_conv_size": 1
+    }
+  },
+  "shapes": {
+    "traj_3d": [
+      63,
+      448,
+      640,
+      3
+    ],
+    "traj_2d": [
+      63,
+      2,
+      448,
+      640
+    ],
+    "visconf": [
+      63,
+      2,
+      448,
+      640
+    ],
+    "points": [
+      64,
+      448,
+      640,
+      3
+    ],
+    "masks": [
+      64,
+      448,
+      640
+    ],
+    "world_points": [
+      64,
+      448,
+      640,
+      3
+    ],
+    "camera_poses": [
+      64,
+      4,
+      4
+    ]
+  },
+  "diagnostics": {
+    "_da3_focal": 1.1921290159225464,
+    "_metric_scale": 1.014255404472351
+  },
+  "seconds": 16.280673503875732,
+  "peak_allocated_gb": 21.390298624,
+  "gpu": "NVIDIA A800-SXM4-80GB",
+  "torch_version": "2.5.1+cu124",
+  "note": "Raw 64-frame EFEP output; no SAM filtering or FK calibration. Historical backbone switch remains unverified."
+}

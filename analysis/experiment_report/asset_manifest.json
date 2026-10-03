@@ -1,0 +1,122 @@
+[
+  {
+    "path": "/mnt/afs/Bench2Dex/analysis/da3_chunk_fix/validation/fixed_vs_native.png",
+    "bytes": 103943,
+    "sha256": "3254fb968801c4593498024cb0f3b976d6e2b0a38f6110300f8e590f19af21ac",
+    "type": "image"
+  },
+  {
+    "path": "/mnt/afs/Bench2Dex/analysis/native_full_episode/validation/native_full_episode_review.mp4",
+    "bytes": 6369361,
+    "sha256": "121b7de9a9b629c7d40daf756ac95ce5702f1f55a79a694bbc72aba8676a8552",
+    "type": "video"
+  },
+  {
+    "path": "/mnt/afs/Bench2Dex/analysis/da3_chunk_fix/validation/native_full_episode_review.mp4",
+    "bytes": 6369752,
+    "sha256": "e011580c4e74d5fc1d0614dc384fcbdddc597ec557e07751a942cecb74ae7b6a",
+    "type": "video"
+  },
+  {
+    "path": "/mnt/afs/Bench2Dex/analysis/geometry_audit_20261002/pointflow_validation/hand_geometry_visualization.png",
+    "bytes": 1155205,
+    "sha256": "46b547e6297ccabaaa72c50a5512a5c335206745a40858ceb0a42ebd3f2dab68",
+    "type": "image"
+  },
+  {
+    "path": "/mnt/afs/Bench2Dex/analysis/sandwich_real_audit/hand_geometry_visualization.png",
+    "bytes": 1256668,
+    "sha256": "9eed0167d2d0db15527b097426c22c3facb5b6be36f44db99ec544a42eb6285b",
+    "type": "image"
+  },
+  {
+    "path": "/mnt/afs/Bench2Dex/analysis/sandwich_real_audit/surface_summary.png",
+    "bytes": 174215,
+    "sha256": "0a3c3cd6a3e35dec9d64921bda903280d991bf4a7d24a96cd10e650be6b70fb9",
+    "type": "image"
+  },
+  {
+    "path": "/mnt/afs/Bench2Dex/analysis/sandwich_fixed/before_after.png",
+    "bytes": 690468,
+    "sha256": "50ac9fdcd13d9bc04ad8b43f69506852726fd383f08ab1963bbb8dcef23485ac",
+    "type": "image"
+  },
+  {
+    "path": "/mnt/afs/Bench2Dex/analysis/sandwich_fixed/error_comparison.png",
+    "bytes": 91507,
+    "sha256": "4ddd0bd690928ab66bc30ed97d45451285e713bf738dc3cd3dd77e2ce10c4a1d",
+    "type": "image"
+  },
+  {
+    "path": "/mnt/afs/Bench2Dex/analysis/experiment_report/media/sandwich_review.mp4",
+    "bytes": 3015672,
+    "sha256": "e612a27b0d1c810266a5653dae8a341311e351672245d288e8e165117635b89c",
+    "type": "video"
+  },
+  {
+    "path": "/mnt/afs/Bench2Dex/analysis/dagger_real_audit/surface_summary.png",
+    "bytes": 190682,
+    "sha256": "16d4da4204f5d78135808aefdce253266d1959a132d9b16a7c6630f9b31984c6",
+    "type": "image"
+  },
+  {
+    "path": "/mnt/afs/Bench2Dex/analysis/dagger_real_audit/episode_0002_20260830_155725_geometry.png",
+    "bytes": 763008,
+    "sha256": "60b940c8fb6a74ca8612f834cf0b44d0fb28d5b21bffe57d3f26b1fd361000e5",
+    "type": "image"
+  },
+  {
+    "path": "/mnt/afs/Bench2Dex/analysis/dagger_real_audit/episode_0005_20260903_185554_geometry.png",
+    "bytes": 753002,
+    "sha256": "f7950a982f25e115c468d11d8a6ff5034dd6fae275188df7469b403290db6471",
+    "type": "image"
+  },
+  {
+    "path": "/mnt/afs/Bench2Dex/analysis/experiment_report/media/dagger_924_review.mp4",
+    "bytes": 3071255,
+    "sha256": "62bcbd85a4b1ac4741d5ae32559738379fa40e7817ff60c7ba399d7a9d6ab1ed",
+    "type": "video"
+  },
+  {
+    "path": "/mnt/afs/Bench2Dex/analysis/experiment_report/media/dagger_101_review.mp4",
+    "bytes": 3562692,
+    "sha256": "e4f467e8b13ee4853e112e29a493700f686459602850358112b23e8ca267f1e9",
+    "type": "video"
+  },
+  {
+    "path": "/mnt/afs/Bench2Dex/analysis/depth_calibration/heldout_summary.png",
+    "bytes": 150473,
+    "sha256": "1b7547551eb2120d6721fffd4a237797e82e96f0a74d7a9e3f1c15399df831f3",
+    "type": "image"
+  },
+  {
+    "path": "/mnt/afs/Bench2Dex/analysis/depth_calibration/depth_relationship.png",
+    "bytes": 429992,
+    "sha256": "d3908b0f3db3a1bed2e0c4d3fabb522fcfc403e3cfcafea68c868de408fcd2e8",
+    "type": "image"
+  },
+  {
+    "path": "/mnt/afs/Bench2Dex/analysis/depth_calibration/heldout_rgb_examples.png",
+    "bytes": 546858,
+    "sha256": "e8a2d686db97727436f43cd3219d9a346e12eec6c46727a0296816a480956b73",
+    "type": "image"
+  },
+  {
+    "path": "/mnt/afs/Bench2Dex/analysis/da3_chunk_fix/validation/fixed_vs_native_3d.html",
+    "bytes": 5185555,
+    "sha256": "6d47506730f18397905cba3d2512ef7f03656a723e68bd12a3a80f542e33ef67",
+    "type": "interactive"
+  },
+  {
+    "path": "/mnt/afs/Bench2Dex/analysis/sandwich_fixed/before_after_3d.html",
+    "bytes": 5043301,
+    "sha256": "ec8507e36804f10626c3577bc6b61e1c9bba4502fe63843b4b4d74d46740e0c3",
+    "type": "interactive"
+  },
+  {
+    "path": "/mnt/afs/Bench2Dex/analysis/dagger_real_audit/geometry_3d.html",
+    "bytes": 5003472,
+    "sha256": "07c10f8ab7cb9a85ca4b8d9f4acb765643c403ef8ac90746cbb8a988a664d48d",
+    "type": "interactive"
+  }
+]

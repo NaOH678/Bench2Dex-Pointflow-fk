@@ -1,0 +1,42 @@
+{
+  "status": "Implementation fix validated in isolated copy; label quality still fails batch-production gate.",
+  "frames": 713,
+  "seconds": 35.65,
+  "seed": 17,
+  "shared_native_model_unchanged": true,
+  "gpu_tasks_complete": true,
+  "changed": [
+    "Per-frame association with backbone chunk normalization scale and mean focal.",
+    "Target pointmaps converted to source normalization before pairwise 3D correlation.",
+    "Temporal alignment/confidence uses consistent source units across chunk boundaries.",
+    "Frame geometry and source-normalized endpoints restored with corresponding scales.",
+    "Motion endpoints unprojected with target frame intrinsic; explicit chunk-local world-frame provenance."
+  ],
+  "tests": {
+    "cpu_regressions": 5,
+    "frame_metadata_checked": 713,
+    "independent_xyz_max_error_mm": 0.8977679370177218,
+    "cross_chunk_pairs_checked": 5,
+    "max_target_projection_error_px": 0.41480968330427853
+  },
+  "same_pixel_interior_native_mm": {
+    "n": 2802,
+    "median": 146.72205109772455,
+    "p95": 261.84119265021576,
+    "mean": 155.539650352874
+  },
+  "same_pixel_interior_fixed_mm": {
+    "n": 2802,
+    "median": 49.608197286936814,
+    "p95": 236.22054784658306,
+    "mean": 72.51824443924718
+  },
+  "unresolved": [
+    "DA3 chunk estimates remain temporally inconsistent: static table ROI jumps up to 134.4 mm at audited boundaries.",
+    "Inherited SAM2 right-hand coverage failures remain; masks intentionally unchanged for fair comparison.",
+    "Residual geometry P95 remains about 236 mm; no independent rendered-depth validation.",
+    "Fix targets B=1 DA3 EFEP inference; other inference modes and training were not validated.",
+    "DA3 per-block mean focal convention retained; camera-world poses are not registered across chunks."
+  ],
+  "next_step": "Validate overlapping/shared-frame DA3 geometry estimates with consistent calibration before batch label generation; do not hide jumps by smoothing ground-truth labels."
+}

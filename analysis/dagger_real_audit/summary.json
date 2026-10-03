@@ -1,0 +1,70 @@
+{
+  "episodes": 71,
+  "sampled_frames": 2530,
+  "matched_joint_samples": 29964,
+  "candidate_in_image": 49602,
+  "failed": [],
+  "urdf_md5": "e8d535866bf0bc0ff7936936256b2ec1",
+  "pointflow_version": "merged 9.24/dagger + 10.1/dagger_new efep_seg_v61",
+  "extrinsic_source": "/mnt/afs/WorldAct-cosmos3-edge-droid-sft_base/assets/dagger_fk/marvin_wuji_d435_dagger.urdf",
+  "alignment_fitted": false,
+  "metrics": {
+    "signed_depth_mm": {
+      "n": 29964,
+      "median": 17.14881205666674,
+      "p05": -87.33961444334852,
+      "p95": 135.82828010556997,
+      "mean": 19.141241579077132
+    },
+    "raw_xyz_gap_mm": {
+      "n": 29964,
+      "median": 64.05920030557942,
+      "p05": 25.644060683869903,
+      "p95": 150.79810618862558,
+      "mean": 72.82340055779592
+    },
+    "known_K_xyz_gap_mm": {
+      "n": 29964,
+      "median": 48.914473257443746,
+      "p05": 4.952901595731753,
+      "p95": 146.86515411636384,
+      "mean": 58.42169911634415
+    },
+    "raw_xy_gap_mm": {
+      "n": 29964,
+      "median": 36.414396147417165,
+      "p05": 13.203384321598309,
+      "p95": 74.89123021082733,
+      "mean": 39.2392047696427
+    },
+    "nn3d_mm": {
+      "n": 29964,
+      "median": 45.62336518072374,
+      "p05": 6.4922544905416215,
+      "p95": 136.2873498681167,
+      "mean": 54.76562754560213
+    }
+  },
+  "absolute_depth_mm": {
+    "n": 29964,
+    "median": 45.99071711772429,
+    "p05": 4.49500037894346,
+    "p95": 139.8571028708365,
+    "mean": 55.23392216975346
+  },
+  "boundary_absolute_depth_change_mm": {
+    "n": 526,
+    "median": 25.01545969327162,
+    "p05": 2.330917817802483,
+    "p95": 75.35786115935942,
+    "mean": 30.77713642325064
+  },
+  "limitations": [
+    "FK joints are internal anatomical reference, not observed hand surface; values are modality gaps, not pure DA3 reconstruction error.",
+    "3px same-pixel neighborhoods require >=3 retained hand pixels; missing/occluded joints excluded and coverage reported.",
+    "No independent sensor depth or mesh-surface ground truth used.",
+    "v61 hand masks may contain arm/cables; mesh intersection restricts surface audit to URDF hand geometry.",
+    "Frame indices matched directly; timestamp irregularity reported, sensor latency not measured.",
+    "Known-K reprojection is diagnostic only, no source data changed."
+  ]
+}

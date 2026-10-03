@@ -1,0 +1,9 @@
+{
+  "native_exporter": "/mnt/afs/WorldAct-pointflow-native/pf_out/run_efep_export.py",
+  "isolated_model": "/mnt/afs/Bench2Dex/analysis/da3_chunk_fix/Track4World/track4world/nets/model.py",
+  "model_sha256": "264d2feb36d62a994d92dc172bd8897a9f4ab7ee651eace4cceb8b7537512627",
+  "seed": 17,
+  "mask_source": "/mnt/afs/Bench2Dex/analysis/sandwich_fixed/run/sam2_masks/episode_0013_20260731_133649",
+  "weights_changed": false,
+  "external_chunks": 0
+}

@@ -1,0 +1,264 @@
+{
+  "invariants": [
+    "All 713 frame scales and focals match independent unmodified-backbone probe.",
+    "Sampled XYZ matches independent own-chunk depth/scale/focal reconstruction within 2 mm.",
+    "All 5 cross-chunk pair endpoints project with the target frame K (P99 <1 px)."
+  ],
+  "boundary_pairs": [
+    {
+      "source": 127,
+      "target": 128,
+      "target_K_reprojection_px": {
+        "n": 286720,
+        "median": 0.08333420358298901,
+        "p95": 0.1824062869499465,
+        "max": 0.35304090987335285
+      },
+      "static_roi_native_jump_mm": {
+        "n": 1140,
+        "median": 79.68531799316406,
+        "p95": 81.64829444885254,
+        "max": 82.63672637939453
+      },
+      "static_roi_fixed_jump_mm": {
+        "n": 1140,
+        "median": 59.53447723388672,
+        "p95": 61.9964111328125,
+        "max": 62.67577362060547
+      },
+      "endpoint_vs_next_depth_xyz_mm": {
+        "n": 205632,
+        "median": 16.088071823120117,
+        "p95": 25.0488103866577,
+        "max": 131.26681518554688
+      }
+    },
+    {
+      "source": 255,
+      "target": 256,
+      "target_K_reprojection_px": {
+        "n": 286720,
+        "median": 0.08155166789274142,
+        "p95": 0.17554278412594237,
+        "max": 0.33559756108500516
+      },
+      "static_roi_native_jump_mm": {
+        "n": 1140,
+        "median": 14.69698715209961,
+        "p95": 17.255593013763427,
+        "max": 18.208663940429688
+      },
+      "static_roi_fixed_jump_mm": {
+        "n": 1140,
+        "median": 134.43984985351562,
+        "p95": 136.78931579589843,
+        "max": 137.09352111816406
+      },
+      "endpoint_vs_next_depth_xyz_mm": {
+        "n": 258437,
+        "median": 12.684394836425781,
+        "p95": 109.695002746582,
+        "max": 150.62571716308594
+      }
+    },
+    {
+      "source": 383,
+      "target": 384,
+      "target_K_reprojection_px": {
+        "n": 286720,
+        "median": 0.08278692037963914,
+        "p95": 0.17284201625966436,
+        "max": 0.3258019018018523
+      },
+      "static_roi_native_jump_mm": {
+        "n": 1140,
+        "median": 18.21733856201172,
+        "p95": 19.09643201828003,
+        "max": 19.44515609741211
+      },
+      "static_roi_fixed_jump_mm": {
+        "n": 1140,
+        "median": 116.87934875488281,
+        "p95": 117.6321922302246,
+        "max": 117.91484832763672
+      },
+      "endpoint_vs_next_depth_xyz_mm": {
+        "n": 281457,
+        "median": 5.559242248535156,
+        "p95": 49.55850753784183,
+        "max": 124.32293701171875
+      }
+    },
+    {
+      "source": 511,
+      "target": 512,
+      "target_K_reprojection_px": {
+        "n": 286720,
+        "median": 0.08402407656909547,
+        "p95": 0.18626946854295734,
+        "max": 0.3670746032569461
+      },
+      "static_roi_native_jump_mm": {
+        "n": 1140,
+        "median": 2.364096164703369,
+        "p95": 3.1024771213531492,
+        "max": 3.2766048908233643
+      },
+      "static_roi_fixed_jump_mm": {
+        "n": 1140,
+        "median": 15.301717758178711,
+        "p95": 16.90604438781738,
+        "max": 17.265182495117188
+      },
+      "endpoint_vs_next_depth_xyz_mm": {
+        "n": 284651,
+        "median": 18.575918197631836,
+        "p95": 72.1135025024414,
+        "max": 139.1563262939453
+      }
+    },
+    {
+      "source": 639,
+      "target": 640,
+      "target_K_reprojection_px": {
+        "n": 286720,
+        "median": 0.09647829295633914,
+        "p95": 0.21386553678910236,
+        "max": 0.41480968330427853
+      },
+      "static_roi_native_jump_mm": {
+        "n": 1140,
+        "median": 6.718456745147705,
+        "p95": 8.34029278755188,
+        "max": 9.203028678894043
+      },
+      "static_roi_fixed_jump_mm": {
+        "n": 1140,
+        "median": 91.46157836914062,
+        "p95": 93.13723678588867,
+        "max": 94.00788879394531
+      },
+      "endpoint_vs_next_depth_xyz_mm": {
+        "n": 284998,
+        "median": 18.555187225341797,
+        "p95": 63.25089797973625,
+        "max": 129.65402221679688
+      }
+    }
+  ],
+  "per_frame_geometry": [
+    {
+      "frame": 0,
+      "independent_xyz_error_mm": {
+        "n": 286720,
+        "median": 0.1491017621077713,
+        "p95": 0.31940019563416344,
+        "max": 0.6174064230700546
+      }
+    },
+    {
+      "frame": 63,
+      "independent_xyz_error_mm": {
+        "n": 286720,
+        "median": 0.1450878380340805,
+        "p95": 0.310517467667314,
+        "max": 0.6195862041399348
+      }
+    },
+    {
+      "frame": 100,
+      "independent_xyz_error_mm": {
+        "n": 286720,
+        "median": 0.1484347984952145,
+        "p95": 0.3142633924748039,
+        "max": 0.6206734681228203
+      }
+    },
+    {
+      "frame": 200,
+      "independent_xyz_error_mm": {
+        "n": 286720,
+        "median": 0.1767988544643471,
+        "p95": 0.4051877209652946,
+        "max": 0.8012388088793356
+      }
+    },
+    {
+      "frame": 300,
+      "independent_xyz_error_mm": {
+        "n": 286720,
+        "median": 0.1552251455737106,
+        "p95": 0.33820562354876993,
+        "max": 0.6854336711338488
+      }
+    },
+    {
+      "frame": 316,
+      "independent_xyz_error_mm": {
+        "n": 286720,
+        "median": 0.15547533561032217,
+        "p95": 0.33990030354487055,
+        "max": 0.6842167510678748
+      }
+    },
+    {
+      "frame": 348,
+      "independent_xyz_error_mm": {
+        "n": 286720,
+        "median": 0.15503544885619758,
+        "p95": 0.33494846949374885,
+        "max": 0.6550722402642757
+      }
+    },
+    {
+      "frame": 379,
+      "independent_xyz_error_mm": {
+        "n": 286720,
+        "median": 0.1585220626304258,
+        "p95": 0.3426312362336728,
+        "max": 0.6917429747125792
+      }
+    },
+    {
+      "frame": 400,
+      "independent_xyz_error_mm": {
+        "n": 286720,
+        "median": 0.16476547587349566,
+        "p95": 0.3604965061562288,
+        "max": 0.647957533753
+      }
+    },
+    {
+      "frame": 500,
+      "independent_xyz_error_mm": {
+        "n": 286720,
+        "median": 0.16309923210308458,
+        "p95": 0.35982957255521136,
+        "max": 0.6534842565163224
+      }
+    },
+    {
+      "frame": 600,
+      "independent_xyz_error_mm": {
+        "n": 286720,
+        "median": 0.15882637229324137,
+        "p95": 0.35182059789916276,
+        "max": 0.6735128060037975
+      }
+    },
+    {
+      "frame": 712,
+      "independent_xyz_error_mm": {
+        "n": 286720,
+        "median": 0.18759879835991766,
+        "p95": 0.4138467608936695,
+        "max": 0.8977679370177218
+      }
+    }
+  ],
+  "limitations": [
+    "World points/poses remain in each DA3 block local world frame; only camera-space export is audited.",
+    "Static ROI jumps and endpoint-vs-next-depth are consistency diagnostics, not independent ground truth.",
+    "Passing unit invariants does not remove DA3 estimation errors or SAM2 missing hand coverage."
+  ]
+}

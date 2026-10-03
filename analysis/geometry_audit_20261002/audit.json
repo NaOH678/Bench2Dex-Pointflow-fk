@@ -1,0 +1,470 @@
+{
+  "episode": "task21/replay-generalization/episode_000000.hdf5",
+  "frames": 713,
+  "qpos_shape": [
+    713,
+    52
+  ],
+  "qpos_origin_replay_max_abs": 0.0,
+  "joint_names_equal_origin_replay": true,
+  "urdf_missing_recorded_joints": [],
+  "recorded_missing_urdf_movable_joints": [],
+  "urdf_joint_count": 77,
+  "usd_joint_count": 77,
+  "usd_missing_urdf_joints": [
+    "L_arm_base_link-L_arm_base_link_inertia",
+    "L_arm_base_link-base_fixed_joint",
+    "L_arm_flange-tool0",
+    "L_arm_wrist_3-flange",
+    "base_link-base_fixed_joint",
+    "base_link-base_link_inertia",
+    "flange-tool0",
+    "wrist_3-flange"
+  ],
+  "usd_meters_per_unit": 1.0,
+  "usd_base_link_world_transform": [
+    [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      1.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      1.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "usd_urdf_fk_link_position_error_mm": {
+    "mean": 6.0428181815714026e-05,
+    "median": 4.529790677867704e-05,
+    "p95": 0.00012462740154375805,
+    "max": 0.00012962024023871444
+  },
+  "usd_urdf_fk_link_orientation_error_deg": {
+    "mean": 7.409340368528791e-06,
+    "median": 6.037091348628668e-06,
+    "p95": 1.3336370687868338e-05,
+    "max": 1.9913252241518953e-05
+  },
+  "usd_joint_name_sanitize_matches": true,
+  "usd_joint_name_note": "Eight fixed-joint names use underscores instead of URDF hyphens; child link topology is used for FK.",
+  "current_code_nominal": {
+    "T_world_from_base": [
+      [
+        1.1102230246251565e-16,
+        -1.0,
+        0.0,
+        0.5
+      ],
+      [
+        1.0,
+        1.1102230246251565e-16,
+        0.0,
+        -0.43
+      ],
+      [
+        0.0,
+        0.0,
+        1.0,
+        0.75
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "all_center_error_mm": {
+      "mean": 5.529420335087158,
+      "median": 2.7350100282634697,
+      "p95": 19.063386415105654,
+      "max": 38.354056550871846
+    },
+    "heldout_center_error_mm": {
+      "mean": 5.396761603504532,
+      "median": 2.629917972123044,
+      "p95": 18.743498693594685,
+      "max": 38.354056550871846
+    },
+    "right_error_mm": {
+      "mean": 5.379397984323716,
+      "median": 2.6681710510097076,
+      "p95": 18.583606476978694,
+      "max": 38.354056550871846
+    },
+    "left_error_mm": {
+      "mean": 5.679442685850602,
+      "median": 2.7951624028944257,
+      "p95": 20.468841897009835,
+      "max": 35.363808187612406
+    }
+  },
+  "fit_first100_frames": {
+    "T_world_from_base": [
+      [
+        -0.006397642377885249,
+        -0.999948794939629,
+        -0.007840769782974565,
+        0.5062149215780782
+      ],
+      [
+        0.9997184229045027,
+        -0.006574948023499604,
+        0.022800108855485893,
+        -0.43110451958001433
+      ],
+      [
+        -0.022850494028322826,
+        -0.007692695059158493,
+        0.9997092964284114,
+        0.7660733262029293
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "all_center_error_mm": {
+      "mean": 8.258204564139724,
+      "median": 8.065467603275426,
+      "p95": 20.509500286069496,
+      "max": 42.78742656366607
+    },
+    "heldout_center_error_mm": {
+      "mean": 8.640911925872041,
+      "median": 8.29793596790993,
+      "p95": 20.048894897649255,
+      "max": 42.78742656366607
+    },
+    "right_error_mm": {
+      "mean": 9.896605670491885,
+      "median": 8.805440125425847,
+      "p95": 20.922917617394607,
+      "max": 42.78742656366607
+    },
+    "left_error_mm": {
+      "mean": 6.619803457787559,
+      "median": 4.478324186794699,
+      "p95": 19.341411336999315,
+      "max": 35.03130910887688
+    }
+  },
+  "fitted_vs_nominal_translation_m": [
+    0.006214921578078236,
+    -0.0011045195800143404,
+    0.01607332620292934
+  ],
+  "fitted_vs_nominal_rotation_deg": 1.430695376057726,
+  "wrist_extrinsic_lag_scan": {
+    "-4": {
+      "definition": "qpos index minus camera extrinsic index",
+      "center_error_mm": {
+        "mean": 16.17693725238381,
+        "median": 8.019318368038858,
+        "p95": 55.60864406298355,
+        "max": 109.6761103040532
+      }
+    },
+    "-3": {
+      "definition": "qpos index minus camera extrinsic index",
+      "center_error_mm": {
+        "mean": 10.934777563695217,
+        "median": 5.459459642373577,
+        "p95": 37.56860492985654,
+        "max": 76.27196359479217
+      }
+    },
+    "-2": {
+      "definition": "qpos index minus camera extrinsic index",
+      "center_error_mm": {
+        "mean": 5.524648856203991,
+        "median": 2.734925845785454,
+        "p95": 18.993114095433,
+        "max": 38.35376361440908
+      }
+    },
+    "-1": {
+      "definition": "qpos index minus camera extrinsic index",
+      "center_error_mm": {
+        "mean": 0.0002475167083184242,
+        "median": 0.00023301762397497422,
+        "p95": 0.0004471853139593093,
+        "max": 0.0007311655246250386
+      }
+    },
+    "0": {
+      "definition": "qpos index minus camera extrinsic index",
+      "center_error_mm": {
+        "mean": 5.529420335087158,
+        "median": 2.7350100282634697,
+        "p95": 19.063386415105654,
+        "max": 38.354056550871846
+      }
+    },
+    "1": {
+      "definition": "qpos index minus camera extrinsic index",
+      "center_error_mm": {
+        "mean": 10.953572312249662,
+        "median": 5.459577536252906,
+        "p95": 37.57810408362668,
+        "max": 76.27214666033795
+      }
+    },
+    "2": {
+      "definition": "qpos index minus camera extrinsic index",
+      "center_error_mm": {
+        "mean": 16.25631157895242,
+        "median": 8.068077686359135,
+        "p95": 56.28462451207476,
+        "max": 109.67623593070304
+      }
+    },
+    "3": {
+      "definition": "qpos index minus camera extrinsic index",
+      "center_error_mm": {
+        "mean": 21.398982296794642,
+        "median": 10.709582284718643,
+        "p95": 73.02726546612836,
+        "max": 139.63718284674417
+      }
+    },
+    "4": {
+      "definition": "qpos index minus camera extrinsic index",
+      "center_error_mm": {
+        "mean": 26.392298973648163,
+        "median": 13.281414894084113,
+        "p95": 90.11613296466818,
+        "max": 152.52866767203167
+      }
+    }
+  },
+  "base_fit_after_lag_correction": {
+    "calibration": "qpos frames 0..99 versus camera extrinsics 1..100, both wrists",
+    "T_world_from_base": [
+      [
+        8.422068709341308e-08,
+        -0.9999999999999112,
+        4.1286827489314564e-07,
+        0.49999972142342874
+      ],
+      [
+        0.999999999999909,
+        8.422086023252909e-08,
+        4.1910388792161616e-07,
+        -0.430000287843728
+      ],
+      [
+        -4.1910392318177695e-07,
+        4.128682395022556e-07,
+        0.999999999999827,
+        0.7499999458401427
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "heldout_center_error_mm": {
+      "mean": 0.0002425646142055648,
+      "median": 0.0002315302721631307,
+      "p95": 0.00043062792160596444,
+      "max": 0.0006585734093052898
+    },
+    "translation_difference_from_nominal_m": [
+      -2.785765712554067e-07,
+      -2.878437280195989e-07,
+      -5.415985726564543e-08
+    ],
+    "rotation_difference_from_nominal_deg": 3.40226387745809e-05
+  },
+  "lag_corrected_wrist_orientation_error_deg": {
+    "mean": 0.007316182062206257,
+    "median": 0.0,
+    "p95": 0.025549343716915335,
+    "max": 0.040810434469685554
+  },
+  "cameras": {
+    "cam_chest": {
+      "rgb_shape": [
+        713
+      ],
+      "intrinsic": [
+        [
+          549.7494506835938,
+          0.0,
+          320.0
+        ],
+        [
+          0.0,
+          549.7494506835938,
+          240.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "extrinsics_finite": true,
+      "camera_model": "pinhole"
+    },
+    "cam_overhead": {
+      "rgb_shape": [
+        713
+      ],
+      "intrinsic": [
+        [
+          458.1245422363281,
+          0.0,
+          320.0
+        ],
+        [
+          0.0,
+          458.1245422363281,
+          240.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "extrinsics_finite": true,
+      "camera_model": "pinhole"
+    },
+    "cam_stereo_left": {
+      "rgb_shape": [
+        713
+      ],
+      "intrinsic": [
+        [
+          224.1756134033203,
+          0.0,
+          320.0
+        ],
+        [
+          0.0,
+          224.1756134033203,
+          240.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "extrinsics_finite": true,
+      "camera_model": "pinhole"
+    },
+    "cam_stereo_right": {
+      "rgb_shape": [
+        713
+      ],
+      "intrinsic": [
+        [
+          224.1756134033203,
+          0.0,
+          320.0
+        ],
+        [
+          0.0,
+          224.1756134033203,
+          240.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "extrinsics_finite": true,
+      "camera_model": "pinhole"
+    },
+    "cam_wrist_left": {
+      "rgb_shape": [
+        713
+      ],
+      "intrinsic": [
+        [
+          169.70559692382812,
+          0.0,
+          320.0
+        ],
+        [
+          0.0,
+          169.70559692382812,
+          240.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "extrinsics_finite": true,
+      "camera_model": "fisheye"
+    },
+    "cam_wrist_right": {
+      "rgb_shape": [
+        713
+      ],
+      "intrinsic": [
+        [
+          169.70559692382812,
+          0.0,
+          320.0
+        ],
+        [
+          0.0,
+          169.70559692382812,
+          240.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "extrinsics_finite": true,
+      "camera_model": "fisheye"
+    }
+  },
+  "depth_available": false,
+  "metadata_created_at": "2026-07-07T13:23:12.092516+00:00",
+  "metadata_has_asset_or_code_hash": false,
+  "inputs_sha256": {
+    "/tmp/bench2dex_wuji.urdf": "14ba7ae6298a2e4fc0511345e0208050e53ec22c34c9aefa4f1bb8a5574ab47a",
+    "/tmp/bench2dex_usd/Multi_UR5_wuji_with_flange.usd": "fb8025178cc43de0006bf81e928858948ab947080dea239666afb3af8c07e59e",
+    "/tmp/bench2dex_usd/configuration/Multi_UR5_wuji_with_flange_base.usd": "7ae66a7b0f259d5f726087f5b4dae0686f3b671ec5fe9b3d78609c3bc14882db",
+    "/tmp/bench2dex_usd/configuration/Multi_UR5_wuji_with_flange_physics.usd": "d24db30c17d4cc6eb90303afc476a9758fd2054da6f6be5d9f1349319d389305",
+    "/tmp/bench2dex_usd/configuration/Multi_UR5_wuji_with_flange_robot.usd": "ebd5055399703457e3b3443a930241418e2aa5a52c7a80f3a2c5ebbdf5c72cdd",
+    "/tmp/bench2dex_usd/configuration/Multi_UR5_wuji_with_flange_sensor.usd": "3beff4e9b3cdc0d6f61d23a1f7e8dd48edf75cca5416646034c2312564d16369",
+    "/tmp/bench2dex_replay21_ep0.hdf5": "bd1b6452e9ba050d417c4fed46da25451184b0c1c40147643a9d59c11fb0ac32",
+    "/tmp/bench2dex_origin21_ep0.hdf5": "b00b7a61d580c7b58ed1e5e1f804b6ef279b94261e0d76713531b952de6329e9"
+  },
+  "limitations": [
+    "One task21 episode sampled; not a full dataset audit.",
+    "USD joint transforms evaluated algebraically without an Isaac physics rollout.",
+    "RGB skeleton overlay is qualitative; RGB frame lag is not established by the extrinsic lag test.",
+    "Separate DA3 depth-backbone probe and measurements are stored in da3_probe*.json and da3_metric_audit*.json; no full Track4World trajectory evaluation."
+  ]
+}

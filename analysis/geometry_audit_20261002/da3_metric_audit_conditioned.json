@@ -1,0 +1,335 @@
+{
+  "table_z_world_m": 0.7261626437802428,
+  "table_patch_original_pixels": {
+    "u": [
+      260,
+      420
+    ],
+    "v": [
+      250,
+      300
+    ]
+  },
+  "frames": [
+    {
+      "frame": 0,
+      "focal_true_pixels": 360.7731018066406,
+      "focal_pred_pixels": 361.4010314941406,
+      "pred_principal_point": [
+        252.0,
+        189.0
+      ],
+      "true_principal_point": [
+        252.0,
+        189.0
+      ],
+      "true_patch_depth_m": {
+        "count": 5040,
+        "mean": 1.076169772941836,
+        "median": 1.0761695106023323,
+        "p95": 1.0770512170530495,
+        "max": 1.0774301872729848
+      },
+      "raw_patch_depth_m": {
+        "count": 5040,
+        "mean": 1.1159926652908325,
+        "median": 1.1159489154815674,
+        "p95": 1.117078310251236,
+        "max": 1.1174993515014648
+      },
+      "focal_scale": 0.9875520280535374,
+      "oracle_table_scale": 0.9643571496914296,
+      "table_abs_depth_error_mm": {
+        "raw": {
+          "count": 5040,
+          "mean": 39.82291503187525,
+          "median": 39.77631119887792,
+          "p95": 40.68553264708391,
+          "max": 41.336350136194746
+        },
+        "focal_corrected": {
+          "count": 5040,
+          "mean": 25.931089644473065,
+          "median": 25.884399133067504,
+          "p95": 26.7849271427293,
+          "max": 27.441315346155683
+        },
+        "oracle_table_scale_frame0": {
+          "count": 5040,
+          "mean": 0.4712302300876998,
+          "median": 0.44900400622138736,
+          "p95": 0.9976496158407123,
+          "max": 1.5501305393319509
+        },
+        "oracle_table_scale_per_frame": {
+          "count": 5040,
+          "mean": 0.4712302300876998,
+          "median": 0.44900400622138736,
+          "p95": 0.9976496158407123,
+          "max": 1.5501305393319509
+        }
+      },
+      "hand_surface": {
+        "ray_count": 1067,
+        "true_depth_m": {
+          "count": 1067,
+          "mean": 0.6181543583616615,
+          "median": 0.6166167512909956,
+          "p95": 0.6418226221988383,
+          "max": 0.6511970782630814
+        },
+        "raw_depth_m": {
+          "count": 1067,
+          "mean": 0.7436107993125916,
+          "median": 0.7304180264472961,
+          "p95": 0.804741072654724,
+          "max": 1.1234997510910034
+        },
+        "oracle_hand_scale": 0.844479146487554,
+        "xyz_error_mm": {
+          "raw_predicted_intrinsics": {
+            "count": 1067,
+            "mean": 151.2672940842861,
+            "median": 136.54843705095854,
+            "p95": 192.07553771585148,
+            "max": 658.9630971030948
+          },
+          "true_intrinsics_only": {
+            "count": 1067,
+            "mean": 153.08517811328886,
+            "median": 138.34410505985977,
+            "p95": 193.70114713776178,
+            "max": 664.1663903477881
+          },
+          "true_intrinsics_and_focal_scale": {
+            "count": 1067,
+            "mean": 141.79909581945407,
+            "median": 127.2499384735619,
+            "p95": 182.1755119316724,
+            "max": 646.2423922481931
+          },
+          "true_intrinsics_and_oracle_table_scale": {
+            "count": 1067,
+            "mean": 120.7691639175407,
+            "median": 106.71225674211023,
+            "p95": 160.46239652191298,
+            "max": 612.843654157671
+          }
+        },
+        "abs_depth_error_mm": {
+          "raw": {
+            "count": 1067,
+            "mean": 125.45641514273333,
+            "median": 113.49584747459728,
+            "p95": 166.98254887562055,
+            "max": 518.2186782862443
+          },
+          "focal_corrected": {
+            "count": 1067,
+            "mean": 116.19998228859842,
+            "median": 104.3989246590834,
+            "p95": 156.905126018336,
+            "max": 504.23340206401537
+          },
+          "oracle_table_scale_frame0": {
+            "count": 1067,
+            "mean": 98.95199959534365,
+            "median": 87.4404512465139,
+            "p95": 138.0806378820214,
+            "max": 478.17389374034593
+          },
+          "oracle_table_scale_per_frame": {
+            "count": 1067,
+            "mean": 98.95199959534365,
+            "median": 87.4404512465139,
+            "p95": 138.0806378820214,
+            "max": 478.17389374034593
+          }
+        }
+      }
+    },
+    {
+      "frame": 200,
+      "focal_true_pixels": 360.7731018066406,
+      "focal_pred_pixels": 363.1750793457031,
+      "pred_principal_point": [
+        252.0,
+        189.0
+      ],
+      "true_principal_point": [
+        252.0,
+        189.0
+      ],
+      "true_patch_depth_m": {
+        "count": 5040,
+        "mean": 1.076169772941836,
+        "median": 1.0761695106023323,
+        "p95": 1.0770512170530495,
+        "max": 1.0774301872729848
+      },
+      "raw_patch_depth_m": {
+        "count": 5040,
+        "mean": 1.0280920267105103,
+        "median": 1.02800714969635,
+        "p95": 1.0327808141708374,
+        "max": 1.0351111888885498
+      },
+      "focal_scale": 0.9868948442819425,
+      "oracle_table_scale": 1.0468807848973503,
+      "table_abs_depth_error_mm": {
+        "raw": {
+          "count": 5040,
+          "mean": 48.077703136221444,
+          "median": 48.19529955718815,
+          "p95": 52.24766118143315,
+          "max": 53.833300288465665
+        },
+        "focal_corrected": {
+          "count": 5040,
+          "mean": 61.55100828968975,
+          "median": 61.66607423462489,
+          "p95": 65.65683467005009,
+          "max": 67.21501987769906
+        },
+        "oracle_table_scale_frame0": {
+          "count": 5040,
+          "mean": 84.72184730325112,
+          "median": 84.8355071858361,
+          "p95": 88.71701494064148,
+          "max": 90.22837322547738
+        },
+        "oracle_table_scale_per_frame": {
+          "count": 5040,
+          "mean": 2.222769287282365,
+          "median": 2.2503189703588777,
+          "p95": 4.774197266856585,
+          "max": 6.207884740870195
+        }
+      }
+    },
+    {
+      "frame": 400,
+      "focal_true_pixels": 360.7731018066406,
+      "focal_pred_pixels": 363.1356201171875,
+      "pred_principal_point": [
+        252.0,
+        189.0
+      ],
+      "true_principal_point": [
+        252.0,
+        189.0
+      ],
+      "true_patch_depth_m": {
+        "count": 5040,
+        "mean": 1.076169772941836,
+        "median": 1.0761695106023323,
+        "p95": 1.0770512170530495,
+        "max": 1.0774301872729848
+      },
+      "raw_patch_depth_m": {
+        "count": 5040,
+        "mean": 0.9000933766365051,
+        "median": 0.9001931548118591,
+        "p95": 0.9028887301683426,
+        "max": 0.9037431478500366
+      },
+      "focal_scale": 0.9864224174256587,
+      "oracle_table_scale": 1.1955103027122587,
+      "table_abs_depth_error_mm": {
+        "raw": {
+          "count": 5040,
+          "mean": 176.07644391808873,
+          "median": 175.97882211951497,
+          "p95": 179.27786784246132,
+          "max": 180.71149059678459
+        },
+        "focal_corrected": {
+          "count": 5040,
+          "mean": 188.2975338814908,
+          "median": 188.20253999395786,
+          "p95": 191.4569709851893,
+          "max": 192.87310310746574
+        },
+        "oracle_table_scale_frame0": {
+          "count": 5040,
+          "mean": 208.1583467021033,
+          "median": 208.05929390980026,
+          "p95": 211.24915932358115,
+          "max": 212.6372284546032
+        },
+        "oracle_table_scale_per_frame": {
+          "count": 5040,
+          "mean": 1.8066552785966206,
+          "median": 1.6772982239479095,
+          "p95": 4.001040951102797,
+          "max": 5.5907196655407
+        }
+      }
+    },
+    {
+      "frame": 600,
+      "focal_true_pixels": 360.7731018066406,
+      "focal_pred_pixels": 368.32073974609375,
+      "pred_principal_point": [
+        252.0,
+        189.0
+      ],
+      "true_principal_point": [
+        252.0,
+        189.0
+      ],
+      "true_patch_depth_m": {
+        "count": 5040,
+        "mean": 1.076169772941836,
+        "median": 1.0761695106023323,
+        "p95": 1.0770512170530495,
+        "max": 1.0774301872729848
+      },
+      "raw_patch_depth_m": {
+        "count": 5040,
+        "mean": 0.918292224407196,
+        "median": 0.9184007048606873,
+        "p95": 0.920498651266098,
+        "max": 0.9213258624076843
+      },
+      "focal_scale": 0.9718445472982036,
+      "oracle_table_scale": 1.1717945366272957,
+      "table_abs_depth_error_mm": {
+        "raw": {
+          "count": 5040,
+          "mean": 157.87757996899424,
+          "median": 157.77559907155847,
+          "p95": 159.88639544398387,
+          "max": 160.75543491392574
+        },
+        "focal_corrected": {
+          "count": 5040,
+          "mean": 183.7325065135167,
+          "median": 183.62808564742807,
+          "p95": 185.67509806328798,
+          "max": 186.52115194349727
+        },
+        "oracle_table_scale_frame0": {
+          "count": 5040,
+          "mean": 190.60814233896906,
+          "median": 190.50152782814644,
+          "p95": 192.53541819883205,
+          "max": 193.3730038836523
+        },
+        "oracle_table_scale_per_frame": {
+          "count": 5040,
+          "mean": 1.195217961615535,
+          "median": 1.1091024919832604,
+          "p95": 2.547665749779871,
+          "max": 3.5438052240759355
+        }
+      }
+    }
+  ],
+  "limitations": [
+    "Four single-frame depth-backbone probes only; not full Track4World tracking.",
+    "Table scale uses known scene geometry as an offline oracle diagnostic.",
+    "Hand truth is FK-posed visual mesh ray intersection, not joint-center depth.",
+    "Frame0 hand mask is conservative and qualitatively inspected; robot RGB time alignment has not been numerically measured."
+  ]
+}

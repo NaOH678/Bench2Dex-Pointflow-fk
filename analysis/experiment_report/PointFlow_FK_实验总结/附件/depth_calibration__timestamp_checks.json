@@ -1,0 +1,4610 @@
+[
+  {
+    "group": "sandwich",
+    "episode": "episode_0000_20260730_163803",
+    "depth_frame": 0,
+    "rgb_frame": 0,
+    "dt_ms": 2.702474594116211,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0000_20260730_163803",
+    "depth_frame": 84,
+    "rgb_frame": 84,
+    "dt_ms": 7.9498291015625,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0000_20260730_163803",
+    "depth_frame": 174,
+    "rgb_frame": 174,
+    "dt_ms": 13.590097427368164,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0000_20260730_163803",
+    "depth_frame": 259,
+    "rgb_frame": 258,
+    "dt_ms": -14.708280563354492,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0000_20260730_163803",
+    "depth_frame": 349,
+    "rgb_frame": 348,
+    "dt_ms": -8.840799331665039,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0000_20260730_163803",
+    "depth_frame": 434,
+    "rgb_frame": 433,
+    "dt_ms": -3.8077831268310547,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0000_20260730_163803",
+    "depth_frame": 523,
+    "rgb_frame": 523,
+    "dt_ms": 1.7397403717041016,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0000_20260730_163803",
+    "depth_frame": 608,
+    "rgb_frame": 608,
+    "dt_ms": 7.043123245239258,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0000_20260730_163803",
+    "depth_frame": 698,
+    "rgb_frame": 698,
+    "dt_ms": 12.677431106567383,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0000_20260730_163803",
+    "depth_frame": 783,
+    "rgb_frame": 782,
+    "dt_ms": -15.546798706054688,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0000_20260730_163803",
+    "depth_frame": 873,
+    "rgb_frame": 872,
+    "dt_ms": -9.579896926879883,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0000_20260730_163803",
+    "depth_frame": 958,
+    "rgb_frame": 957,
+    "dt_ms": -4.691600799560547,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0000_20260730_163803",
+    "depth_frame": 1047,
+    "rgb_frame": 1047,
+    "dt_ms": 1.0297298431396484,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0000_20260730_163803",
+    "depth_frame": 1132,
+    "rgb_frame": 1132,
+    "dt_ms": 6.161212921142578,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0000_20260730_163803",
+    "depth_frame": 1222,
+    "rgb_frame": 1222,
+    "dt_ms": 11.774301528930664,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0000_20260730_163803",
+    "depth_frame": 1307,
+    "rgb_frame": 1306,
+    "dt_ms": -16.42918586730957,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0000_20260730_163803",
+    "depth_frame": 1397,
+    "rgb_frame": 1396,
+    "dt_ms": -10.760307312011719,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0000_20260730_163803",
+    "depth_frame": 1482,
+    "rgb_frame": 1481,
+    "dt_ms": -5.002021789550781,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0000_20260730_163803",
+    "depth_frame": 1571,
+    "rgb_frame": 1571,
+    "dt_ms": 0.45418739318847656,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0000_20260730_163803",
+    "depth_frame": 1656,
+    "rgb_frame": 1656,
+    "dt_ms": 5.355119705200195,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0000_20260730_163803",
+    "depth_frame": 1747,
+    "rgb_frame": 1746,
+    "dt_ms": 10.809898376464844,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0000_20260730_163803",
+    "depth_frame": 1832,
+    "rgb_frame": 1831,
+    "dt_ms": 16.152381896972656,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0000_20260730_163803",
+    "depth_frame": 1921,
+    "rgb_frame": 1920,
+    "dt_ms": -11.79814338684082,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0000_20260730_163803",
+    "depth_frame": 2011,
+    "rgb_frame": 2010,
+    "dt_ms": -5.523920059204102,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0013_20260730_170250",
+    "depth_frame": 3,
+    "rgb_frame": 3,
+    "dt_ms": 7.622957229614258,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0013_20260730_170250",
+    "depth_frame": 58,
+    "rgb_frame": 58,
+    "dt_ms": 11.043071746826172,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0013_20260730_170250",
+    "depth_frame": 113,
+    "rgb_frame": 113,
+    "dt_ms": 14.435052871704102,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0013_20260730_170250",
+    "depth_frame": 173,
+    "rgb_frame": 172,
+    "dt_ms": -15.11836051940918,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0013_20260730_170250",
+    "depth_frame": 228,
+    "rgb_frame": 227,
+    "dt_ms": -11.586666107177734,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0013_20260730_170250",
+    "depth_frame": 283,
+    "rgb_frame": 282,
+    "dt_ms": -8.153915405273438,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0013_20260730_170250",
+    "depth_frame": 348,
+    "rgb_frame": 347,
+    "dt_ms": -4.192352294921875,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0013_20260730_170250",
+    "depth_frame": 407,
+    "rgb_frame": 407,
+    "dt_ms": 0.2110004425048828,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0013_20260730_170250",
+    "depth_frame": 467,
+    "rgb_frame": 467,
+    "dt_ms": 3.274679183959961,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0013_20260730_170250",
+    "depth_frame": 522,
+    "rgb_frame": 522,
+    "dt_ms": 6.297588348388672,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0013_20260730_170250",
+    "depth_frame": 577,
+    "rgb_frame": 577,
+    "dt_ms": 9.798049926757812,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0013_20260730_170250",
+    "depth_frame": 636,
+    "rgb_frame": 636,
+    "dt_ms": 13.585567474365234,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0013_20260730_170250",
+    "depth_frame": 691,
+    "rgb_frame": 690,
+    "dt_ms": -16.27326011657715,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0013_20260730_170250",
+    "depth_frame": 751,
+    "rgb_frame": 750,
+    "dt_ms": -12.501239776611328,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0013_20260730_170250",
+    "depth_frame": 806,
+    "rgb_frame": 805,
+    "dt_ms": -8.517265319824219,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0013_20260730_170250",
+    "depth_frame": 866,
+    "rgb_frame": 865,
+    "dt_ms": -5.290508270263672,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0013_20260730_170250",
+    "depth_frame": 926,
+    "rgb_frame": 925,
+    "dt_ms": -0.7996559143066406,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0013_20260730_170250",
+    "depth_frame": 980,
+    "rgb_frame": 980,
+    "dt_ms": 1.6942024230957031,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0013_20260730_170250",
+    "depth_frame": 1040,
+    "rgb_frame": 1040,
+    "dt_ms": 5.402565002441406,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0013_20260730_170250",
+    "depth_frame": 1095,
+    "rgb_frame": 1095,
+    "dt_ms": 8.750200271606445,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0013_20260730_170250",
+    "depth_frame": 1150,
+    "rgb_frame": 1150,
+    "dt_ms": 12.269735336303711,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0013_20260730_170250",
+    "depth_frame": 1210,
+    "rgb_frame": 1210,
+    "dt_ms": 15.863895416259766,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0013_20260730_170250",
+    "depth_frame": 1266,
+    "rgb_frame": 1264,
+    "dt_ms": -13.776540756225586,
+    "index_offset": -2
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0013_20260730_170250",
+    "depth_frame": 1325,
+    "rgb_frame": 1324,
+    "dt_ms": -10.27369499206543,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0019_20260730_171242",
+    "depth_frame": 0,
+    "rgb_frame": 0,
+    "dt_ms": 5.509376525878906,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0019_20260730_171242",
+    "depth_frame": 54,
+    "rgb_frame": 54,
+    "dt_ms": 9.070396423339844,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0019_20260730_171242",
+    "depth_frame": 114,
+    "rgb_frame": 114,
+    "dt_ms": 12.851715087890625,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0019_20260730_171242",
+    "depth_frame": 169,
+    "rgb_frame": 169,
+    "dt_ms": 15.972375869750977,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0019_20260730_171242",
+    "depth_frame": 229,
+    "rgb_frame": 228,
+    "dt_ms": -13.126611709594727,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0019_20260730_171242",
+    "depth_frame": 289,
+    "rgb_frame": 288,
+    "dt_ms": -9.650468826293945,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0019_20260730_171242",
+    "depth_frame": 344,
+    "rgb_frame": 343,
+    "dt_ms": -5.87153434753418,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0019_20260730_171242",
+    "depth_frame": 404,
+    "rgb_frame": 403,
+    "dt_ms": -2.4302005767822266,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0019_20260730_171242",
+    "depth_frame": 463,
+    "rgb_frame": 463,
+    "dt_ms": 0.9169578552246094,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0019_20260730_171242",
+    "depth_frame": 518,
+    "rgb_frame": 518,
+    "dt_ms": 4.41431999206543,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0019_20260730_171242",
+    "depth_frame": 578,
+    "rgb_frame": 578,
+    "dt_ms": 8.04448127746582,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0019_20260730_171242",
+    "depth_frame": 638,
+    "rgb_frame": 638,
+    "dt_ms": 11.757850646972656,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0019_20260730_171242",
+    "depth_frame": 693,
+    "rgb_frame": 693,
+    "dt_ms": 15.112876892089844,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0019_20260730_171242",
+    "depth_frame": 753,
+    "rgb_frame": 752,
+    "dt_ms": -13.982772827148438,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0019_20260730_171242",
+    "depth_frame": 813,
+    "rgb_frame": 812,
+    "dt_ms": -10.711669921875,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0019_20260730_171242",
+    "depth_frame": 868,
+    "rgb_frame": 867,
+    "dt_ms": -7.283449172973633,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0019_20260730_171242",
+    "depth_frame": 928,
+    "rgb_frame": 927,
+    "dt_ms": -3.3669471740722656,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0019_20260730_171242",
+    "depth_frame": 987,
+    "rgb_frame": 987,
+    "dt_ms": 0.43487548828125,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0019_20260730_171242",
+    "depth_frame": 1042,
+    "rgb_frame": 1042,
+    "dt_ms": 3.635406494140625,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0019_20260730_171242",
+    "depth_frame": 1102,
+    "rgb_frame": 1102,
+    "dt_ms": 7.315635681152344,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0019_20260730_171242",
+    "depth_frame": 1162,
+    "rgb_frame": 1162,
+    "dt_ms": 11.031150817871094,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0019_20260730_171242",
+    "depth_frame": 1217,
+    "rgb_frame": 1217,
+    "dt_ms": 14.351129531860352,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0019_20260730_171242",
+    "depth_frame": 1277,
+    "rgb_frame": 1276,
+    "dt_ms": -14.899969100952148,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0019_20260730_171242",
+    "depth_frame": 1337,
+    "rgb_frame": 1336,
+    "dt_ms": -11.55233383178711,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0023_20260731_134714",
+    "depth_frame": 0,
+    "rgb_frame": 0,
+    "dt_ms": 0.28133392333984375,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0023_20260731_134714",
+    "depth_frame": 65,
+    "rgb_frame": 65,
+    "dt_ms": 3.5250186920166016,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0023_20260731_134714",
+    "depth_frame": 130,
+    "rgb_frame": 130,
+    "dt_ms": 7.05265998840332,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0023_20260731_134714",
+    "depth_frame": 200,
+    "rgb_frame": 200,
+    "dt_ms": 11.846542358398438,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0023_20260731_134714",
+    "depth_frame": 265,
+    "rgb_frame": 265,
+    "dt_ms": 15.823841094970703,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0023_20260731_134714",
+    "depth_frame": 330,
+    "rgb_frame": 329,
+    "dt_ms": -13.201236724853516,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0023_20260731_134714",
+    "depth_frame": 400,
+    "rgb_frame": 399,
+    "dt_ms": -8.8958740234375,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0023_20260731_134714",
+    "depth_frame": 465,
+    "rgb_frame": 464,
+    "dt_ms": -4.972934722900391,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0023_20260731_134714",
+    "depth_frame": 535,
+    "rgb_frame": 534,
+    "dt_ms": -0.11348724365234375,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0023_20260731_134714",
+    "depth_frame": 599,
+    "rgb_frame": 599,
+    "dt_ms": 3.3562183380126953,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0023_20260731_134714",
+    "depth_frame": 664,
+    "rgb_frame": 664,
+    "dt_ms": 7.12132453918457,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0023_20260731_134714",
+    "depth_frame": 734,
+    "rgb_frame": 734,
+    "dt_ms": 11.63935661315918,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0023_20260731_134714",
+    "depth_frame": 799,
+    "rgb_frame": 799,
+    "dt_ms": 15.626907348632812,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0023_20260731_134714",
+    "depth_frame": 869,
+    "rgb_frame": 868,
+    "dt_ms": -12.999534606933594,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0023_20260731_134714",
+    "depth_frame": 934,
+    "rgb_frame": 933,
+    "dt_ms": -9.031295776367188,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0023_20260731_134714",
+    "depth_frame": 999,
+    "rgb_frame": 998,
+    "dt_ms": -5.025625228881836,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0023_20260731_134714",
+    "depth_frame": 1069,
+    "rgb_frame": 1068,
+    "dt_ms": -0.3361701965332031,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0023_20260731_134714",
+    "depth_frame": 1133,
+    "rgb_frame": 1133,
+    "dt_ms": 2.958059310913086,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0023_20260731_134714",
+    "depth_frame": 1203,
+    "rgb_frame": 1203,
+    "dt_ms": 7.057905197143555,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0023_20260731_134714",
+    "depth_frame": 1268,
+    "rgb_frame": 1268,
+    "dt_ms": 11.333465576171875,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0023_20260731_134714",
+    "depth_frame": 1333,
+    "rgb_frame": 1333,
+    "dt_ms": 15.294313430786133,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0023_20260731_134714",
+    "depth_frame": 1403,
+    "rgb_frame": 1402,
+    "dt_ms": -13.375997543334961,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0023_20260731_134714",
+    "depth_frame": 1468,
+    "rgb_frame": 1467,
+    "dt_ms": -9.637594223022461,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0023_20260731_134714",
+    "depth_frame": 1538,
+    "rgb_frame": 1537,
+    "dt_ms": -4.966497421264648,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0029_20260730_172413",
+    "depth_frame": 1,
+    "rgb_frame": 0,
+    "dt_ms": -9.628534317016602,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0029_20260730_172413",
+    "depth_frame": 55,
+    "rgb_frame": 54,
+    "dt_ms": -6.409645080566406,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0029_20260730_172413",
+    "depth_frame": 110,
+    "rgb_frame": 109,
+    "dt_ms": -3.113985061645508,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0029_20260730_172413",
+    "depth_frame": 173,
+    "rgb_frame": 173,
+    "dt_ms": 0.579833984375,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0029_20260730_172413",
+    "depth_frame": 228,
+    "rgb_frame": 228,
+    "dt_ms": 4.286766052246094,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0029_20260730_172413",
+    "depth_frame": 283,
+    "rgb_frame": 283,
+    "dt_ms": 7.522344589233398,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0029_20260730_172413",
+    "depth_frame": 343,
+    "rgb_frame": 343,
+    "dt_ms": 11.15560531616211,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0029_20260730_172413",
+    "depth_frame": 398,
+    "rgb_frame": 398,
+    "dt_ms": 14.643192291259766,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0029_20260730_172413",
+    "depth_frame": 458,
+    "rgb_frame": 457,
+    "dt_ms": -15.121698379516602,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0029_20260730_172413",
+    "depth_frame": 513,
+    "rgb_frame": 512,
+    "dt_ms": -11.739015579223633,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0029_20260730_172413",
+    "depth_frame": 568,
+    "rgb_frame": 567,
+    "dt_ms": -8.325815200805664,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0029_20260730_172413",
+    "depth_frame": 628,
+    "rgb_frame": 627,
+    "dt_ms": -4.607677459716797,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0029_20260730_172413",
+    "depth_frame": 683,
+    "rgb_frame": 682,
+    "dt_ms": -0.3578662872314453,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0029_20260730_172413",
+    "depth_frame": 742,
+    "rgb_frame": 742,
+    "dt_ms": 2.494335174560547,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0029_20260730_172413",
+    "depth_frame": 797,
+    "rgb_frame": 797,
+    "dt_ms": 6.040334701538086,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0029_20260730_172413",
+    "depth_frame": 852,
+    "rgb_frame": 852,
+    "dt_ms": 9.575366973876953,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0029_20260730_172413",
+    "depth_frame": 912,
+    "rgb_frame": 912,
+    "dt_ms": 13.063192367553711,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0029_20260730_172413",
+    "depth_frame": 967,
+    "rgb_frame": 966,
+    "dt_ms": -16.509294509887695,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0029_20260730_172413",
+    "depth_frame": 1027,
+    "rgb_frame": 1026,
+    "dt_ms": -12.649059295654297,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0029_20260730_172413",
+    "depth_frame": 1082,
+    "rgb_frame": 1081,
+    "dt_ms": -9.546041488647461,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0029_20260730_172413",
+    "depth_frame": 1137,
+    "rgb_frame": 1136,
+    "dt_ms": -6.051778793334961,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0029_20260730_172413",
+    "depth_frame": 1197,
+    "rgb_frame": 1196,
+    "dt_ms": -2.1011829376220703,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0029_20260730_172413",
+    "depth_frame": 1251,
+    "rgb_frame": 1251,
+    "dt_ms": 0.8504390716552734,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0029_20260730_172413",
+    "depth_frame": 1311,
+    "rgb_frame": 1311,
+    "dt_ms": 4.520654678344727,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0034_20260730_172929",
+    "depth_frame": 3,
+    "rgb_frame": 3,
+    "dt_ms": 10.617494583129883,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0034_20260730_172929",
+    "depth_frame": 48,
+    "rgb_frame": 48,
+    "dt_ms": 13.427019119262695,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0034_20260730_172929",
+    "depth_frame": 93,
+    "rgb_frame": 92,
+    "dt_ms": -16.471147537231445,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0034_20260730_172929",
+    "depth_frame": 138,
+    "rgb_frame": 137,
+    "dt_ms": -13.791799545288086,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0034_20260730_172929",
+    "depth_frame": 183,
+    "rgb_frame": 182,
+    "dt_ms": -11.462211608886719,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0034_20260730_172929",
+    "depth_frame": 228,
+    "rgb_frame": 227,
+    "dt_ms": -8.524656295776367,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0034_20260730_172929",
+    "depth_frame": 273,
+    "rgb_frame": 272,
+    "dt_ms": -5.688667297363281,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0034_20260730_172929",
+    "depth_frame": 323,
+    "rgb_frame": 322,
+    "dt_ms": -2.5963783264160156,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0034_20260730_172929",
+    "depth_frame": 367,
+    "rgb_frame": 367,
+    "dt_ms": 0.4642009735107422,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0034_20260730_172929",
+    "depth_frame": 412,
+    "rgb_frame": 412,
+    "dt_ms": 2.855539321899414,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0034_20260730_172929",
+    "depth_frame": 457,
+    "rgb_frame": 457,
+    "dt_ms": 5.434513092041016,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0034_20260730_172929",
+    "depth_frame": 502,
+    "rgb_frame": 502,
+    "dt_ms": 8.443355560302734,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0034_20260730_172929",
+    "depth_frame": 547,
+    "rgb_frame": 547,
+    "dt_ms": 11.305809020996094,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0034_20260730_172929",
+    "depth_frame": 592,
+    "rgb_frame": 592,
+    "dt_ms": 13.921022415161133,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0034_20260730_172929",
+    "depth_frame": 637,
+    "rgb_frame": 636,
+    "dt_ms": -16.29352569580078,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0034_20260730_172929",
+    "depth_frame": 682,
+    "rgb_frame": 681,
+    "dt_ms": -13.390064239501953,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0034_20260730_172929",
+    "depth_frame": 727,
+    "rgb_frame": 726,
+    "dt_ms": -11.194467544555664,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0034_20260730_172929",
+    "depth_frame": 773,
+    "rgb_frame": 771,
+    "dt_ms": -8.246421813964844,
+    "index_offset": -2
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0034_20260730_172929",
+    "depth_frame": 817,
+    "rgb_frame": 816,
+    "dt_ms": -5.136966705322266,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0034_20260730_172929",
+    "depth_frame": 862,
+    "rgb_frame": 861,
+    "dt_ms": -2.602100372314453,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0034_20260730_172929",
+    "depth_frame": 911,
+    "rgb_frame": 911,
+    "dt_ms": 0.484466552734375,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0034_20260730_172929",
+    "depth_frame": 956,
+    "rgb_frame": 956,
+    "dt_ms": 2.921581268310547,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0034_20260730_172929",
+    "depth_frame": 1001,
+    "rgb_frame": 1001,
+    "dt_ms": 5.96928596496582,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0034_20260730_172929",
+    "depth_frame": 1051,
+    "rgb_frame": 1051,
+    "dt_ms": 9.103536605834961,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0040_20260731_140141",
+    "depth_frame": 0,
+    "rgb_frame": 0,
+    "dt_ms": 44.889211654663086,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0040_20260731_140141",
+    "depth_frame": 39,
+    "rgb_frame": 39,
+    "dt_ms": 13.199806213378906,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0040_20260731_140141",
+    "depth_frame": 79,
+    "rgb_frame": 79,
+    "dt_ms": 15.719175338745117,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0040_20260731_140141",
+    "depth_frame": 124,
+    "rgb_frame": 123,
+    "dt_ms": -14.702320098876953,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0040_20260731_140141",
+    "depth_frame": 164,
+    "rgb_frame": 163,
+    "dt_ms": -12.292146682739258,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0040_20260731_140141",
+    "depth_frame": 204,
+    "rgb_frame": 203,
+    "dt_ms": -9.786367416381836,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0040_20260731_140141",
+    "depth_frame": 249,
+    "rgb_frame": 248,
+    "dt_ms": -7.161140441894531,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0040_20260731_140141",
+    "depth_frame": 289,
+    "rgb_frame": 288,
+    "dt_ms": -4.523754119873047,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0040_20260731_140141",
+    "depth_frame": 334,
+    "rgb_frame": 333,
+    "dt_ms": -0.6513595581054688,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0040_20260731_140141",
+    "depth_frame": 373,
+    "rgb_frame": 373,
+    "dt_ms": 0.7886886596679688,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0040_20260731_140141",
+    "depth_frame": 413,
+    "rgb_frame": 413,
+    "dt_ms": 3.234386444091797,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0040_20260731_140141",
+    "depth_frame": 458,
+    "rgb_frame": 458,
+    "dt_ms": 6.184816360473633,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0040_20260731_140141",
+    "depth_frame": 498,
+    "rgb_frame": 498,
+    "dt_ms": 8.500099182128906,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0040_20260731_140141",
+    "depth_frame": 543,
+    "rgb_frame": 543,
+    "dt_ms": 11.192798614501953,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0040_20260731_140141",
+    "depth_frame": 583,
+    "rgb_frame": 583,
+    "dt_ms": 13.721942901611328,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0040_20260731_140141",
+    "depth_frame": 623,
+    "rgb_frame": 623,
+    "dt_ms": 16.14212989807129,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0040_20260731_140141",
+    "depth_frame": 668,
+    "rgb_frame": 667,
+    "dt_ms": -14.041900634765625,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0040_20260731_140141",
+    "depth_frame": 708,
+    "rgb_frame": 707,
+    "dt_ms": -11.576175689697266,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0040_20260731_140141",
+    "depth_frame": 753,
+    "rgb_frame": 752,
+    "dt_ms": -8.835554122924805,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0040_20260731_140141",
+    "depth_frame": 793,
+    "rgb_frame": 792,
+    "dt_ms": -6.503820419311523,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0040_20260731_140141",
+    "depth_frame": 833,
+    "rgb_frame": 832,
+    "dt_ms": -4.182338714599609,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0040_20260731_140141",
+    "depth_frame": 878,
+    "rgb_frame": 877,
+    "dt_ms": -0.5667209625244141,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0040_20260731_140141",
+    "depth_frame": 917,
+    "rgb_frame": 917,
+    "dt_ms": 1.0521411895751953,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0040_20260731_140141",
+    "depth_frame": 962,
+    "rgb_frame": 962,
+    "dt_ms": 3.710031509399414,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0051_20260731_141010",
+    "depth_frame": 0,
+    "rgb_frame": 0,
+    "dt_ms": 55.24873733520508,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0051_20260731_141010",
+    "depth_frame": 29,
+    "rgb_frame": 28,
+    "dt_ms": -9.531974792480469,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0051_20260731_141010",
+    "depth_frame": 65,
+    "rgb_frame": 63,
+    "dt_ms": -7.307529449462891,
+    "index_offset": -2
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0051_20260731_141010",
+    "depth_frame": 99,
+    "rgb_frame": 98,
+    "dt_ms": -5.127429962158203,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0051_20260731_141010",
+    "depth_frame": 134,
+    "rgb_frame": 133,
+    "dt_ms": -2.9158592224121094,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0051_20260731_141010",
+    "depth_frame": 169,
+    "rgb_frame": 168,
+    "dt_ms": -0.3101825714111328,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0051_20260731_141010",
+    "depth_frame": 198,
+    "rgb_frame": 198,
+    "dt_ms": 0.9181499481201172,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0051_20260731_141010",
+    "depth_frame": 233,
+    "rgb_frame": 233,
+    "dt_ms": 3.2806396484375,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0051_20260731_141010",
+    "depth_frame": 263,
+    "rgb_frame": 263,
+    "dt_ms": 4.975080490112305,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0051_20260731_141010",
+    "depth_frame": 298,
+    "rgb_frame": 298,
+    "dt_ms": 7.173061370849609,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0051_20260731_141010",
+    "depth_frame": 333,
+    "rgb_frame": 333,
+    "dt_ms": 9.499549865722656,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0051_20260731_141010",
+    "depth_frame": 363,
+    "rgb_frame": 363,
+    "dt_ms": 11.207342147827148,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0051_20260731_141010",
+    "depth_frame": 398,
+    "rgb_frame": 398,
+    "dt_ms": 13.194084167480469,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0051_20260731_141010",
+    "depth_frame": 428,
+    "rgb_frame": 428,
+    "dt_ms": 15.043973922729492,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0051_20260731_141010",
+    "depth_frame": 463,
+    "rgb_frame": 462,
+    "dt_ms": -15.930414199829102,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0051_20260731_141010",
+    "depth_frame": 498,
+    "rgb_frame": 497,
+    "dt_ms": -13.542413711547852,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0051_20260731_141010",
+    "depth_frame": 528,
+    "rgb_frame": 527,
+    "dt_ms": -12.050151824951172,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0051_20260731_141010",
+    "depth_frame": 563,
+    "rgb_frame": 562,
+    "dt_ms": -9.627819061279297,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0051_20260731_141010",
+    "depth_frame": 593,
+    "rgb_frame": 592,
+    "dt_ms": -7.9097747802734375,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0051_20260731_141010",
+    "depth_frame": 628,
+    "rgb_frame": 627,
+    "dt_ms": -5.481243133544922,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0051_20260731_141010",
+    "depth_frame": 663,
+    "rgb_frame": 662,
+    "dt_ms": -3.6020278930664062,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0051_20260731_141010",
+    "depth_frame": 693,
+    "rgb_frame": 692,
+    "dt_ms": -0.7085800170898438,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0051_20260731_141010",
+    "depth_frame": 727,
+    "rgb_frame": 727,
+    "dt_ms": 0.5366802215576172,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0051_20260731_141010",
+    "depth_frame": 762,
+    "rgb_frame": 762,
+    "dt_ms": 2.6950836181640625,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0063_20260731_141938",
+    "depth_frame": 0,
+    "rgb_frame": 0,
+    "dt_ms": 45.03679275512695,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0063_20260731_141938",
+    "depth_frame": 29,
+    "rgb_frame": 29,
+    "dt_ms": 12.83121109008789,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0063_20260731_141938",
+    "depth_frame": 59,
+    "rgb_frame": 59,
+    "dt_ms": 14.710664749145508,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0063_20260731_141938",
+    "depth_frame": 89,
+    "rgb_frame": 89,
+    "dt_ms": 16.47210121154785,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0063_20260731_141938",
+    "depth_frame": 119,
+    "rgb_frame": 118,
+    "dt_ms": -15.079021453857422,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0063_20260731_141938",
+    "depth_frame": 154,
+    "rgb_frame": 153,
+    "dt_ms": -12.656211853027344,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0063_20260731_141938",
+    "depth_frame": 184,
+    "rgb_frame": 183,
+    "dt_ms": -10.942697525024414,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0063_20260731_141938",
+    "depth_frame": 214,
+    "rgb_frame": 213,
+    "dt_ms": -8.621692657470703,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0063_20260731_141938",
+    "depth_frame": 244,
+    "rgb_frame": 243,
+    "dt_ms": -7.262229919433594,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0063_20260731_141938",
+    "depth_frame": 274,
+    "rgb_frame": 273,
+    "dt_ms": -5.09953498840332,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0063_20260731_141938",
+    "depth_frame": 314,
+    "rgb_frame": 313,
+    "dt_ms": -2.9060840606689453,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0063_20260731_141938",
+    "depth_frame": 344,
+    "rgb_frame": 343,
+    "dt_ms": -0.3535747528076172,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0063_20260731_141938",
+    "depth_frame": 373,
+    "rgb_frame": 373,
+    "dt_ms": 0.8981227874755859,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0063_20260731_141938",
+    "depth_frame": 403,
+    "rgb_frame": 403,
+    "dt_ms": 2.595663070678711,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0063_20260731_141938",
+    "depth_frame": 438,
+    "rgb_frame": 438,
+    "dt_ms": 4.760265350341797,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0063_20260731_141938",
+    "depth_frame": 468,
+    "rgb_frame": 468,
+    "dt_ms": 6.688117980957031,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0063_20260731_141938",
+    "depth_frame": 498,
+    "rgb_frame": 498,
+    "dt_ms": 8.52060317993164,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0063_20260731_141938",
+    "depth_frame": 528,
+    "rgb_frame": 528,
+    "dt_ms": 10.361671447753906,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0063_20260731_141938",
+    "depth_frame": 558,
+    "rgb_frame": 558,
+    "dt_ms": 12.139320373535156,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0063_20260731_141938",
+    "depth_frame": 593,
+    "rgb_frame": 593,
+    "dt_ms": 14.365434646606445,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0063_20260731_141938",
+    "depth_frame": 623,
+    "rgb_frame": 623,
+    "dt_ms": 16.33596420288086,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0063_20260731_141938",
+    "depth_frame": 653,
+    "rgb_frame": 652,
+    "dt_ms": -15.218973159790039,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0063_20260731_141938",
+    "depth_frame": 683,
+    "rgb_frame": 682,
+    "dt_ms": -12.966632843017578,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0063_20260731_141938",
+    "depth_frame": 718,
+    "rgb_frame": 717,
+    "dt_ms": -11.168718338012695,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0075_20260731_142752",
+    "depth_frame": 2,
+    "rgb_frame": 1,
+    "dt_ms": -4.901409149169922,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0075_20260731_142752",
+    "depth_frame": 47,
+    "rgb_frame": 46,
+    "dt_ms": -1.6407966613769531,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0075_20260731_142752",
+    "depth_frame": 86,
+    "rgb_frame": 86,
+    "dt_ms": 0.3986358642578125,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0075_20260731_142752",
+    "depth_frame": 131,
+    "rgb_frame": 131,
+    "dt_ms": 2.7322769165039062,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0075_20260731_142752",
+    "depth_frame": 171,
+    "rgb_frame": 171,
+    "dt_ms": 5.237102508544922,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0075_20260731_142752",
+    "depth_frame": 211,
+    "rgb_frame": 211,
+    "dt_ms": 7.814884185791016,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0075_20260731_142752",
+    "depth_frame": 256,
+    "rgb_frame": 256,
+    "dt_ms": 10.419607162475586,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0075_20260731_142752",
+    "depth_frame": 296,
+    "rgb_frame": 296,
+    "dt_ms": 13.123512268066406,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0075_20260731_142752",
+    "depth_frame": 341,
+    "rgb_frame": 341,
+    "dt_ms": 15.891313552856445,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0075_20260731_142752",
+    "depth_frame": 381,
+    "rgb_frame": 380,
+    "dt_ms": -15.102386474609375,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0075_20260731_142752",
+    "depth_frame": 421,
+    "rgb_frame": 420,
+    "dt_ms": -12.42375373840332,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0075_20260731_142752",
+    "depth_frame": 466,
+    "rgb_frame": 465,
+    "dt_ms": -9.858846664428711,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0075_20260731_142752",
+    "depth_frame": 506,
+    "rgb_frame": 505,
+    "dt_ms": -7.229804992675781,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0075_20260731_142752",
+    "depth_frame": 556,
+    "rgb_frame": 555,
+    "dt_ms": -4.183530807495117,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0075_20260731_142752",
+    "depth_frame": 596,
+    "rgb_frame": 595,
+    "dt_ms": -0.7395744323730469,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0075_20260731_142752",
+    "depth_frame": 635,
+    "rgb_frame": 635,
+    "dt_ms": 0.7641315460205078,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0075_20260731_142752",
+    "depth_frame": 680,
+    "rgb_frame": 680,
+    "dt_ms": 3.596782684326172,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0075_20260731_142752",
+    "depth_frame": 720,
+    "rgb_frame": 720,
+    "dt_ms": 6.104230880737305,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0075_20260731_142752",
+    "depth_frame": 765,
+    "rgb_frame": 765,
+    "dt_ms": 8.680343627929688,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0075_20260731_142752",
+    "depth_frame": 805,
+    "rgb_frame": 805,
+    "dt_ms": 11.277437210083008,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0075_20260731_142752",
+    "depth_frame": 845,
+    "rgb_frame": 845,
+    "dt_ms": 13.701200485229492,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0075_20260731_142752",
+    "depth_frame": 890,
+    "rgb_frame": 889,
+    "dt_ms": -16.48998260498047,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0075_20260731_142752",
+    "depth_frame": 930,
+    "rgb_frame": 929,
+    "dt_ms": -14.161825180053711,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0075_20260731_142752",
+    "depth_frame": 975,
+    "rgb_frame": 974,
+    "dt_ms": -11.528730392456055,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0088_20260731_143616",
+    "depth_frame": 0,
+    "rgb_frame": 0,
+    "dt_ms": 32.17649459838867,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0088_20260731_143616",
+    "depth_frame": 24,
+    "rgb_frame": 24,
+    "dt_ms": 0.43272972106933594,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0088_20260731_143616",
+    "depth_frame": 54,
+    "rgb_frame": 54,
+    "dt_ms": 1.7447471618652344,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0088_20260731_143616",
+    "depth_frame": 84,
+    "rgb_frame": 84,
+    "dt_ms": 3.540515899658203,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0088_20260731_143616",
+    "depth_frame": 114,
+    "rgb_frame": 114,
+    "dt_ms": 5.529165267944336,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0088_20260731_143616",
+    "depth_frame": 144,
+    "rgb_frame": 144,
+    "dt_ms": 7.345676422119141,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0088_20260731_143616",
+    "depth_frame": 174,
+    "rgb_frame": 174,
+    "dt_ms": 9.180307388305664,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0088_20260731_143616",
+    "depth_frame": 204,
+    "rgb_frame": 204,
+    "dt_ms": 11.183023452758789,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0088_20260731_143616",
+    "depth_frame": 234,
+    "rgb_frame": 234,
+    "dt_ms": 13.098001480102539,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0088_20260731_143616",
+    "depth_frame": 264,
+    "rgb_frame": 264,
+    "dt_ms": 14.734029769897461,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0088_20260731_143616",
+    "depth_frame": 294,
+    "rgb_frame": 293,
+    "dt_ms": -16.538381576538086,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0088_20260731_143616",
+    "depth_frame": 324,
+    "rgb_frame": 323,
+    "dt_ms": -14.73236083984375,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0088_20260731_143616",
+    "depth_frame": 354,
+    "rgb_frame": 353,
+    "dt_ms": -12.711048126220703,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0088_20260731_143616",
+    "depth_frame": 384,
+    "rgb_frame": 383,
+    "dt_ms": -10.869503021240234,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0088_20260731_143616",
+    "depth_frame": 415,
+    "rgb_frame": 413,
+    "dt_ms": -8.920907974243164,
+    "index_offset": -2
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0088_20260731_143616",
+    "depth_frame": 444,
+    "rgb_frame": 443,
+    "dt_ms": -7.280826568603516,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0088_20260731_143616",
+    "depth_frame": 474,
+    "rgb_frame": 473,
+    "dt_ms": -5.192995071411133,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0088_20260731_143616",
+    "depth_frame": 504,
+    "rgb_frame": 503,
+    "dt_ms": -3.6284923553466797,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0088_20260731_143616",
+    "depth_frame": 534,
+    "rgb_frame": 533,
+    "dt_ms": -0.8203983306884766,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0088_20260731_143616",
+    "depth_frame": 563,
+    "rgb_frame": 563,
+    "dt_ms": 0.5016326904296875,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0088_20260731_143616",
+    "depth_frame": 593,
+    "rgb_frame": 593,
+    "dt_ms": 1.77764892578125,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0088_20260731_143616",
+    "depth_frame": 623,
+    "rgb_frame": 623,
+    "dt_ms": 3.693819046020508,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0088_20260731_143616",
+    "depth_frame": 653,
+    "rgb_frame": 653,
+    "dt_ms": 5.6667327880859375,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0088_20260731_143616",
+    "depth_frame": 683,
+    "rgb_frame": 683,
+    "dt_ms": 7.399559020996094,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0099_20260731_144354",
+    "depth_frame": 0,
+    "rgb_frame": 0,
+    "dt_ms": 15.08331298828125,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0099_20260731_144354",
+    "depth_frame": 30,
+    "rgb_frame": 29,
+    "dt_ms": -16.518831253051758,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0099_20260731_144354",
+    "depth_frame": 65,
+    "rgb_frame": 64,
+    "dt_ms": -13.661384582519531,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0099_20260731_144354",
+    "depth_frame": 95,
+    "rgb_frame": 94,
+    "dt_ms": -12.405633926391602,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0099_20260731_144354",
+    "depth_frame": 130,
+    "rgb_frame": 129,
+    "dt_ms": -9.765863418579102,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0099_20260731_144354",
+    "depth_frame": 165,
+    "rgb_frame": 164,
+    "dt_ms": -7.89952278137207,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0099_20260731_144354",
+    "depth_frame": 195,
+    "rgb_frame": 194,
+    "dt_ms": -5.68079948425293,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0099_20260731_144354",
+    "depth_frame": 230,
+    "rgb_frame": 229,
+    "dt_ms": -3.782033920288086,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0099_20260731_144354",
+    "depth_frame": 260,
+    "rgb_frame": 259,
+    "dt_ms": -0.5269050598144531,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0099_20260731_144354",
+    "depth_frame": 294,
+    "rgb_frame": 294,
+    "dt_ms": 0.4935264587402344,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0099_20260731_144354",
+    "depth_frame": 329,
+    "rgb_frame": 329,
+    "dt_ms": 2.202272415161133,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0099_20260731_144354",
+    "depth_frame": 359,
+    "rgb_frame": 359,
+    "dt_ms": 4.075050354003906,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0099_20260731_144354",
+    "depth_frame": 394,
+    "rgb_frame": 394,
+    "dt_ms": 6.366729736328125,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0099_20260731_144354",
+    "depth_frame": 424,
+    "rgb_frame": 424,
+    "dt_ms": 8.031368255615234,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0099_20260731_144354",
+    "depth_frame": 459,
+    "rgb_frame": 459,
+    "dt_ms": 10.325908660888672,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0099_20260731_144354",
+    "depth_frame": 494,
+    "rgb_frame": 494,
+    "dt_ms": 12.354850769042969,
+    "index_offset": 0
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0099_20260731_144354",
+    "depth_frame": 525,
+    "rgb_frame": 524,
+    "dt_ms": 14.210224151611328,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0099_20260731_144354",
+    "depth_frame": 559,
+    "rgb_frame": 558,
+    "dt_ms": -16.319990158081055,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0099_20260731_144354",
+    "depth_frame": 589,
+    "rgb_frame": 588,
+    "dt_ms": -15.284538269042969,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0099_20260731_144354",
+    "depth_frame": 624,
+    "rgb_frame": 623,
+    "dt_ms": -12.796401977539062,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0099_20260731_144354",
+    "depth_frame": 659,
+    "rgb_frame": 658,
+    "dt_ms": -10.854721069335938,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0099_20260731_144354",
+    "depth_frame": 689,
+    "rgb_frame": 688,
+    "dt_ms": -8.82101058959961,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0099_20260731_144354",
+    "depth_frame": 724,
+    "rgb_frame": 723,
+    "dt_ms": -6.424665451049805,
+    "index_offset": -1
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0099_20260731_144354",
+    "depth_frame": 759,
+    "rgb_frame": 758,
+    "dt_ms": -4.65703010559082,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0000_20260830_155455",
+    "depth_frame": 1,
+    "rgb_frame": 1,
+    "dt_ms": 7.262229919433594,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0000_20260830_155455",
+    "depth_frame": 96,
+    "rgb_frame": 96,
+    "dt_ms": 9.757757186889648,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0000_20260830_155455",
+    "depth_frame": 191,
+    "rgb_frame": 191,
+    "dt_ms": 12.205362319946289,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0000_20260830_155455",
+    "depth_frame": 291,
+    "rgb_frame": 291,
+    "dt_ms": 14.824390411376953,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0000_20260830_155455",
+    "depth_frame": 386,
+    "rgb_frame": 385,
+    "dt_ms": -16.013383865356445,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0000_20260830_155455",
+    "depth_frame": 486,
+    "rgb_frame": 485,
+    "dt_ms": -13.327598571777344,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0000_20260830_155455",
+    "depth_frame": 581,
+    "rgb_frame": 580,
+    "dt_ms": -10.848045349121094,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0000_20260830_155455",
+    "depth_frame": 681,
+    "rgb_frame": 680,
+    "dt_ms": -8.099794387817383,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0000_20260830_155455",
+    "depth_frame": 776,
+    "rgb_frame": 775,
+    "dt_ms": -5.6743621826171875,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0000_20260830_155455",
+    "depth_frame": 876,
+    "rgb_frame": 875,
+    "dt_ms": -2.966642379760742,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0000_20260830_155455",
+    "depth_frame": 971,
+    "rgb_frame": 970,
+    "dt_ms": -0.4038810729980469,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0000_20260830_155455",
+    "depth_frame": 1070,
+    "rgb_frame": 1070,
+    "dt_ms": 2.1414756774902344,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0000_20260830_155455",
+    "depth_frame": 1165,
+    "rgb_frame": 1165,
+    "dt_ms": 4.713773727416992,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0000_20260830_155455",
+    "depth_frame": 1265,
+    "rgb_frame": 1265,
+    "dt_ms": 7.421016693115234,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0000_20260830_155455",
+    "depth_frame": 1360,
+    "rgb_frame": 1360,
+    "dt_ms": 10.009527206420898,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0000_20260830_155455",
+    "depth_frame": 1460,
+    "rgb_frame": 1460,
+    "dt_ms": 12.684345245361328,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0000_20260830_155455",
+    "depth_frame": 1555,
+    "rgb_frame": 1555,
+    "dt_ms": 14.84537124633789,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0000_20260830_155455",
+    "depth_frame": 1655,
+    "rgb_frame": 1654,
+    "dt_ms": -15.61880111694336,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0000_20260830_155455",
+    "depth_frame": 1750,
+    "rgb_frame": 1749,
+    "dt_ms": -13.117790222167969,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0000_20260830_155455",
+    "depth_frame": 1850,
+    "rgb_frame": 1849,
+    "dt_ms": -10.547161102294922,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0000_20260830_155455",
+    "depth_frame": 1945,
+    "rgb_frame": 1944,
+    "dt_ms": -7.932901382446289,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0000_20260830_155455",
+    "depth_frame": 2045,
+    "rgb_frame": 2044,
+    "dt_ms": -5.268573760986328,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0000_20260830_155455",
+    "depth_frame": 2150,
+    "rgb_frame": 2149,
+    "dt_ms": -2.515077590942383,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0000_20260830_155455",
+    "depth_frame": 2249,
+    "rgb_frame": 2249,
+    "dt_ms": 0.12040138244628906,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0014_20260830_161022",
+    "depth_frame": 2,
+    "rgb_frame": 2,
+    "dt_ms": 12.38870620727539,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0014_20260830_161022",
+    "depth_frame": 52,
+    "rgb_frame": 52,
+    "dt_ms": 13.547658920288086,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0014_20260830_161022",
+    "depth_frame": 102,
+    "rgb_frame": 102,
+    "dt_ms": 14.962196350097656,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0014_20260830_161022",
+    "depth_frame": 152,
+    "rgb_frame": 152,
+    "dt_ms": 16.19744300842285,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0014_20260830_161022",
+    "depth_frame": 202,
+    "rgb_frame": 201,
+    "dt_ms": -15.903949737548828,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0014_20260830_161022",
+    "depth_frame": 252,
+    "rgb_frame": 251,
+    "dt_ms": -14.46390151977539,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0014_20260830_161022",
+    "depth_frame": 307,
+    "rgb_frame": 306,
+    "dt_ms": -13.234376907348633,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0014_20260830_161022",
+    "depth_frame": 357,
+    "rgb_frame": 356,
+    "dt_ms": -11.851072311401367,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0014_20260830_161022",
+    "depth_frame": 407,
+    "rgb_frame": 406,
+    "dt_ms": -10.34092903137207,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0014_20260830_161022",
+    "depth_frame": 457,
+    "rgb_frame": 456,
+    "dt_ms": -9.156227111816406,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0014_20260830_161022",
+    "depth_frame": 507,
+    "rgb_frame": 506,
+    "dt_ms": -7.811784744262695,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0014_20260830_161022",
+    "depth_frame": 557,
+    "rgb_frame": 556,
+    "dt_ms": -6.526947021484375,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0014_20260830_161022",
+    "depth_frame": 617,
+    "rgb_frame": 616,
+    "dt_ms": -5.012989044189453,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0014_20260830_161022",
+    "depth_frame": 672,
+    "rgb_frame": 671,
+    "dt_ms": -3.4208297729492188,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0014_20260830_161022",
+    "depth_frame": 722,
+    "rgb_frame": 721,
+    "dt_ms": -2.137899398803711,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0014_20260830_161022",
+    "depth_frame": 772,
+    "rgb_frame": 771,
+    "dt_ms": -0.8306503295898438,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0014_20260830_161022",
+    "depth_frame": 821,
+    "rgb_frame": 821,
+    "dt_ms": 0.5273818969726562,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0014_20260830_161022",
+    "depth_frame": 871,
+    "rgb_frame": 871,
+    "dt_ms": 1.7664432525634766,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0014_20260830_161022",
+    "depth_frame": 926,
+    "rgb_frame": 926,
+    "dt_ms": 3.2224655151367188,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0014_20260830_161022",
+    "depth_frame": 976,
+    "rgb_frame": 976,
+    "dt_ms": 4.479408264160156,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0014_20260830_161022",
+    "depth_frame": 1026,
+    "rgb_frame": 1026,
+    "dt_ms": 5.968332290649414,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0014_20260830_161022",
+    "depth_frame": 1076,
+    "rgb_frame": 1076,
+    "dt_ms": 7.293224334716797,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0014_20260830_161022",
+    "depth_frame": 1126,
+    "rgb_frame": 1126,
+    "dt_ms": 8.645772933959961,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0014_20260830_161022",
+    "depth_frame": 1181,
+    "rgb_frame": 1181,
+    "dt_ms": 10.196685791015625,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260830_161646",
+    "depth_frame": 2,
+    "rgb_frame": 1,
+    "dt_ms": -16.280651092529297,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260830_161646",
+    "depth_frame": 32,
+    "rgb_frame": 31,
+    "dt_ms": -15.531539916992188,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260830_161646",
+    "depth_frame": 67,
+    "rgb_frame": 66,
+    "dt_ms": -14.632463455200195,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260830_161646",
+    "depth_frame": 102,
+    "rgb_frame": 101,
+    "dt_ms": -13.746023178100586,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260830_161646",
+    "depth_frame": 137,
+    "rgb_frame": 136,
+    "dt_ms": -12.847185134887695,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260830_161646",
+    "depth_frame": 172,
+    "rgb_frame": 171,
+    "dt_ms": -11.917352676391602,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260830_161646",
+    "depth_frame": 207,
+    "rgb_frame": 206,
+    "dt_ms": -10.853290557861328,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260830_161646",
+    "depth_frame": 242,
+    "rgb_frame": 241,
+    "dt_ms": -10.102272033691406,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260830_161646",
+    "depth_frame": 277,
+    "rgb_frame": 276,
+    "dt_ms": -8.973121643066406,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260830_161646",
+    "depth_frame": 312,
+    "rgb_frame": 311,
+    "dt_ms": -8.139848709106445,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260830_161646",
+    "depth_frame": 347,
+    "rgb_frame": 346,
+    "dt_ms": -7.335186004638672,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260830_161646",
+    "depth_frame": 387,
+    "rgb_frame": 386,
+    "dt_ms": -6.330013275146484,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260830_161646",
+    "depth_frame": 417,
+    "rgb_frame": 416,
+    "dt_ms": -5.372285842895508,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260830_161646",
+    "depth_frame": 452,
+    "rgb_frame": 451,
+    "dt_ms": -4.476308822631836,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260830_161646",
+    "depth_frame": 487,
+    "rgb_frame": 486,
+    "dt_ms": -3.4449100494384766,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260830_161646",
+    "depth_frame": 527,
+    "rgb_frame": 526,
+    "dt_ms": -2.2971630096435547,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260830_161646",
+    "depth_frame": 562,
+    "rgb_frame": 561,
+    "dt_ms": -1.5215873718261719,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260830_161646",
+    "depth_frame": 597,
+    "rgb_frame": 596,
+    "dt_ms": -0.46563148498535156,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260830_161646",
+    "depth_frame": 631,
+    "rgb_frame": 631,
+    "dt_ms": 0.28586387634277344,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260830_161646",
+    "depth_frame": 666,
+    "rgb_frame": 666,
+    "dt_ms": 1.173257827758789,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260830_161646",
+    "depth_frame": 701,
+    "rgb_frame": 701,
+    "dt_ms": 2.206563949584961,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260830_161646",
+    "depth_frame": 736,
+    "rgb_frame": 736,
+    "dt_ms": 3.070354461669922,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260830_161646",
+    "depth_frame": 771,
+    "rgb_frame": 771,
+    "dt_ms": 4.015445709228516,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260830_161646",
+    "depth_frame": 806,
+    "rgb_frame": 806,
+    "dt_ms": 4.946708679199219,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0036_20260830_163133",
+    "depth_frame": 1,
+    "rgb_frame": 1,
+    "dt_ms": 2.096414566040039,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0036_20260830_163133",
+    "depth_frame": 41,
+    "rgb_frame": 41,
+    "dt_ms": 3.1998157501220703,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0036_20260830_163133",
+    "depth_frame": 86,
+    "rgb_frame": 86,
+    "dt_ms": 4.502058029174805,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0036_20260830_163133",
+    "depth_frame": 131,
+    "rgb_frame": 131,
+    "dt_ms": 5.690336227416992,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0036_20260830_163133",
+    "depth_frame": 176,
+    "rgb_frame": 176,
+    "dt_ms": 6.77490234375,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0036_20260830_163133",
+    "depth_frame": 216,
+    "rgb_frame": 216,
+    "dt_ms": 7.960319519042969,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0036_20260830_163133",
+    "depth_frame": 261,
+    "rgb_frame": 261,
+    "dt_ms": 9.207010269165039,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0036_20260830_163133",
+    "depth_frame": 306,
+    "rgb_frame": 306,
+    "dt_ms": 10.412931442260742,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0036_20260830_163133",
+    "depth_frame": 351,
+    "rgb_frame": 351,
+    "dt_ms": 11.503219604492188,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0036_20260830_163133",
+    "depth_frame": 396,
+    "rgb_frame": 396,
+    "dt_ms": 12.618064880371094,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0036_20260830_163133",
+    "depth_frame": 436,
+    "rgb_frame": 436,
+    "dt_ms": 13.744354248046875,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0036_20260830_163133",
+    "depth_frame": 482,
+    "rgb_frame": 481,
+    "dt_ms": 15.001296997070312,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0036_20260830_163133",
+    "depth_frame": 526,
+    "rgb_frame": 526,
+    "dt_ms": 16.129016876220703,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0036_20260830_163133",
+    "depth_frame": 571,
+    "rgb_frame": 570,
+    "dt_ms": -16.076087951660156,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0036_20260830_163133",
+    "depth_frame": 611,
+    "rgb_frame": 610,
+    "dt_ms": -14.939546585083008,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0036_20260830_163133",
+    "depth_frame": 656,
+    "rgb_frame": 655,
+    "dt_ms": -13.787269592285156,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0036_20260830_163133",
+    "depth_frame": 701,
+    "rgb_frame": 700,
+    "dt_ms": -12.596368789672852,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0036_20260830_163133",
+    "depth_frame": 746,
+    "rgb_frame": 745,
+    "dt_ms": -11.345863342285156,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0036_20260830_163133",
+    "depth_frame": 791,
+    "rgb_frame": 790,
+    "dt_ms": -10.277509689331055,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0036_20260830_163133",
+    "depth_frame": 831,
+    "rgb_frame": 830,
+    "dt_ms": -9.171247482299805,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0036_20260830_163133",
+    "depth_frame": 876,
+    "rgb_frame": 875,
+    "dt_ms": -7.924795150756836,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0036_20260830_163133",
+    "depth_frame": 921,
+    "rgb_frame": 920,
+    "dt_ms": -6.81304931640625,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0036_20260830_163133",
+    "depth_frame": 966,
+    "rgb_frame": 965,
+    "dt_ms": -5.587339401245117,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0036_20260830_163133",
+    "depth_frame": 1011,
+    "rgb_frame": 1010,
+    "dt_ms": -4.3735504150390625,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0050_20260830_165537",
+    "depth_frame": 0,
+    "rgb_frame": 0,
+    "dt_ms": 44.4798469543457,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0050_20260830_165537",
+    "depth_frame": 29,
+    "rgb_frame": 29,
+    "dt_ms": 11.817693710327148,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0050_20260830_165537",
+    "depth_frame": 64,
+    "rgb_frame": 64,
+    "dt_ms": 12.839317321777344,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0050_20260830_165537",
+    "depth_frame": 94,
+    "rgb_frame": 94,
+    "dt_ms": 13.527631759643555,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0050_20260830_165537",
+    "depth_frame": 129,
+    "rgb_frame": 129,
+    "dt_ms": 14.551877975463867,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0050_20260830_165537",
+    "depth_frame": 164,
+    "rgb_frame": 164,
+    "dt_ms": 15.408039093017578,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0050_20260830_165537",
+    "depth_frame": 194,
+    "rgb_frame": 194,
+    "dt_ms": 16.189098358154297,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0050_20260830_165537",
+    "depth_frame": 229,
+    "rgb_frame": 228,
+    "dt_ms": -16.278743743896484,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0050_20260830_165537",
+    "depth_frame": 259,
+    "rgb_frame": 258,
+    "dt_ms": -15.436410903930664,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0050_20260830_165537",
+    "depth_frame": 294,
+    "rgb_frame": 293,
+    "dt_ms": -14.533758163452148,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0050_20260830_165537",
+    "depth_frame": 329,
+    "rgb_frame": 328,
+    "dt_ms": -13.462066650390625,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0050_20260830_165537",
+    "depth_frame": 359,
+    "rgb_frame": 358,
+    "dt_ms": -12.848854064941406,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0050_20260830_165537",
+    "depth_frame": 394,
+    "rgb_frame": 393,
+    "dt_ms": -11.791706085205078,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0050_20260830_165537",
+    "depth_frame": 424,
+    "rgb_frame": 423,
+    "dt_ms": -11.05952262878418,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0050_20260830_165537",
+    "depth_frame": 459,
+    "rgb_frame": 458,
+    "dt_ms": -10.205507278442383,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0050_20260830_165537",
+    "depth_frame": 494,
+    "rgb_frame": 493,
+    "dt_ms": -9.16743278503418,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0050_20260830_165537",
+    "depth_frame": 524,
+    "rgb_frame": 523,
+    "dt_ms": -8.366584777832031,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0050_20260830_165537",
+    "depth_frame": 559,
+    "rgb_frame": 558,
+    "dt_ms": -7.5511932373046875,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0050_20260830_165537",
+    "depth_frame": 589,
+    "rgb_frame": 588,
+    "dt_ms": -6.744623184204102,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0050_20260830_165537",
+    "depth_frame": 624,
+    "rgb_frame": 623,
+    "dt_ms": -5.765438079833984,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0050_20260830_165537",
+    "depth_frame": 659,
+    "rgb_frame": 658,
+    "dt_ms": -4.901885986328125,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0050_20260830_165537",
+    "depth_frame": 689,
+    "rgb_frame": 688,
+    "dt_ms": -4.065513610839844,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0050_20260830_165537",
+    "depth_frame": 724,
+    "rgb_frame": 723,
+    "dt_ms": -3.1914710998535156,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0050_20260830_165537",
+    "depth_frame": 759,
+    "rgb_frame": 758,
+    "dt_ms": -2.187490463256836,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0062_20260830_170434",
+    "depth_frame": 0,
+    "rgb_frame": 0,
+    "dt_ms": 31.74591064453125,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0062_20260830_170434",
+    "depth_frame": 35,
+    "rgb_frame": 34,
+    "dt_ms": -0.7722377777099609,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0062_20260830_170434",
+    "depth_frame": 74,
+    "rgb_frame": 74,
+    "dt_ms": 0.21696090698242188,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0062_20260830_170434",
+    "depth_frame": 109,
+    "rgb_frame": 109,
+    "dt_ms": 1.1703968048095703,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0062_20260830_170434",
+    "depth_frame": 149,
+    "rgb_frame": 149,
+    "dt_ms": 2.153635025024414,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0062_20260830_170434",
+    "depth_frame": 189,
+    "rgb_frame": 189,
+    "dt_ms": 3.2737255096435547,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0062_20260830_170434",
+    "depth_frame": 224,
+    "rgb_frame": 224,
+    "dt_ms": 4.288911819458008,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0062_20260830_170434",
+    "depth_frame": 264,
+    "rgb_frame": 264,
+    "dt_ms": 5.267143249511719,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0062_20260830_170434",
+    "depth_frame": 304,
+    "rgb_frame": 304,
+    "dt_ms": 6.359338760375977,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0062_20260830_170434",
+    "depth_frame": 339,
+    "rgb_frame": 339,
+    "dt_ms": 7.358789443969727,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0062_20260830_170434",
+    "depth_frame": 379,
+    "rgb_frame": 379,
+    "dt_ms": 8.291006088256836,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0062_20260830_170434",
+    "depth_frame": 419,
+    "rgb_frame": 419,
+    "dt_ms": 9.402751922607422,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0062_20260830_170434",
+    "depth_frame": 454,
+    "rgb_frame": 454,
+    "dt_ms": 10.310888290405273,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0062_20260830_170434",
+    "depth_frame": 494,
+    "rgb_frame": 494,
+    "dt_ms": 11.399984359741211,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0062_20260830_170434",
+    "depth_frame": 534,
+    "rgb_frame": 534,
+    "dt_ms": 12.378692626953125,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0062_20260830_170434",
+    "depth_frame": 569,
+    "rgb_frame": 569,
+    "dt_ms": 13.342618942260742,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0062_20260830_170434",
+    "depth_frame": 609,
+    "rgb_frame": 609,
+    "dt_ms": 14.524459838867188,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0062_20260830_170434",
+    "depth_frame": 649,
+    "rgb_frame": 649,
+    "dt_ms": 15.571117401123047,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0062_20260830_170434",
+    "depth_frame": 684,
+    "rgb_frame": 684,
+    "dt_ms": 16.399860382080078,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0062_20260830_170434",
+    "depth_frame": 725,
+    "rgb_frame": 723,
+    "dt_ms": -15.77615737915039,
+    "index_offset": -2
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0062_20260830_170434",
+    "depth_frame": 764,
+    "rgb_frame": 763,
+    "dt_ms": -14.686107635498047,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0062_20260830_170434",
+    "depth_frame": 799,
+    "rgb_frame": 798,
+    "dt_ms": -13.896465301513672,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0062_20260830_170434",
+    "depth_frame": 839,
+    "rgb_frame": 838,
+    "dt_ms": -12.857675552368164,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0062_20260830_170434",
+    "depth_frame": 879,
+    "rgb_frame": 878,
+    "dt_ms": -11.7340087890625,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0005_20260903_185554",
+    "depth_frame": 0,
+    "rgb_frame": 0,
+    "dt_ms": 29.05583381652832,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0005_20260903_185554",
+    "depth_frame": 65,
+    "rgb_frame": 64,
+    "dt_ms": -2.5653839111328125,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0005_20260903_185554",
+    "depth_frame": 130,
+    "rgb_frame": 129,
+    "dt_ms": -0.9655952453613281,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0005_20260903_185554",
+    "depth_frame": 194,
+    "rgb_frame": 194,
+    "dt_ms": 0.8509159088134766,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0005_20260903_185554",
+    "depth_frame": 259,
+    "rgb_frame": 259,
+    "dt_ms": 2.5980472564697266,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0005_20260903_185554",
+    "depth_frame": 324,
+    "rgb_frame": 324,
+    "dt_ms": 4.263639450073242,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0005_20260903_185554",
+    "depth_frame": 389,
+    "rgb_frame": 389,
+    "dt_ms": 6.012439727783203,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0005_20260903_185554",
+    "depth_frame": 454,
+    "rgb_frame": 454,
+    "dt_ms": 7.688999176025391,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0005_20260903_185554",
+    "depth_frame": 519,
+    "rgb_frame": 519,
+    "dt_ms": 9.389400482177734,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0005_20260903_185554",
+    "depth_frame": 584,
+    "rgb_frame": 584,
+    "dt_ms": 11.165857315063477,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0005_20260903_185554",
+    "depth_frame": 649,
+    "rgb_frame": 649,
+    "dt_ms": 12.87221908569336,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0005_20260903_185554",
+    "depth_frame": 714,
+    "rgb_frame": 714,
+    "dt_ms": 14.65749740600586,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0005_20260903_185554",
+    "depth_frame": 779,
+    "rgb_frame": 779,
+    "dt_ms": 16.33596420288086,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0005_20260903_185554",
+    "depth_frame": 844,
+    "rgb_frame": 843,
+    "dt_ms": -15.174150466918945,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0005_20260903_185554",
+    "depth_frame": 909,
+    "rgb_frame": 908,
+    "dt_ms": -13.524532318115234,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0005_20260903_185554",
+    "depth_frame": 974,
+    "rgb_frame": 973,
+    "dt_ms": -11.84225082397461,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0005_20260903_185554",
+    "depth_frame": 1039,
+    "rgb_frame": 1038,
+    "dt_ms": -10.149478912353516,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0005_20260903_185554",
+    "depth_frame": 1104,
+    "rgb_frame": 1103,
+    "dt_ms": -8.31151008605957,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0005_20260903_185554",
+    "depth_frame": 1169,
+    "rgb_frame": 1168,
+    "dt_ms": -6.641387939453125,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0005_20260903_185554",
+    "depth_frame": 1234,
+    "rgb_frame": 1233,
+    "dt_ms": -4.870891571044922,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0005_20260903_185554",
+    "depth_frame": 1299,
+    "rgb_frame": 1298,
+    "dt_ms": -3.0028820037841797,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0005_20260903_185554",
+    "depth_frame": 1364,
+    "rgb_frame": 1363,
+    "dt_ms": -1.5153884887695312,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0005_20260903_185554",
+    "depth_frame": 1428,
+    "rgb_frame": 1428,
+    "dt_ms": 0.2377033233642578,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0005_20260903_185554",
+    "depth_frame": 1493,
+    "rgb_frame": 1493,
+    "dt_ms": 2.0017623901367188,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0008_20260903_185822",
+    "depth_frame": 0,
+    "rgb_frame": 0,
+    "dt_ms": 13.336896896362305,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0008_20260903_185822",
+    "depth_frame": 45,
+    "rgb_frame": 45,
+    "dt_ms": 14.610528945922852,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0008_20260903_185822",
+    "depth_frame": 95,
+    "rgb_frame": 95,
+    "dt_ms": 15.929460525512695,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0008_20260903_185822",
+    "depth_frame": 140,
+    "rgb_frame": 139,
+    "dt_ms": -16.319990158081055,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0008_20260903_185822",
+    "depth_frame": 190,
+    "rgb_frame": 189,
+    "dt_ms": -14.940738677978516,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0008_20260903_185822",
+    "depth_frame": 240,
+    "rgb_frame": 239,
+    "dt_ms": -13.704061508178711,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0008_20260903_185822",
+    "depth_frame": 285,
+    "rgb_frame": 284,
+    "dt_ms": -12.45427131652832,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0008_20260903_185822",
+    "depth_frame": 335,
+    "rgb_frame": 334,
+    "dt_ms": -11.091947555541992,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0008_20260903_185822",
+    "depth_frame": 385,
+    "rgb_frame": 384,
+    "dt_ms": -9.764909744262695,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0008_20260903_185822",
+    "depth_frame": 430,
+    "rgb_frame": 429,
+    "dt_ms": -8.622407913208008,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0008_20260903_185822",
+    "depth_frame": 480,
+    "rgb_frame": 479,
+    "dt_ms": -7.222652435302734,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0008_20260903_185822",
+    "depth_frame": 530,
+    "rgb_frame": 529,
+    "dt_ms": -5.930423736572266,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0008_20260903_185822",
+    "depth_frame": 575,
+    "rgb_frame": 574,
+    "dt_ms": -4.761934280395508,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0008_20260903_185822",
+    "depth_frame": 625,
+    "rgb_frame": 624,
+    "dt_ms": -3.3719539642333984,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0008_20260903_185822",
+    "depth_frame": 675,
+    "rgb_frame": 674,
+    "dt_ms": -2.053499221801758,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0008_20260903_185822",
+    "depth_frame": 720,
+    "rgb_frame": 719,
+    "dt_ms": -0.9059906005859375,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0008_20260903_185822",
+    "depth_frame": 769,
+    "rgb_frame": 769,
+    "dt_ms": 0.4343986511230469,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0008_20260903_185822",
+    "depth_frame": 819,
+    "rgb_frame": 819,
+    "dt_ms": 1.7235279083251953,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0008_20260903_185822",
+    "depth_frame": 864,
+    "rgb_frame": 864,
+    "dt_ms": 2.9189586639404297,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0008_20260903_185822",
+    "depth_frame": 914,
+    "rgb_frame": 914,
+    "dt_ms": 4.174947738647461,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0008_20260903_185822",
+    "depth_frame": 964,
+    "rgb_frame": 964,
+    "dt_ms": 5.511283874511719,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0008_20260903_185822",
+    "depth_frame": 1009,
+    "rgb_frame": 1009,
+    "dt_ms": 6.995677947998047,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0008_20260903_185822",
+    "depth_frame": 1059,
+    "rgb_frame": 1059,
+    "dt_ms": 8.215188980102539,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0008_20260903_185822",
+    "depth_frame": 1109,
+    "rgb_frame": 1109,
+    "dt_ms": 9.612321853637695,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0013_20260903_190520",
+    "depth_frame": 2,
+    "rgb_frame": 1,
+    "dt_ms": -6.513118743896484,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0013_20260903_190520",
+    "depth_frame": 42,
+    "rgb_frame": 41,
+    "dt_ms": -5.388498306274414,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0013_20260903_190520",
+    "depth_frame": 82,
+    "rgb_frame": 81,
+    "dt_ms": -4.403352737426758,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0013_20260903_190520",
+    "depth_frame": 122,
+    "rgb_frame": 121,
+    "dt_ms": -3.2083988189697266,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0013_20260903_190520",
+    "depth_frame": 162,
+    "rgb_frame": 161,
+    "dt_ms": -2.145528793334961,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0013_20260903_190520",
+    "depth_frame": 202,
+    "rgb_frame": 201,
+    "dt_ms": -1.1086463928222656,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0013_20260903_190520",
+    "depth_frame": 241,
+    "rgb_frame": 241,
+    "dt_ms": 0.05173683166503906,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0013_20260903_190520",
+    "depth_frame": 281,
+    "rgb_frame": 281,
+    "dt_ms": 1.0154247283935547,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0013_20260903_190520",
+    "depth_frame": 321,
+    "rgb_frame": 321,
+    "dt_ms": 1.9366741180419922,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0013_20260903_190520",
+    "depth_frame": 361,
+    "rgb_frame": 361,
+    "dt_ms": 3.0317306518554688,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0013_20260903_190520",
+    "depth_frame": 401,
+    "rgb_frame": 401,
+    "dt_ms": 4.251003265380859,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0013_20260903_190520",
+    "depth_frame": 441,
+    "rgb_frame": 441,
+    "dt_ms": 5.125522613525391,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0013_20260903_190520",
+    "depth_frame": 486,
+    "rgb_frame": 486,
+    "dt_ms": 6.334066390991211,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0013_20260903_190520",
+    "depth_frame": 526,
+    "rgb_frame": 526,
+    "dt_ms": 7.346630096435547,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0013_20260903_190520",
+    "depth_frame": 566,
+    "rgb_frame": 566,
+    "dt_ms": 8.534431457519531,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0013_20260903_190520",
+    "depth_frame": 606,
+    "rgb_frame": 606,
+    "dt_ms": 9.48786735534668,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0013_20260903_190520",
+    "depth_frame": 646,
+    "rgb_frame": 646,
+    "dt_ms": 10.459661483764648,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0013_20260903_190520",
+    "depth_frame": 686,
+    "rgb_frame": 686,
+    "dt_ms": 11.651039123535156,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0013_20260903_190520",
+    "depth_frame": 726,
+    "rgb_frame": 726,
+    "dt_ms": 12.674808502197266,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0013_20260903_190520",
+    "depth_frame": 766,
+    "rgb_frame": 766,
+    "dt_ms": 13.778209686279297,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0013_20260903_190520",
+    "depth_frame": 806,
+    "rgb_frame": 806,
+    "dt_ms": 14.985084533691406,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0013_20260903_190520",
+    "depth_frame": 846,
+    "rgb_frame": 846,
+    "dt_ms": 15.889406204223633,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0013_20260903_190520",
+    "depth_frame": 886,
+    "rgb_frame": 885,
+    "dt_ms": -16.21842384338379,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0013_20260903_190520",
+    "depth_frame": 931,
+    "rgb_frame": 930,
+    "dt_ms": -15.215635299682617,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0017_20260903_191053",
+    "depth_frame": 0,
+    "rgb_frame": 0,
+    "dt_ms": 39.97516632080078,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0017_20260903_191053",
+    "depth_frame": 33,
+    "rgb_frame": 33,
+    "dt_ms": 7.596254348754883,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0017_20260903_191053",
+    "depth_frame": 68,
+    "rgb_frame": 68,
+    "dt_ms": 8.404970169067383,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0017_20260903_191053",
+    "depth_frame": 103,
+    "rgb_frame": 103,
+    "dt_ms": 9.284257888793945,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0017_20260903_191053",
+    "depth_frame": 143,
+    "rgb_frame": 143,
+    "dt_ms": 10.368108749389648,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0017_20260903_191053",
+    "depth_frame": 178,
+    "rgb_frame": 178,
+    "dt_ms": 11.427164077758789,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0017_20260903_191053",
+    "depth_frame": 213,
+    "rgb_frame": 213,
+    "dt_ms": 12.356042861938477,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0017_20260903_191053",
+    "depth_frame": 253,
+    "rgb_frame": 253,
+    "dt_ms": 13.271570205688477,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0017_20260903_191053",
+    "depth_frame": 288,
+    "rgb_frame": 288,
+    "dt_ms": 14.347076416015625,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0017_20260903_191053",
+    "depth_frame": 323,
+    "rgb_frame": 323,
+    "dt_ms": 15.264034271240234,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0017_20260903_191053",
+    "depth_frame": 363,
+    "rgb_frame": 363,
+    "dt_ms": 16.209840774536133,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0017_20260903_191053",
+    "depth_frame": 398,
+    "rgb_frame": 397,
+    "dt_ms": -16.07990264892578,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0017_20260903_191053",
+    "depth_frame": 433,
+    "rgb_frame": 432,
+    "dt_ms": -15.352249145507812,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0017_20260903_191053",
+    "depth_frame": 468,
+    "rgb_frame": 467,
+    "dt_ms": -14.406681060791016,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0017_20260903_191053",
+    "depth_frame": 508,
+    "rgb_frame": 507,
+    "dt_ms": -13.351917266845703,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0017_20260903_191053",
+    "depth_frame": 543,
+    "rgb_frame": 542,
+    "dt_ms": -12.401819229125977,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0017_20260903_191053",
+    "depth_frame": 578,
+    "rgb_frame": 577,
+    "dt_ms": -11.397838592529297,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0017_20260903_191053",
+    "depth_frame": 618,
+    "rgb_frame": 617,
+    "dt_ms": -10.418891906738281,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0017_20260903_191053",
+    "depth_frame": 653,
+    "rgb_frame": 652,
+    "dt_ms": -9.349346160888672,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0017_20260903_191053",
+    "depth_frame": 688,
+    "rgb_frame": 687,
+    "dt_ms": -8.437395095825195,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0017_20260903_191053",
+    "depth_frame": 728,
+    "rgb_frame": 727,
+    "dt_ms": -7.388830184936523,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0017_20260903_191053",
+    "depth_frame": 763,
+    "rgb_frame": 762,
+    "dt_ms": -6.473779678344727,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0017_20260903_191053",
+    "depth_frame": 798,
+    "rgb_frame": 797,
+    "dt_ms": -5.815029144287109,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0017_20260903_191053",
+    "depth_frame": 838,
+    "rgb_frame": 837,
+    "dt_ms": -4.54401969909668,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260903_191423",
+    "depth_frame": 0,
+    "rgb_frame": 0,
+    "dt_ms": 7.233381271362305,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260903_191423",
+    "depth_frame": 35,
+    "rgb_frame": 35,
+    "dt_ms": 8.159875869750977,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260903_191423",
+    "depth_frame": 75,
+    "rgb_frame": 75,
+    "dt_ms": 9.319782257080078,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260903_191423",
+    "depth_frame": 111,
+    "rgb_frame": 110,
+    "dt_ms": 10.193347930908203,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260903_191423",
+    "depth_frame": 150,
+    "rgb_frame": 150,
+    "dt_ms": 11.343955993652344,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260903_191423",
+    "depth_frame": 185,
+    "rgb_frame": 185,
+    "dt_ms": 12.226581573486328,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260903_191423",
+    "depth_frame": 225,
+    "rgb_frame": 225,
+    "dt_ms": 13.312816619873047,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260903_191423",
+    "depth_frame": 260,
+    "rgb_frame": 260,
+    "dt_ms": 14.107704162597656,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260903_191423",
+    "depth_frame": 300,
+    "rgb_frame": 300,
+    "dt_ms": 15.26188850402832,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260903_191423",
+    "depth_frame": 335,
+    "rgb_frame": 335,
+    "dt_ms": 16.109704971313477,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260903_191423",
+    "depth_frame": 375,
+    "rgb_frame": 374,
+    "dt_ms": -16.180038452148438,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260903_191423",
+    "depth_frame": 410,
+    "rgb_frame": 409,
+    "dt_ms": -15.176773071289062,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260903_191423",
+    "depth_frame": 450,
+    "rgb_frame": 449,
+    "dt_ms": -14.028310775756836,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260903_191423",
+    "depth_frame": 485,
+    "rgb_frame": 484,
+    "dt_ms": -13.212919235229492,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260903_191423",
+    "depth_frame": 525,
+    "rgb_frame": 524,
+    "dt_ms": -12.195348739624023,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260903_191423",
+    "depth_frame": 560,
+    "rgb_frame": 559,
+    "dt_ms": -11.305809020996094,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260903_191423",
+    "depth_frame": 600,
+    "rgb_frame": 599,
+    "dt_ms": -10.191202163696289,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260903_191423",
+    "depth_frame": 635,
+    "rgb_frame": 634,
+    "dt_ms": -9.273767471313477,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260903_191423",
+    "depth_frame": 675,
+    "rgb_frame": 674,
+    "dt_ms": -8.315324783325195,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260903_191423",
+    "depth_frame": 710,
+    "rgb_frame": 709,
+    "dt_ms": -7.2231292724609375,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260903_191423",
+    "depth_frame": 750,
+    "rgb_frame": 749,
+    "dt_ms": -6.224393844604492,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260903_191423",
+    "depth_frame": 785,
+    "rgb_frame": 784,
+    "dt_ms": -5.228519439697266,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260903_191423",
+    "depth_frame": 825,
+    "rgb_frame": 824,
+    "dt_ms": -4.203557968139648,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260903_191423",
+    "depth_frame": 865,
+    "rgb_frame": 864,
+    "dt_ms": -3.168821334838867,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0033_20260903_192205",
+    "depth_frame": 0,
+    "rgb_frame": 0,
+    "dt_ms": 25.458335876464844,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0033_20260903_192205",
+    "depth_frame": 25,
+    "rgb_frame": 24,
+    "dt_ms": -7.0896148681640625,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0033_20260903_192205",
+    "depth_frame": 55,
+    "rgb_frame": 54,
+    "dt_ms": -6.404399871826172,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0033_20260903_192205",
+    "depth_frame": 85,
+    "rgb_frame": 84,
+    "dt_ms": -5.635738372802734,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0033_20260903_192205",
+    "depth_frame": 115,
+    "rgb_frame": 114,
+    "dt_ms": -4.685401916503906,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0033_20260903_192205",
+    "depth_frame": 145,
+    "rgb_frame": 144,
+    "dt_ms": -4.041910171508789,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0033_20260903_192205",
+    "depth_frame": 175,
+    "rgb_frame": 174,
+    "dt_ms": -3.0634403228759766,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0033_20260903_192205",
+    "depth_frame": 205,
+    "rgb_frame": 204,
+    "dt_ms": -2.2885799407958984,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0033_20260903_192205",
+    "depth_frame": 235,
+    "rgb_frame": 234,
+    "dt_ms": -1.5082359313964844,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0033_20260903_192205",
+    "depth_frame": 270,
+    "rgb_frame": 269,
+    "dt_ms": -0.5750656127929688,
+    "index_offset": -1
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0033_20260903_192205",
+    "depth_frame": 299,
+    "rgb_frame": 299,
+    "dt_ms": 0.2224445343017578,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0033_20260903_192205",
+    "depth_frame": 329,
+    "rgb_frame": 329,
+    "dt_ms": 0.8778572082519531,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0033_20260903_192205",
+    "depth_frame": 354,
+    "rgb_frame": 354,
+    "dt_ms": 1.6095638275146484,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0033_20260903_192205",
+    "depth_frame": 384,
+    "rgb_frame": 384,
+    "dt_ms": 2.3169517517089844,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0033_20260903_192205",
+    "depth_frame": 414,
+    "rgb_frame": 414,
+    "dt_ms": 3.1633377075195312,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0033_20260903_192205",
+    "depth_frame": 444,
+    "rgb_frame": 444,
+    "dt_ms": 3.9107799530029297,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0033_20260903_192205",
+    "depth_frame": 474,
+    "rgb_frame": 474,
+    "dt_ms": 4.700899124145508,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0033_20260903_192205",
+    "depth_frame": 504,
+    "rgb_frame": 504,
+    "dt_ms": 5.673408508300781,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0033_20260903_192205",
+    "depth_frame": 529,
+    "rgb_frame": 529,
+    "dt_ms": 6.249189376831055,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0033_20260903_192205",
+    "depth_frame": 559,
+    "rgb_frame": 559,
+    "dt_ms": 6.953954696655273,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0033_20260903_192205",
+    "depth_frame": 589,
+    "rgb_frame": 589,
+    "dt_ms": 7.711172103881836,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0033_20260903_192205",
+    "depth_frame": 619,
+    "rgb_frame": 619,
+    "dt_ms": 8.697986602783203,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0033_20260903_192205",
+    "depth_frame": 649,
+    "rgb_frame": 649,
+    "dt_ms": 9.347677230834961,
+    "index_offset": 0
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0033_20260903_192205",
+    "depth_frame": 679,
+    "rgb_frame": 679,
+    "dt_ms": 10.30588150024414,
+    "index_offset": 0
+  }
+]

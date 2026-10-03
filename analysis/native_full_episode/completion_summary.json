@@ -1,0 +1,29 @@
+{
+  "status": "Formal native full episode completed; geometry quality not passed.",
+  "episode": "task21 episode000000",
+  "frames": 713,
+  "fps": 20,
+  "duration_seconds": 35.65,
+  "formal_pipeline": [
+    "native run_efep_export: full sequence, no application truncation/chunks",
+    "native sam2_segment: white hand prompts, refined anchor boxes",
+    "native efep_seg_label: fill-gaps3, despike0.03",
+    "native drop_detached: defaults"
+  ],
+  "findings": [
+    "Native DA3 internal 128-frame batches overwrite scale and focal; final conversion uses last batch metadata for all frames.",
+    "Saved normalized-depth probe times last batch scale reproduces tested native output depth exactly.",
+    "SAM2 right-hand coverage fails in many frames; data not suitable for batch training yet."
+  ],
+  "pooled_interior_raw_median_mm": 146.72205109772455,
+  "pooled_interior_diagnostic_median_mm": 49.65279785551165,
+  "diagnostic_p95_mm": 236.16160575935803,
+  "shared_native_code_modified": false,
+  "gpu_tasks_complete": true,
+  "production_fix_applied": false,
+  "next_steps": [
+    "Preserve per-block/per-frame scale and intrinsics in model output and revalidate motion across internal batch boundaries.",
+    "Repair SAM2 hand visibility/coverage with additional verified prompts.",
+    "Re-evaluate against independent rendered depth before attributing residuals to simulation domain shift."
+  ]
+}

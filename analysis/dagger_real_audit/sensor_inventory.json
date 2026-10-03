@@ -1,0 +1,30 @@
+[
+  {
+    "episode": "episode_0002_20260830_155725",
+    "frame": 0,
+    "depth_frame": 2,
+    "delta_frames": 2,
+    "file": "/mnt/afs/Bench2Dex/analysis/dagger_real_audit/episode_0002_20260830_155725_depth0000.png"
+  },
+  {
+    "episode": "episode_0002_20260830_155725",
+    "frame": 650,
+    "depth_frame": 651,
+    "delta_frames": 1,
+    "file": "/mnt/afs/Bench2Dex/analysis/dagger_real_audit/episode_0002_20260830_155725_depth0650.png"
+  },
+  {
+    "episode": "episode_0005_20260903_185554",
+    "frame": 0,
+    "depth_frame": 0,
+    "delta_frames": 0,
+    "file": "/mnt/afs/Bench2Dex/analysis/dagger_real_audit/episode_0005_20260903_185554_depth0000.png"
+  },
+  {
+    "episode": "episode_0005_20260903_185554",
+    "frame": 650,
+    "depth_frame": 649,
+    "delta_frames": -1,
+    "file": "/mnt/afs/Bench2Dex/analysis/dagger_real_audit/episode_0005_20260903_185554_depth0650.png"
+  }
+]

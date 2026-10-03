@@ -1,0 +1,110 @@
+{
+  "dataset": "bench2dex_task21",
+  "episode": "task21_episode000000",
+  "frames": 713,
+  "anchor": 0,
+  "size": [
+    640,
+    480
+  ],
+  "model": "sam2.1_hiera_large video predictor",
+  "prompts": [
+    {
+      "obj_id": 1,
+      "cls": 2,
+      "box": [
+        0.5145931243896484,
+        5.055427551269531,
+        133.57611083984375,
+        166.0
+      ],
+      "points": null
+    },
+    {
+      "obj_id": 2,
+      "cls": 2,
+      "box": [
+        503.16192626953125,
+        6.899585723876953,
+        638.9248046875,
+        166.0
+      ],
+      "points": null
+    },
+    {
+      "obj_id": 10,
+      "cls": 3,
+      "box": [
+        111.0,
+        105.0,
+        175.0,
+        165.0
+      ],
+      "points": null
+    },
+    {
+      "obj_id": 11,
+      "cls": 3,
+      "box": [
+        169.0,
+        179.0,
+        229.0,
+        228.0
+      ],
+      "points": null
+    },
+    {
+      "obj_id": 12,
+      "cls": 3,
+      "box": [
+        331.0,
+        108.0,
+        365.0,
+        146.0
+      ],
+      "points": null
+    },
+    {
+      "obj_id": 20,
+      "cls": 4,
+      "box": [
+        505.0,
+        84.0,
+        640.0,
+        244.0
+      ],
+      "points": null
+    }
+  ],
+  "hand_prompt": [
+    {
+      "obj_id": 1,
+      "source": "grounding_dino",
+      "score": 0.371,
+      "refinement": "anchor hand box bottom clipped to y=166; excludes wrist and arm"
+    },
+    {
+      "obj_id": 2,
+      "source": "grounding_dino",
+      "score": 0.294,
+      "refinement": "anchor hand box bottom clipped to y=166; excludes wrist and arm"
+    }
+  ],
+  "hand_text": "white robotic hand.",
+  "dino_model": "/data/shichaojian/checkpoints/grounding-dino-base",
+  "classes": {
+    "2": "dexterous_hand",
+    "3": "manipulated_object",
+    "4": "operated_surface"
+  },
+  "mean_coverage_pct": {
+    "2": 2.136839736003974,
+    "3": 0.9478326612903225,
+    "4": 5.35771132830762
+  },
+  "frames_without_class": {
+    "2": 0,
+    "3": 0,
+    "4": 0
+  }
+}

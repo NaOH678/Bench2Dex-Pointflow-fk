@@ -1,0 +1,4934 @@
+{
+  "selection": [
+    {
+      "group": "sandwich",
+      "episode": "episode_0000_20260730_163803",
+      "split": "calibration",
+      "pf": "/data/shichaojian/pf_out/9.24/sandwich/efep_seg_v2/episode_0000_20260730_163803",
+      "raw": "/data/shichaojian/raw_data/singlerighthand_sandwich_100/episode_0000_20260730_163803"
+    },
+    {
+      "group": "sandwich",
+      "episode": "episode_0013_20260730_170250",
+      "split": "test_episode",
+      "pf": "/data/shichaojian/pf_out/9.24/sandwich/efep_seg_v2/episode_0013_20260730_170250",
+      "raw": "/data/shichaojian/raw_data/singlerighthand_sandwich_100/episode_0013_20260730_170250"
+    },
+    {
+      "group": "sandwich",
+      "episode": "episode_0019_20260730_171242",
+      "split": "calibration",
+      "pf": "/data/shichaojian/pf_out/9.24/sandwich/efep_seg_v2/episode_0019_20260730_171242",
+      "raw": "/data/shichaojian/raw_data/singlerighthand_sandwich_100/episode_0019_20260730_171242"
+    },
+    {
+      "group": "sandwich",
+      "episode": "episode_0023_20260731_134714",
+      "split": "test_episode",
+      "pf": "/data/shichaojian/pf_out/9.24/sandwich/efep_seg_v2/episode_0023_20260731_134714",
+      "raw": "/data/shichaojian/raw_data/singlerighthand_sandwich_100/episode_0023_20260731_134714"
+    },
+    {
+      "group": "sandwich",
+      "episode": "episode_0029_20260730_172413",
+      "split": "calibration",
+      "pf": "/data/shichaojian/pf_out/9.24/sandwich/efep_seg_v2/episode_0029_20260730_172413",
+      "raw": "/data/shichaojian/raw_data/singlerighthand_sandwich_100/episode_0029_20260730_172413"
+    },
+    {
+      "group": "sandwich",
+      "episode": "episode_0034_20260730_172929",
+      "split": "test_episode",
+      "pf": "/data/shichaojian/pf_out/9.24/sandwich/efep_seg_v2/episode_0034_20260730_172929",
+      "raw": "/data/shichaojian/raw_data/singlerighthand_sandwich_100/episode_0034_20260730_172929"
+    },
+    {
+      "group": "sandwich",
+      "episode": "episode_0040_20260731_140141",
+      "split": "calibration",
+      "pf": "/data/shichaojian/pf_out/9.24/sandwich/efep_seg_v2/episode_0040_20260731_140141",
+      "raw": "/data/shichaojian/raw_data/singlerighthand_sandwich_100/episode_0040_20260731_140141"
+    },
+    {
+      "group": "sandwich",
+      "episode": "episode_0051_20260731_141010",
+      "split": "test_episode",
+      "pf": "/data/shichaojian/pf_out/9.24/sandwich/efep_seg_v2/episode_0051_20260731_141010",
+      "raw": "/data/shichaojian/raw_data/singlerighthand_sandwich_100/episode_0051_20260731_141010"
+    },
+    {
+      "group": "sandwich",
+      "episode": "episode_0063_20260731_141938",
+      "split": "calibration",
+      "pf": "/data/shichaojian/pf_out/9.24/sandwich/efep_seg_v2/episode_0063_20260731_141938",
+      "raw": "/data/shichaojian/raw_data/singlerighthand_sandwich_100/episode_0063_20260731_141938"
+    },
+    {
+      "group": "sandwich",
+      "episode": "episode_0075_20260731_142752",
+      "split": "test_episode",
+      "pf": "/data/shichaojian/pf_out/9.24/sandwich/efep_seg_v2/episode_0075_20260731_142752",
+      "raw": "/data/shichaojian/raw_data/singlerighthand_sandwich_100/episode_0075_20260731_142752"
+    },
+    {
+      "group": "sandwich",
+      "episode": "episode_0088_20260731_143616",
+      "split": "calibration",
+      "pf": "/data/shichaojian/pf_out/9.24/sandwich/efep_seg_v2/episode_0088_20260731_143616",
+      "raw": "/data/shichaojian/raw_data/singlerighthand_sandwich_100/episode_0088_20260731_143616"
+    },
+    {
+      "group": "sandwich",
+      "episode": "episode_0099_20260731_144354",
+      "split": "test_episode",
+      "pf": "/data/shichaojian/pf_out/9.24/sandwich/efep_seg_v2/episode_0099_20260731_144354",
+      "raw": "/data/shichaojian/raw_data/singlerighthand_sandwich_100/episode_0099_20260731_144354"
+    },
+    {
+      "group": "dagger",
+      "episode": "episode_0000_20260830_155455",
+      "split": "calibration",
+      "pf": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0000_20260830_155455",
+      "raw": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0000_20260830_155455"
+    },
+    {
+      "group": "dagger",
+      "episode": "episode_0014_20260830_161022",
+      "split": "test_episode",
+      "pf": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0014_20260830_161022",
+      "raw": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0014_20260830_161022"
+    },
+    {
+      "group": "dagger",
+      "episode": "episode_0024_20260830_161646",
+      "split": "calibration",
+      "pf": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0024_20260830_161646",
+      "raw": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0024_20260830_161646"
+    },
+    {
+      "group": "dagger",
+      "episode": "episode_0036_20260830_163133",
+      "split": "test_episode",
+      "pf": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0036_20260830_163133",
+      "raw": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0036_20260830_163133"
+    },
+    {
+      "group": "dagger",
+      "episode": "episode_0050_20260830_165537",
+      "split": "calibration",
+      "pf": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0050_20260830_165537",
+      "raw": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0050_20260830_165537"
+    },
+    {
+      "group": "dagger",
+      "episode": "episode_0062_20260830_170434",
+      "split": "test_episode",
+      "pf": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0062_20260830_170434",
+      "raw": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0062_20260830_170434"
+    },
+    {
+      "group": "dagger",
+      "episode": "episode_0005_20260903_185554",
+      "split": "calibration",
+      "pf": "/data/shichaojian/pf_out/10.1/dagger_new/efep_seg_v61/episode_0005_20260903_185554",
+      "raw": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0005_20260903_185554"
+    },
+    {
+      "group": "dagger",
+      "episode": "episode_0008_20260903_185822",
+      "split": "test_episode",
+      "pf": "/data/shichaojian/pf_out/10.1/dagger_new/efep_seg_v61/episode_0008_20260903_185822",
+      "raw": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0008_20260903_185822"
+    },
+    {
+      "group": "dagger",
+      "episode": "episode_0013_20260903_190520",
+      "split": "calibration",
+      "pf": "/data/shichaojian/pf_out/10.1/dagger_new/efep_seg_v61/episode_0013_20260903_190520",
+      "raw": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0013_20260903_190520"
+    },
+    {
+      "group": "dagger",
+      "episode": "episode_0017_20260903_191053",
+      "split": "test_episode",
+      "pf": "/data/shichaojian/pf_out/10.1/dagger_new/efep_seg_v61/episode_0017_20260903_191053",
+      "raw": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0017_20260903_191053"
+    },
+    {
+      "group": "dagger",
+      "episode": "episode_0024_20260903_191423",
+      "split": "calibration",
+      "pf": "/data/shichaojian/pf_out/10.1/dagger_new/efep_seg_v61/episode_0024_20260903_191423",
+      "raw": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0024_20260903_191423"
+    },
+    {
+      "group": "dagger",
+      "episode": "episode_0033_20260903_192205",
+      "split": "test_episode",
+      "pf": "/data/shichaojian/pf_out/10.1/dagger_new/efep_seg_v61/episode_0033_20260903_192205",
+      "raw": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0033_20260903_192205"
+    }
+  ],
+  "calibration": "6 calibration episodes per dataset: first 12 sampled sensor frames fit, later frames test_time; 6 completely held-out episodes test_episode. DAgger stratified 9.24/10.1. Fixed seed17; no test-based parameter fitting.",
+  "fit": "Weighted robust least squares (soft_l1, 20mm), equal weighting per frame/class fit group; fit scopes all_classes or hand_only.",
+  "reference": "D435 depth transformed to colour using column-major extrinsics, z-buffer and calibrated K; closest recorded colour timestamp <=20ms. Not perfect ground truth.",
+  "timestamp_abs_delta_ms": {
+    "n": 576,
+    "median": 8.52954387664795,
+    "p95": 16.182303428649902,
+    "mean": 8.915281130207909
+  },
+  "timestamp_rejected": 9,
+  "timestamp_index_offset_counts": {
+    "-2": 5,
+    "-1": 284,
+    "0": 287
+  },
+  "models": [
+    {
+      "group": "sandwich",
+      "fit_scope": "all_classes",
+      "model": "raw",
+      "scale": 1.0,
+      "offset_m": 0.0,
+      "fit_points": 30032
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "all_classes",
+      "model": "offset",
+      "scale": 1.0,
+      "offset_m": 0.1536007992995682,
+      "fit_points": 30032
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "all_classes",
+      "model": "scale",
+      "scale": 1.2203596002661985,
+      "offset_m": 0.0,
+      "fit_points": 30032
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "all_classes",
+      "model": "affine",
+      "scale": 0.6530478517921295,
+      "offset_m": 0.39792747544699436,
+      "fit_points": 30032
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "hand_only",
+      "model": "raw",
+      "scale": 1.0,
+      "offset_m": 0.0,
+      "fit_points": 10063
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "hand_only",
+      "model": "offset",
+      "scale": 1.0,
+      "offset_m": 0.10547098645760443,
+      "fit_points": 10063
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "hand_only",
+      "model": "scale",
+      "scale": 1.159758405418633,
+      "offset_m": 0.0,
+      "fit_points": 10063
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "hand_only",
+      "model": "affine",
+      "scale": 0.2577951992880848,
+      "offset_m": 0.5639055551709921,
+      "fit_points": 10063
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "all_classes",
+      "model": "raw",
+      "scale": 1.0,
+      "offset_m": 0.0,
+      "fit_points": 27397
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "all_classes",
+      "model": "offset",
+      "scale": 1.0,
+      "offset_m": -0.014645705128254409,
+      "fit_points": 27397
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "all_classes",
+      "model": "scale",
+      "scale": 0.9817460577752658,
+      "offset_m": 0.0,
+      "fit_points": 27397
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "all_classes",
+      "model": "affine",
+      "scale": 0.9639630037092721,
+      "offset_m": 0.01465643112468177,
+      "fit_points": 27397
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "hand_only",
+      "model": "raw",
+      "scale": 1.0,
+      "offset_m": 0.0,
+      "fit_points": 10072
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "hand_only",
+      "model": "offset",
+      "scale": 1.0,
+      "offset_m": -0.03450739432110465,
+      "fit_points": 10072
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "hand_only",
+      "model": "scale",
+      "scale": 0.9518338322299991,
+      "offset_m": 0.0,
+      "fit_points": 10072
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "hand_only",
+      "model": "affine",
+      "scale": 0.7295874846942033,
+      "offset_m": 0.16663562621186676,
+      "fit_points": 10072
+    }
+  ],
+  "aggregate": [
+    {
+      "group": "sandwich",
+      "fit_scope": "all_classes",
+      "model": "raw",
+      "split": "fit",
+      "cls": 2,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 112.18492692286183,
+        "p95": 155.2459232894507,
+        "mean": 103.7004285618529
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 114.39164028526795,
+        "p95": 157.61666838117503,
+        "mean": 106.57863874108962
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 121.13108774564648,
+        "p95": 164.9436475843553,
+        "mean": 110.95561777568689
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 180.8168313981564,
+        "p95": 287.1947509126325,
+        "mean": 189.89294100805478
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "all_classes",
+      "model": "raw",
+      "split": "fit",
+      "cls": 3,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 194.76334181506326,
+        "p95": 215.08693296541446,
+        "mean": 165.7586375609054
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 195.69387760226914,
+        "p95": 216.41593425382297,
+        "mean": 166.8834729886896
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 196.72444240319948,
+        "p95": 217.4908372951649,
+        "mean": 167.5955984022216
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 235.18207005544824,
+        "p95": 307.9910844631288,
+        "mean": 220.77656105965443
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "all_classes",
+      "model": "raw",
+      "split": "fit",
+      "cls": 4,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 209.11503651320697,
+        "p95": 237.8917408220803,
+        "mean": 184.68036238936907
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 214.89890049673278,
+        "p95": 242.90971790093602,
+        "mean": 189.52603333745142
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 223.4745532652757,
+        "p95": 254.71591053412723,
+        "mean": 198.064393611074
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 232.31714435927012,
+        "p95": 319.8445369705389,
+        "mean": 228.21937328588183
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "all_classes",
+      "model": "raw",
+      "split": "test_time",
+      "cls": 2,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 89.18553505967853,
+        "p95": 138.15736281748468,
+        "mean": 85.33303826530874
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 90.75508702646448,
+        "p95": 139.4955125737612,
+        "mean": 89.01128989350217
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 93.1737892598332,
+        "p95": 146.099714413551,
+        "mean": 89.79223190761827
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 230.25148695784003,
+        "p95": 358.059862409901,
+        "mean": 228.68685741896581
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "all_classes",
+      "model": "raw",
+      "split": "test_time",
+      "cls": 3,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 179.41687858640185,
+        "p95": 208.58043897762045,
+        "mean": 159.9225216538089
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 180.25410971351158,
+        "p95": 209.63578292151175,
+        "mean": 161.17674248580525
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 181.24494401946492,
+        "p95": 210.3960030031028,
+        "mean": 161.86446368146417
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 212.29211210155535,
+        "p95": 243.21529929307215,
+        "mean": 197.31485316661005
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "all_classes",
+      "model": "raw",
+      "split": "test_time",
+      "cls": 4,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 196.12747778737076,
+        "p95": 222.00673646819573,
+        "mean": 172.91719667325788
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 201.5938482214732,
+        "p95": 227.081815761512,
+        "mean": 177.78859546264883
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 210.35261833825643,
+        "p95": 237.81050990898873,
+        "mean": 185.33030373798871
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 216.64109137658306,
+        "p95": 247.3820400804586,
+        "mean": 202.954538931393
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "all_classes",
+      "model": "raw",
+      "split": "test_episode",
+      "cls": 2,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 147.1131617678069,
+        "p95": 163.7664729118826,
+        "mean": 138.59928236150594
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 149.41903053565477,
+        "p95": 167.4024387549681,
+        "mean": 140.97441297647757
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 156.3544404843351,
+        "p95": 173.8467364040275,
+        "mean": 147.06260715728214
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 224.4069261145964,
+        "p95": 320.86265297944533,
+        "mean": 246.55197953553417
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "all_classes",
+      "model": "raw",
+      "split": "test_episode",
+      "cls": 3,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 220.2571758429698,
+        "p95": 238.9517798796088,
+        "mean": 208.66380818084255
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 221.63779804894403,
+        "p95": 240.16490381540532,
+        "mean": 209.86685370319694
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 222.77943737749376,
+        "p95": 241.32402153272704,
+        "mean": 210.95125418875764
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 274.36091857862004,
+        "p95": 292.8836757178587,
+        "mean": 256.6249562704653
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "all_classes",
+      "model": "raw",
+      "split": "test_episode",
+      "cls": 4,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 239.4265266538801,
+        "p95": 253.9642063292644,
+        "mean": 224.8062621836119
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 246.46679820208723,
+        "p95": 259.95106776385603,
+        "mean": 230.42581073270517
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 257.1304674863718,
+        "p95": 273.56116144890655,
+        "mean": 241.71514251996396
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 272.70313281831244,
+        "p95": 300.1059733057897,
+        "mean": 262.1147617008381
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "all_classes",
+      "model": "offset",
+      "split": "fit",
+      "cls": 2,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 46.2571824145156,
+        "p95": 112.4733134148301,
+        "mean": 60.77447462185165
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 76.35442206479037,
+        "p95": 138.52207598198973,
+        "mean": 88.35755707234252
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 49.945148995049635,
+        "p95": 119.58587160903582,
+        "mean": 65.01107277230001
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 127.55619024966543,
+        "p95": 208.66251068485602,
+        "mean": 137.84318061631313
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "all_classes",
+      "model": "offset",
+      "split": "fit",
+      "cls": 3,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 58.88216791246492,
+        "p95": 71.02661426150823,
+        "mean": 55.81933506562029
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 60.171126903205945,
+        "p95": 74.40700600870117,
+        "mean": 58.29182490557349
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 59.608650384680516,
+        "p95": 71.72314985534385,
+        "mean": 56.436979518806304
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 117.727181317808,
+        "p95": 155.0944966007225,
+        "mean": 114.58529845417003
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "all_classes",
+      "model": "offset",
+      "split": "fit",
+      "cls": 4,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 64.30947148074529,
+        "p95": 85.29987674265169,
+        "mean": 61.83837583720373
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 84.67747042881157,
+        "p95": 95.29976652262155,
+        "mean": 77.38203545372956
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 68.82645723783554,
+        "p95": 91.25541161927838,
+        "mean": 66.34814098894225
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 98.51430948892023,
+        "p95": 167.25019766385518,
+        "mean": 107.54768254883493
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "all_classes",
+      "model": "offset",
+      "split": "test_time",
+      "cls": 2,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 69.31332081891911,
+        "p95": 143.41696616625728,
+        "mean": 80.56387661773971
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 83.87180134223061,
+        "p95": 159.1676125401743,
+        "mean": 101.32030254454679
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 72.55313683718337,
+        "p95": 151.96318494631475,
+        "mean": 84.78297714527156
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 180.99746497275294,
+        "p95": 230.47078054451495,
+        "mean": 172.24526493282306
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "all_classes",
+      "model": "offset",
+      "split": "test_time",
+      "cls": 3,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 54.2582899390266,
+        "p95": 61.46244564905104,
+        "mean": 47.39482975371677
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 55.48553382045941,
+        "p95": 66.50892518522882,
+        "mean": 50.83937247341211
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 54.72044921731095,
+        "p95": 62.50912337248976,
+        "mean": 48.03208766319145
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 90.00327143652251,
+        "p95": 117.3800896547383,
+        "mean": 86.27843070836661
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "all_classes",
+      "model": "offset",
+      "split": "test_time",
+      "cls": 4,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 59.55292394051601,
+        "p95": 69.75342935706142,
+        "mean": 55.676442108580595
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 73.62175022978627,
+        "p95": 94.67598668858665,
+        "mean": 72.61187842322241
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 64.10297852900983,
+        "p95": 74.7289598814691,
+        "mean": 59.718639792196115
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 112.87580829862875,
+        "p95": 162.99892133570765,
+        "mean": 113.3242622800331
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "all_classes",
+      "model": "offset",
+      "split": "test_episode",
+      "cls": 2,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 29.130509599199744,
+        "p95": 66.98088261685443,
+        "mean": 36.44099268453885
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 57.2147837164695,
+        "p95": 90.71729863166456,
+        "mean": 63.213655250138096
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 30.880930952860236,
+        "p95": 69.73065651126333,
+        "mean": 38.31490478525515
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 118.40508756919992,
+        "p95": 183.525496870831,
+        "mean": 129.6200409582829
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "all_classes",
+      "model": "offset",
+      "split": "test_episode",
+      "cls": 3,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 67.12558835672061,
+        "p95": 85.61863050818715,
+        "mean": 60.88522591879809
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 67.93029270048388,
+        "p95": 86.14918372962651,
+        "mean": 62.626387569135936
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 67.86597626996311,
+        "p95": 86.46378443601694,
+        "mean": 61.58179359175748
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 121.21571823469684,
+        "p95": 140.2816018111073,
+        "mean": 109.01841798256864
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "all_classes",
+      "model": "offset",
+      "split": "test_episode",
+      "cls": 4,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 86.31673765969705,
+        "p95": 101.35335108655377,
+        "mean": 75.06283955802829
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 89.91043978357105,
+        "p95": 104.73502335437168,
+        "mean": 85.23165791686229
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 92.6602588106644,
+        "p95": 109.21150008962647,
+        "mean": 80.68645711315541
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 121.06963337326846,
+        "p95": 150.84440582520273,
+        "mean": 115.08383160207428
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "all_classes",
+      "model": "scale",
+      "split": "fit",
+      "cls": 2,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 40.498192283441426,
+        "p95": 109.62037723199694,
+        "mean": 59.214380952810416
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 65.07859993293194,
+        "p95": 136.09758175280498,
+        "mean": 81.54222196695589
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 43.34735516891506,
+        "p95": 116.7190657633868,
+        "mean": 63.17950867870892
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 152.91691857289783,
+        "p95": 219.2557300147746,
+        "mean": 144.25708934822805
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "all_classes",
+      "model": "scale",
+      "split": "fit",
+      "cls": 3,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 60.06985775500911,
+        "p95": 101.33913527649744,
+        "mean": 63.662347076840625
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 61.02802573295787,
+        "p95": 105.21059831074533,
+        "mean": 66.43109139141036
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 60.741602043175725,
+        "p95": 102.38856889333148,
+        "mean": 64.35645974132957
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 137.577578981125,
+        "p95": 177.3865066473552,
+        "mean": 129.39594581802098
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "all_classes",
+      "model": "scale",
+      "split": "fit",
+      "cls": 4,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 79.7744230097403,
+        "p95": 92.70615421653712,
+        "mean": 71.25746570763536
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 88.89213362001712,
+        "p95": 114.426893454813,
+        "mean": 86.96609476543632
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 85.45617861248171,
+        "p95": 99.51566030399434,
+        "mean": 76.56591327984209
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 115.06985464269579,
+        "p95": 192.82393402744103,
+        "mean": 124.96316829638126
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "all_classes",
+      "model": "scale",
+      "split": "test_time",
+      "cls": 2,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 53.78533835785343,
+        "p95": 149.04519807682124,
+        "mean": 74.06209855401775
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 72.30314353271442,
+        "p95": 164.5931347591902,
+        "mean": 93.3550807827176
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 55.94901722047035,
+        "p95": 157.33363070348366,
+        "mean": 77.72872403972535
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 188.66669671371048,
+        "p95": 246.49341953688997,
+        "mean": 178.65302312805485
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "all_classes",
+      "model": "scale",
+      "split": "test_time",
+      "cls": 3,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 48.71313841901173,
+        "p95": 85.23126626250286,
+        "mean": 50.99332020376741
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 50.54521828196115,
+        "p95": 90.1278725300395,
+        "mean": 55.035951253894105
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 49.270391521942116,
+        "p95": 87.15268648282024,
+        "mean": 52.098042393004704
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 87.13053722233656,
+        "p95": 150.5651822633202,
+        "mean": 95.78697966199628
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "all_classes",
+      "model": "scale",
+      "split": "test_time",
+      "cls": 4,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 72.48818145355696,
+        "p95": 77.52338879759341,
+        "mean": 64.47932194550508
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 78.38869880324641,
+        "p95": 113.63983340949798,
+        "mean": 81.31120433452192
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 77.82403246112355,
+        "p95": 83.03979515941442,
+        "mean": 69.0878966563293
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 114.10480539789609,
+        "p95": 164.82326595330923,
+        "mean": 115.51196842866598
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "all_classes",
+      "model": "scale",
+      "split": "test_episode",
+      "cls": 2,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 38.669724009510134,
+        "p95": 61.490781427544945,
+        "mean": 42.25825004864955
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 55.267493335152594,
+        "p95": 81.94341157772787,
+        "mean": 59.93886690902246
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 40.92730338365895,
+        "p95": 64.85936992485044,
+        "mean": 44.82381041435448
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 125.19304554902214,
+        "p95": 201.13475671781345,
+        "mean": 138.4949764300325
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "all_classes",
+      "model": "scale",
+      "split": "test_episode",
+      "cls": 3,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 66.6967095102634,
+        "p95": 88.69303893147924,
+        "mean": 63.36787668395434
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 67.59039915264282,
+        "p95": 89.2017729302574,
+        "mean": 64.9941859244834
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 67.49716013995554,
+        "p95": 89.73301089718976,
+        "mean": 64.12071617604006
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 125.85821410678052,
+        "p95": 148.98828043385174,
+        "mean": 115.7938600227567
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "all_classes",
+      "model": "scale",
+      "split": "test_episode",
+      "cls": 4,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 94.35511318588017,
+        "p95": 107.91118897951702,
+        "mean": 82.02541123252632
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 97.58712414897305,
+        "p95": 110.52623101562993,
+        "mean": 91.14214008220165
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 101.36634132448286,
+        "p95": 116.38351466733512,
+        "mean": 88.23725707530961
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 133.33573761709036,
+        "p95": 162.56380917912867,
+        "mean": 125.1560160448575
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "all_classes",
+      "model": "affine",
+      "split": "fit",
+      "cls": 2,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 77.71938275864626,
+        "p95": 122.15654273486315,
+        "mean": 83.03482534340691
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 103.79840725260053,
+        "p95": 145.9236905645031,
+        "mean": 108.54988404408452
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 83.8282370602249,
+        "p95": 129.9376511874034,
+        "mean": 88.99122362808164
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 134.9047127952424,
+        "p95": 201.68643625887998,
+        "mean": 151.0774230303721
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "all_classes",
+      "model": "affine",
+      "split": "fit",
+      "cls": 3,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 50.27465779137344,
+        "p95": 66.7450021638771,
+        "mean": 46.46945480133969
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 51.743858838752836,
+        "p95": 67.68317903424165,
+        "mean": 48.97951975220752
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 50.758199356647765,
+        "p95": 67.42183383474239,
+        "mean": 46.93778786758845
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 88.80690171708679,
+        "p95": 134.14591204769334,
+        "mean": 92.89978253347125
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "all_classes",
+      "model": "affine",
+      "split": "fit",
+      "cls": 4,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 50.174651245473015,
+        "p95": 72.33027075350397,
+        "mean": 46.599058209827376
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 67.46542243291708,
+        "p95": 82.0151079317672,
+        "mean": 64.37730165607735
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 53.418928882187764,
+        "p95": 77.83058789835616,
+        "mean": 49.901856590927565
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 85.71782100995068,
+        "p95": 134.78966510209054,
+        "mean": 88.5559800312371
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "all_classes",
+      "model": "affine",
+      "split": "test_time",
+      "cls": 2,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 97.19265365072764,
+        "p95": 147.05467449467008,
+        "mean": 100.80032652449172
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 112.9182968654143,
+        "p95": 162.15932303382857,
+        "mean": 120.73019807359914
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 101.68735046759112,
+        "p95": 154.5287347424184,
+        "mean": 105.94506955045485
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 178.80020246903175,
+        "p95": 219.29950132437017,
+        "mean": 178.83009247920924
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "all_classes",
+      "model": "affine",
+      "split": "test_time",
+      "cls": 3,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 42.39934893306255,
+        "p95": 64.42536884199068,
+        "mean": 44.17285560185511
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 44.12651444790178,
+        "p95": 65.44959807298916,
+        "mean": 46.50474801324651
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 42.819162378379154,
+        "p95": 65.0562329052374,
+        "mean": 44.66293307968353
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 88.10047357761535,
+        "p95": 97.97847061628289,
+        "mean": 82.195241629271
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "all_classes",
+      "model": "affine",
+      "split": "test_time",
+      "cls": 4,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 43.13025799292424,
+        "p95": 59.19691891760878,
+        "mean": 42.13355954712185
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 64.5787886135271,
+        "p95": 70.53185702843383,
+        "mean": 60.3164726179314
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 46.22558036254895,
+        "p95": 63.06938960326275,
+        "mean": 44.99335864876605
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 113.82356757859199,
+        "p95": 164.16240681704522,
+        "mean": 114.34407978561278
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "all_classes",
+      "model": "affine",
+      "split": "test_episode",
+      "cls": 2,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 55.77682368168571,
+        "p95": 86.48341165585867,
+        "mean": 59.70698657113076
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 84.01258903593772,
+        "p95": 110.02260993271955,
+        "mean": 86.54433434709291
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 59.117432662780345,
+        "p95": 90.8806520434368,
+        "mean": 63.144691547364424
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 143.15536415498303,
+        "p95": 190.7383168576551,
+        "mean": 147.1356495066062
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "all_classes",
+      "model": "affine",
+      "split": "test_episode",
+      "cls": 3,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 67.22402544594502,
+        "p95": 78.68846973086323,
+        "mean": 60.67173971352556
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 68.15618849089735,
+        "p95": 79.22783971731403,
+        "mean": 62.40117487777522
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 67.85629207667,
+        "p95": 79.48848860787129,
+        "mean": 61.27165225476194
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 114.69054078729894,
+        "p95": 128.4692744067505,
+        "mean": 104.06850890756182
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "all_classes",
+      "model": "affine",
+      "split": "test_episode",
+      "cls": 4,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 69.14530397599056,
+        "p95": 89.5221772459013,
+        "mean": 64.43767263416298
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 75.2619656282979,
+        "p95": 94.53891950715204,
+        "mean": 75.69824608457199
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 73.99825160967464,
+        "p95": 96.32623853119519,
+        "mean": 69.12511437316216
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 106.4269682724286,
+        "p95": 130.5869894562689,
+        "mean": 105.5178195713599
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "hand_only",
+      "model": "raw",
+      "split": "fit",
+      "cls": 2,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 112.18492692286183,
+        "p95": 155.2459232894507,
+        "mean": 103.7004285618529
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 114.39164028526795,
+        "p95": 157.61666838117503,
+        "mean": 106.57863874108962
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 121.13108774564648,
+        "p95": 164.9436475843553,
+        "mean": 110.95561777568689
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 180.8168313981564,
+        "p95": 287.1947509126325,
+        "mean": 189.89294100805478
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "hand_only",
+      "model": "raw",
+      "split": "fit",
+      "cls": 3,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 194.76334181506326,
+        "p95": 215.08693296541446,
+        "mean": 165.7586375609054
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 195.69387760226914,
+        "p95": 216.41593425382297,
+        "mean": 166.8834729886896
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 196.72444240319948,
+        "p95": 217.4908372951649,
+        "mean": 167.5955984022216
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 235.18207005544824,
+        "p95": 307.9910844631288,
+        "mean": 220.77656105965443
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "hand_only",
+      "model": "raw",
+      "split": "fit",
+      "cls": 4,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 209.11503651320697,
+        "p95": 237.8917408220803,
+        "mean": 184.68036238936907
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 214.89890049673278,
+        "p95": 242.90971790093602,
+        "mean": 189.52603333745142
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 223.4745532652757,
+        "p95": 254.71591053412723,
+        "mean": 198.064393611074
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 232.31714435927012,
+        "p95": 319.8445369705389,
+        "mean": 228.21937328588183
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "hand_only",
+      "model": "raw",
+      "split": "test_time",
+      "cls": 2,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 89.18553505967853,
+        "p95": 138.15736281748468,
+        "mean": 85.33303826530874
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 90.75508702646448,
+        "p95": 139.4955125737612,
+        "mean": 89.01128989350217
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 93.1737892598332,
+        "p95": 146.099714413551,
+        "mean": 89.79223190761827
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 230.25148695784003,
+        "p95": 358.059862409901,
+        "mean": 228.68685741896581
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "hand_only",
+      "model": "raw",
+      "split": "test_time",
+      "cls": 3,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 179.41687858640185,
+        "p95": 208.58043897762045,
+        "mean": 159.9225216538089
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 180.25410971351158,
+        "p95": 209.63578292151175,
+        "mean": 161.17674248580525
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 181.24494401946492,
+        "p95": 210.3960030031028,
+        "mean": 161.86446368146417
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 212.29211210155535,
+        "p95": 243.21529929307215,
+        "mean": 197.31485316661005
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "hand_only",
+      "model": "raw",
+      "split": "test_time",
+      "cls": 4,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 196.12747778737076,
+        "p95": 222.00673646819573,
+        "mean": 172.91719667325788
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 201.5938482214732,
+        "p95": 227.081815761512,
+        "mean": 177.78859546264883
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 210.35261833825643,
+        "p95": 237.81050990898873,
+        "mean": 185.33030373798871
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 216.64109137658306,
+        "p95": 247.3820400804586,
+        "mean": 202.954538931393
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "hand_only",
+      "model": "raw",
+      "split": "test_episode",
+      "cls": 2,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 147.1131617678069,
+        "p95": 163.7664729118826,
+        "mean": 138.59928236150594
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 149.41903053565477,
+        "p95": 167.4024387549681,
+        "mean": 140.97441297647757
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 156.3544404843351,
+        "p95": 173.8467364040275,
+        "mean": 147.06260715728214
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 224.4069261145964,
+        "p95": 320.86265297944533,
+        "mean": 246.55197953553417
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "hand_only",
+      "model": "raw",
+      "split": "test_episode",
+      "cls": 3,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 220.2571758429698,
+        "p95": 238.9517798796088,
+        "mean": 208.66380818084255
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 221.63779804894403,
+        "p95": 240.16490381540532,
+        "mean": 209.86685370319694
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 222.77943737749376,
+        "p95": 241.32402153272704,
+        "mean": 210.95125418875764
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 274.36091857862004,
+        "p95": 292.8836757178587,
+        "mean": 256.6249562704653
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "hand_only",
+      "model": "raw",
+      "split": "test_episode",
+      "cls": 4,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 239.4265266538801,
+        "p95": 253.9642063292644,
+        "mean": 224.8062621836119
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 246.46679820208723,
+        "p95": 259.95106776385603,
+        "mean": 230.42581073270517
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 257.1304674863718,
+        "p95": 273.56116144890655,
+        "mean": 241.71514251996396
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 272.70313281831244,
+        "p95": 300.1059733057897,
+        "mean": 262.1147617008381
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "hand_only",
+      "model": "offset",
+      "split": "fit",
+      "cls": 2,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 49.43667450825984,
+        "p95": 64.87403507975378,
+        "mean": 47.197734831729996
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 56.75726321977098,
+        "p95": 89.74603039294995,
+        "mean": 64.16069985717813
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 52.54238985747536,
+        "p95": 68.92169459971586,
+        "mean": 50.25565461828753
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 140.30843882726117,
+        "p95": 184.89632787986,
+        "mean": 132.5731973122196
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "hand_only",
+      "model": "offset",
+      "split": "fit",
+      "cls": 3,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 89.29235535745883,
+        "p95": 109.61594650781004,
+        "mean": 74.68309304274959
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 89.90826732798234,
+        "p95": 110.2452850842096,
+        "mean": 76.65657008396158
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 90.1697216932482,
+        "p95": 110.79846996408274,
+        "mean": 75.52759443640862
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 129.7110835978438,
+        "p95": 202.52009800552437,
+        "mean": 130.55989094818014
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "hand_only",
+      "model": "offset",
+      "split": "fit",
+      "cls": 4,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 103.84884192332231,
+        "p95": 132.4852477196027,
+        "mean": 84.15154195828457
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 106.44315186218182,
+        "p95": 134.09970002862224,
+        "mean": 95.9516145359509
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 111.01925910981899,
+        "p95": 141.76305008680018,
+        "mean": 90.19528204075891
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 127.31329427365714,
+        "p95": 214.37355051293446,
+        "mean": 124.52807072539936
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "hand_only",
+      "model": "offset",
+      "split": "test_time",
+      "cls": 2,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 36.56177445920528,
+        "p95": 96.99029161257492,
+        "mean": 53.578202102005825
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 54.004057077430474,
+        "p95": 111.29716224899349,
+        "mean": 69.43382656328615
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 38.58865541536559,
+        "p95": 103.18450566474067,
+        "mean": 56.58693339523676
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 172.23057974128304,
+        "p95": 254.96988924628252,
+        "mean": 175.89509350540288
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "hand_only",
+      "model": "offset",
+      "split": "test_time",
+      "cls": 3,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 74.02560783416376,
+        "p95": 103.27934466775416,
+        "mean": 65.30769028570904
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 74.78463552942222,
+        "p95": 103.75041493096668,
+        "mean": 67.39094107869379
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 74.80743961364504,
+        "p95": 104.2030627884974,
+        "mean": 66.02625320879123
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 106.91181053150986,
+        "p95": 137.86230974705865,
+        "mean": 102.86735050182564
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "hand_only",
+      "model": "offset",
+      "split": "test_time",
+      "cls": 4,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 91.91083835545939,
+        "p95": 117.28079138313987,
+        "mean": 74.39258302017122
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 95.03742339709595,
+        "p95": 119.16304845122541,
+        "mean": 86.67044300313972
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 98.55690212600712,
+        "p95": 125.65019800652487,
+        "mean": 79.72029098216836
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 129.95618631080407,
+        "p95": 145.50929896665872,
+        "mean": 114.68622526230972
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "hand_only",
+      "model": "offset",
+      "split": "test_episode",
+      "cls": 2,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 44.859409507161274,
+        "p95": 58.737685369382795,
+        "mean": 46.94735421596665
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 59.362929604997525,
+        "p95": 63.77137114796292,
+        "mean": 58.875483267068
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 47.655966315314885,
+        "p95": 62.523231754537065,
+        "mean": 49.81532474124464
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 134.6132228318894,
+        "p95": 215.39166652184093,
+        "mean": 147.66262213733145
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "hand_only",
+      "model": "offset",
+      "split": "test_episode",
+      "cls": 3,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 114.98842955150151,
+        "p95": 133.48079342200438,
+        "mean": 103.59583050757544
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 115.63289650576237,
+        "p95": 133.96040600380334,
+        "mean": 104.42554417814728
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 116.28221160551422,
+        "p95": 134.76894112950907,
+        "mean": 104.72907788408378
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 168.8899321210156,
+        "p95": 187.41268926025424,
+        "mean": 151.6074336859576
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "hand_only",
+      "model": "offset",
+      "split": "test_episode",
+      "cls": 4,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 134.26491940126155,
+        "p95": 148.74162216218224,
+        "mean": 120.02537498132352
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 135.9079695732414,
+        "p95": 149.78970294293626,
+        "mean": 123.17820121650357
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 144.1546372857993,
+        "p95": 160.25489805804648,
+        "mean": 129.03484171071287
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 168.58534614970606,
+        "p95": 194.63498684818524,
+        "mean": 158.02236826249984
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "hand_only",
+      "model": "scale",
+      "split": "fit",
+      "cls": 2,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 62.528545636507836,
+        "p95": 68.62227634999174,
+        "mean": 54.14988081799847
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 66.45020224137365,
+        "p95": 94.0227329891876,
+        "mean": 68.78195837429233
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 66.7284022313608,
+        "p95": 72.86134413975385,
+        "mean": 57.73938883479274
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 149.46996205508333,
+        "p95": 203.61738508188836,
+        "mean": 143.23618994029496
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "hand_only",
+      "model": "scale",
+      "split": "fit",
+      "cls": 3,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 77.49689313823293,
+        "p95": 102.82751990908731,
+        "mean": 74.88855894567196
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 79.18245460347566,
+        "p95": 103.41576577939442,
+        "mean": 76.52582385916085
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 78.38718419896969,
+        "p95": 103.95942391165762,
+        "mean": 75.72457478911473
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 131.27208581324956,
+        "p95": 205.84818204513684,
+        "mean": 139.21535060793647
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "hand_only",
+      "model": "scale",
+      "split": "fit",
+      "cls": 4,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 99.15992268526287,
+        "p95": 131.9669637330676,
+        "mean": 85.05554416251813
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 102.55031989043913,
+        "p95": 133.7582311687977,
+        "mean": 96.98570799878591
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 106.27115061260248,
+        "p95": 141.55459266388624,
+        "mean": 91.32795934572592
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 123.8705352069249,
+        "p95": 227.38100596873068,
+        "mean": 132.62313254548337
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "hand_only",
+      "model": "scale",
+      "split": "test_time",
+      "cls": 2,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 41.054151968450725,
+        "p95": 106.83894383494714,
+        "mean": 57.21305463223405
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 54.39107100710967,
+        "p95": 120.85269547071861,
+        "mean": 71.41165708117305
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 43.399997732182044,
+        "p95": 112.96029312771338,
+        "mean": 60.26888245574537
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 186.15750351631522,
+        "p95": 263.53490323572,
+        "mean": 186.06500974929614
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "hand_only",
+      "model": "scale",
+      "split": "test_time",
+      "cls": 3,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 60.297735248831394,
+        "p95": 92.4556415766478,
+        "mean": 62.73646336968661
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 61.36040862729749,
+        "p95": 93.18897381432454,
+        "mean": 64.56257542550193
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 61.009132616877736,
+        "p95": 93.4601160780536,
+        "mean": 63.6491602738215
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 110.49743917962022,
+        "p95": 129.77513218974866,
+        "mean": 104.88381572350524
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "hand_only",
+      "model": "scale",
+      "split": "test_time",
+      "cls": 4,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 86.8652328035665,
+        "p95": 116.16065503769109,
+        "mean": 76.34463768496623
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 96.90879627629013,
+        "p95": 118.1536740261893,
+        "mean": 87.92554102612281
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 93.12671137722847,
+        "p95": 124.33768366378973,
+        "mean": 81.80882018506989
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 134.30752675470114,
+        "p95": 143.3541298947705,
+        "mean": 116.91755795937702
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "hand_only",
+      "model": "scale",
+      "split": "test_episode",
+      "cls": 2,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 55.90124822146636,
+        "p95": 72.78070483609255,
+        "mean": 56.184419547706405
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 63.83433368457143,
+        "p95": 74.79177215380514,
+        "mean": 65.04808370135436
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 59.51888152428162,
+        "p95": 77.69270537075428,
+        "mean": 59.790756928559006
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 139.608496046543,
+        "p95": 228.94733886036408,
+        "mean": 157.62427479219267
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "hand_only",
+      "model": "scale",
+      "split": "test_episode",
+      "cls": 3,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 108.76725678908683,
+        "p95": 129.86726577025448,
+        "mean": 96.49050458908242
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 109.31860329983172,
+        "p95": 130.38648007004284,
+        "mean": 97.8652335127826
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 110.04159625915239,
+        "p95": 131.33308562248038,
+        "mean": 97.5934004989897
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 165.98840410963714,
+        "p95": 187.87452157186664,
+        "mean": 147.71485215433484
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "hand_only",
+      "model": "scale",
+      "split": "test_episode",
+      "cls": 4,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 134.14608887334882,
+        "p95": 147.86921512808902,
+        "mean": 117.60140019408898
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 135.60088759019627,
+        "p95": 149.096199790321,
+        "mean": 122.2850136064704
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 143.90690770729475,
+        "p95": 159.41229576742344,
+        "mean": 126.34814502486108
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 171.16407594998637,
+        "p95": 196.97232602290308,
+        "mean": 158.17897895528287
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "hand_only",
+      "model": "affine",
+      "split": "fit",
+      "cls": 2,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 32.7564021053498,
+        "p95": 36.352928441888395,
+        "mean": 32.73059443880413
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 57.342943365459135,
+        "p95": 60.16593239934425,
+        "mean": 54.063482632524824
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 34.90016578640808,
+        "p95": 38.840155488274576,
+        "mean": 35.04623482000601
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 99.72620157256368,
+        "p95": 138.82743597850993,
+        "mean": 109.99053198980094
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "hand_only",
+      "model": "affine",
+      "split": "fit",
+      "cls": 3,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 170.89797316256113,
+        "p95": 177.5641410954168,
+        "mean": 161.86216870442408
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 171.5746417511922,
+        "p95": 178.56722699497567,
+        "mean": 162.8642739151868
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 172.6855119992586,
+        "p95": 179.5217073607095,
+        "mean": 163.68594775889184
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 214.37269806484997,
+        "p95": 230.0179989868651,
+        "mean": 205.83075208404912
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "hand_only",
+      "model": "affine",
+      "split": "fit",
+      "cls": 4,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 156.6999049481103,
+        "p95": 168.76483680317756,
+        "mean": 152.65673041803134
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 158.597634317323,
+        "p95": 170.4505200264909,
+        "mean": 155.1849307183684
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 167.3348502385183,
+        "p95": 179.99534852193023,
+        "mean": 163.19626396062856
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 202.35376029432763,
+        "p95": 214.8096378801265,
+        "mean": 195.93841290111888
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "hand_only",
+      "model": "affine",
+      "split": "test_time",
+      "cls": 2,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 37.20670205861681,
+        "p95": 55.36867782998846,
+        "mean": 40.96774535079397
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 55.08921706352798,
+        "p95": 68.59235047075126,
+        "mean": 56.25406265516893
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 39.11372439439024,
+        "p95": 58.229651162659536,
+        "mean": 43.10094499189275
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 131.33435515811107,
+        "p95": 238.52962898193817,
+        "mean": 150.12554447232208
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "hand_only",
+      "model": "affine",
+      "split": "test_time",
+      "cls": 3,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 170.91519845620286,
+        "p95": 184.78483289888283,
+        "mean": 162.17608621626877
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 171.61206753794664,
+        "p95": 185.56468105201316,
+        "mean": 163.27520146383716
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 172.65292839083506,
+        "p95": 186.5429449095525,
+        "mean": 164.07526467690658
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 208.18290132632583,
+        "p95": 219.04190229144967,
+        "mean": 203.57232306626062
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "hand_only",
+      "model": "affine",
+      "split": "test_time",
+      "cls": 4,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 144.36010148417975,
+        "p95": 157.0224514565648,
+        "mean": 139.2941136508172
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 147.7646032831205,
+        "p95": 159.6762972080241,
+        "mean": 142.36007407057892
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 154.89065308460772,
+        "p95": 167.7341380105476,
+        "mean": 149.07768476370657
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 191.17226045679672,
+        "p95": 201.78651406829582,
+        "mean": 186.91900800275025
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "hand_only",
+      "model": "affine",
+      "split": "test_episode",
+      "cls": 2,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 33.95887620500415,
+        "p95": 39.72729350050509,
+        "mean": 34.493827593935514
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 55.367879240771835,
+        "p95": 58.124689221799855,
+        "mean": 55.0555585068856
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 36.05767580300626,
+        "p95": 41.92584578829275,
+        "mean": 36.54263332158971
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 129.27801079435065,
+        "p95": 187.98406778964795,
+        "mean": 136.10464662159671
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "hand_only",
+      "model": "affine",
+      "split": "test_episode",
+      "cls": 3,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 181.63806915754256,
+        "p95": 182.9563673224032,
+        "mean": 176.88544617735923
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 182.3095240785794,
+        "p95": 183.61579677089057,
+        "mean": 177.57175203085458
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 183.2885526634983,
+        "p95": 184.8119190619256,
+        "mean": 178.58332713941192
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 221.14166980725062,
+        "p95": 230.53379396112055,
+        "mean": 219.48680690552783
+      }
+    },
+    {
+      "group": "sandwich",
+      "fit_scope": "hand_only",
+      "model": "affine",
+      "split": "test_episode",
+      "cls": 4,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 161.33214021534445,
+        "p95": 189.47651116026356,
+        "mean": 165.77428869429843
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 163.59130406547382,
+        "p95": 191.50469827024796,
+        "mean": 167.955053345857
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 172.04011513088653,
+        "p95": 203.67885573495542,
+        "mean": 177.31288409991328
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 207.323869362708,
+        "p95": 222.36954791896358,
+        "mean": 208.07137909208413
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "all_classes",
+      "model": "raw",
+      "split": "fit",
+      "cls": 2,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 39.97302217071391,
+        "p95": 61.29759004503761,
+        "mean": 42.31377026999894
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 70.0861194203724,
+        "p95": 91.39707276652945,
+        "mean": 68.5260173256853
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 42.54746032894985,
+        "p95": 64.93241232602338,
+        "mean": 45.334799709939794
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 114.22990878038938,
+        "p95": 146.71622521793657,
+        "mean": 114.59281320163996
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "all_classes",
+      "model": "raw",
+      "split": "fit",
+      "cls": 3,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 62.356275492301165,
+        "p95": 84.49219675596414,
+        "mean": 58.04032285224873
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 86.05935626363927,
+        "p95": 109.92362723118909,
+        "mean": 84.57843702919261
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 64.72207361616863,
+        "p95": 90.38279082830405,
+        "mean": 61.06229311105941
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 151.42925770320352,
+        "p95": 278.25760821315225,
+        "mean": 171.51758807866057
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "all_classes",
+      "model": "raw",
+      "split": "fit",
+      "cls": 4,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 34.18895531477739,
+        "p95": 60.210183497087456,
+        "mean": 36.990050745530816
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 35.61412233734039,
+        "p95": 61.13855778007951,
+        "mean": 38.72854790412294
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 34.705022947360526,
+        "p95": 60.82053635585825,
+        "mean": 37.40738337963767
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 66.00347443252492,
+        "p95": 92.94448076648621,
+        "mean": 71.07427608002185
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "all_classes",
+      "model": "raw",
+      "split": "test_time",
+      "cls": 2,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 64.29057077462144,
+        "p95": 115.47364190371407,
+        "mean": 70.41791152429779
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 84.16562037946645,
+        "p95": 134.0998409569356,
+        "mean": 92.8606632781147
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 68.57173128571884,
+        "p95": 121.75286027232939,
+        "mean": 75.23792614587016
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 148.422603087381,
+        "p95": 215.8725289454127,
+        "mean": 157.72472456727732
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "all_classes",
+      "model": "raw",
+      "split": "test_time",
+      "cls": 3,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 54.72746553585233,
+        "p95": 92.23557159497284,
+        "mean": 63.16948854587785
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 80.83542784224375,
+        "p95": 121.83005198276976,
+        "mean": 86.69743873418065
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 57.16262209888076,
+        "p95": 97.33402638386815,
+        "mean": 66.24496462132534
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 197.46996995644332,
+        "p95": 300.3857035591544,
+        "mean": 200.87847924359116
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "all_classes",
+      "model": "raw",
+      "split": "test_time",
+      "cls": 4,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 36.46766171286764,
+        "p95": 55.40199860295959,
+        "mean": 37.43402180083484
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 38.33814074563819,
+        "p95": 56.356630419578465,
+        "mean": 39.17689375489219
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 36.923655033606224,
+        "p95": 55.985726738786575,
+        "mean": 37.84974451251532
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 74.81584585505402,
+        "p95": 90.46899652368757,
+        "mean": 73.47067504032086
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "all_classes",
+      "model": "raw",
+      "split": "test_episode",
+      "cls": 2,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 39.949512239089934,
+        "p95": 60.97245649949639,
+        "mean": 41.19237476498275
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 70.98261170629523,
+        "p95": 91.49202769094197,
+        "mean": 70.9099274211455
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 43.15445554228043,
+        "p95": 65.16872553189901,
+        "mean": 44.5599302289404
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 124.35509554549385,
+        "p95": 192.5167044180777,
+        "mean": 128.14311618548257
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "all_classes",
+      "model": "raw",
+      "split": "test_episode",
+      "cls": 3,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 76.12170355839152,
+        "p95": 90.13785989052514,
+        "mean": 75.18295281522566
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 91.59862016858258,
+        "p95": 109.17384256420881,
+        "mean": 90.88449266646514
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 79.22511237711277,
+        "p95": 93.0567669341758,
+        "mean": 78.29599298619576
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 236.08161591769954,
+        "p95": 400.02711824299547,
+        "mean": 241.04659166193946
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "all_classes",
+      "model": "raw",
+      "split": "test_episode",
+      "cls": 4,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 60.21306729549025,
+        "p95": 81.06123381715955,
+        "mean": 56.60703621717804
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 60.85130237781025,
+        "p95": 81.9248481712868,
+        "mean": 57.807268826826515
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 60.791582416243386,
+        "p95": 82.09076507866882,
+        "mean": 57.2418972692762
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 96.41936058185053,
+        "p95": 110.0425687003672,
+        "mean": 91.90472602541048
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "all_classes",
+      "model": "offset",
+      "split": "fit",
+      "cls": 2,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 33.247629318443884,
+        "p95": 49.22178174159712,
+        "mean": 35.8534542975438
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 64.02735375207465,
+        "p95": 78.80901147439658,
+        "mean": 60.5209927881292
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 36.20196294194763,
+        "p95": 52.21626515848362,
+        "mean": 38.72841698603575
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 108.22997593124293,
+        "p95": 132.07052008968222,
+        "mean": 105.36432367028074
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "all_classes",
+      "model": "offset",
+      "split": "fit",
+      "cls": 3,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 59.448745674228086,
+        "p95": 70.14350150121231,
+        "mean": 50.54041403133764
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 76.00013897882494,
+        "p95": 94.88891790804395,
+        "mean": 76.71292619683777
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 62.2556881481213,
+        "p95": 74.89123224742907,
+        "mean": 53.21743997520074
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 136.78355257494914,
+        "p95": 263.6119030848978,
+        "mean": 156.8718829504062
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "all_classes",
+      "model": "offset",
+      "split": "fit",
+      "cls": 4,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 47.19302756996141,
+        "p95": 74.64089538615679,
+        "mean": 46.84451340696236
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 47.85076801119443,
+        "p95": 75.51381718211064,
+        "mean": 48.43139096756459
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 47.8921564588731,
+        "p95": 75.35781211549376,
+        "mean": 47.3752028546281
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 79.82403059072527,
+        "p95": 107.37039680936164,
+        "mean": 83.52365870064686
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "all_classes",
+      "model": "offset",
+      "split": "test_time",
+      "cls": 2,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 53.826560231489516,
+        "p95": 102.97672630896659,
+        "mean": 60.95742881372613
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 75.66218259144645,
+        "p95": 119.52124540223613,
+        "mean": 81.9799955737481
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 57.88855598383815,
+        "p95": 108.01692738908254,
+        "mean": 64.96820197298824
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 135.04443961524296,
+        "p95": 201.22682381715833,
+        "mean": 144.48013489739878
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "all_classes",
+      "model": "offset",
+      "split": "test_time",
+      "cls": 3,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 51.07766223557567,
+        "p95": 79.98769091966358,
+        "mean": 54.516007809840914
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 70.64743008719913,
+        "p95": 107.35333141380863,
+        "mean": 76.35557261587542
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 53.15459696638992,
+        "p95": 84.41755160386523,
+        "mean": 57.267038276846534
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 182.82426482818897,
+        "p95": 285.73999843089996,
+        "mean": 186.3843845252271
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "all_classes",
+      "model": "offset",
+      "split": "test_time",
+      "cls": 4,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 48.987835828237266,
+        "p95": 69.87785661761185,
+        "mean": 46.60779796998582
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 49.94294869890118,
+        "p95": 70.71925320980002,
+        "mean": 48.112613529058486
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 49.543100833047816,
+        "p95": 70.59493780487006,
+        "mean": 47.108369156285086
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 88.93835802049769,
+        "p95": 105.04947793557413,
+        "mean": 84.30978029593393
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "all_classes",
+      "model": "offset",
+      "split": "test_episode",
+      "cls": 2,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 41.36596882559506,
+        "p95": 57.06816374443022,
+        "mean": 42.18398793715328
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 65.5992653552596,
+        "p95": 80.55226626755966,
+        "mean": 65.04758863609132
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 44.59785360952038,
+        "p95": 62.03563758453871,
+        "mean": 45.66285605314069
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 117.16139685622194,
+        "p95": 177.87099928982335,
+        "mean": 121.2614540354936
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "all_classes",
+      "model": "offset",
+      "split": "test_episode",
+      "cls": 3,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 83.140752331138,
+        "p95": 92.05267846246917,
+        "mean": 77.36271079770606
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 94.91544189608155,
+        "p95": 100.23049856352246,
+        "mean": 90.16372576790668
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 87.1087944953779,
+        "p95": 96.05187285477041,
+        "mean": 80.83900924699658
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 221.43591078944513,
+        "p95": 385.381413114741,
+        "mean": 235.87901122342376
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "all_classes",
+      "model": "offset",
+      "split": "test_episode",
+      "cls": 4,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 74.63105663876044,
+        "p95": 95.69869335654343,
+        "mean": 67.32903674590725
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 75.16602178025322,
+        "p95": 96.42017641863532,
+        "mean": 68.40007679045267
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 75.33583427311687,
+        "p95": 96.89264597625733,
+        "mean": 68.08699920833617
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 110.48328784832475,
+        "p95": 124.66783007532266,
+        "mean": 105.4419686663602
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "all_classes",
+      "model": "scale",
+      "split": "fit",
+      "cls": 2,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 33.975248072296544,
+        "p95": 48.52769990518544,
+        "mean": 35.69749298093644
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 64.19150199382031,
+        "p95": 78.99038572101124,
+        "mean": 60.83530847698662
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 36.72640025625199,
+        "p95": 51.70067505657312,
+        "mean": 38.57972682002454
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 107.79548019587497,
+        "p95": 131.83177270465768,
+        "mean": 104.96132405828018
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "all_classes",
+      "model": "scale",
+      "split": "fit",
+      "cls": 3,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 59.20799451076492,
+        "p95": 68.7675716255479,
+        "mean": 49.7920288497286
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 75.49051066631935,
+        "p95": 93.42518591462914,
+        "mean": 76.19310317245005
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 61.82536186464324,
+        "p95": 73.29982604189117,
+        "mean": 52.30067043961853
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 134.005915576221,
+        "p95": 257.968901379731,
+        "mean": 153.97016048035144
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "all_classes",
+      "model": "scale",
+      "split": "fit",
+      "cls": 4,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 47.70034870919868,
+        "p95": 75.03693785745905,
+        "mean": 47.40000962400534
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 48.37167781886373,
+        "p95": 75.9223138490268,
+        "mean": 48.98977321670731
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 48.42977618407862,
+        "p95": 75.83509545602159,
+        "mean": 47.99079105597772
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 79.83952585687216,
+        "p95": 107.70729795870726,
+        "mean": 83.66364551822548
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "all_classes",
+      "model": "scale",
+      "split": "test_time",
+      "cls": 2,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 54.77068142356156,
+        "p95": 102.71382773491703,
+        "mean": 61.2367466057924
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 75.41752970987645,
+        "p95": 118.79108791307837,
+        "mean": 82.28543851366281
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 58.85782037737406,
+        "p95": 107.68649528307228,
+        "mean": 65.32931225063268
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 134.97889489303373,
+        "p95": 200.25113844030028,
+        "mean": 144.44762699877307
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "all_classes",
+      "model": "scale",
+      "split": "test_time",
+      "cls": 3,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 51.96426731580591,
+        "p95": 78.4397143262236,
+        "mean": 54.16782422071
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 70.04278386595507,
+        "p95": 106.09168902695643,
+        "mean": 76.12120816536749
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 54.38137982748746,
+        "p95": 82.8793699900976,
+        "mean": 57.08740411648504
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 180.897570169623,
+        "p95": 281.01941248903745,
+        "mean": 183.52878971056813
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "all_classes",
+      "model": "scale",
+      "split": "test_time",
+      "cls": 4,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 49.71462953443168,
+        "p95": 70.39837666748811,
+        "mean": 47.1457749639028
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 50.54494148799907,
+        "p95": 71.23880193849013,
+        "mean": 48.56657850577946
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 50.23594932898807,
+        "p95": 71.14455882118808,
+        "mean": 47.6222106061717
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 89.10069911388052,
+        "p95": 105.00748060709358,
+        "mean": 84.32308288436806
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "all_classes",
+      "model": "scale",
+      "split": "test_episode",
+      "cls": 2,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 41.34004968578334,
+        "p95": 56.28793374634466,
+        "mean": 41.494334826067025
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 66.04276817489949,
+        "p95": 80.48671082005163,
+        "mean": 65.09330952825644
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 44.525594305680244,
+        "p95": 61.33773225638138,
+        "mean": 44.94343056945797
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 117.07379986643315,
+        "p95": 177.65889902183196,
+        "mean": 120.86201293628118
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "all_classes",
+      "model": "scale",
+      "split": "test_episode",
+      "cls": 3,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 84.5647547263656,
+        "p95": 93.14732973296964,
+        "mean": 78.03388006632777
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 96.67601524585359,
+        "p95": 101.47307946535992,
+        "mean": 91.07057762678475
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 88.92465503770016,
+        "p95": 97.52295407378432,
+        "mean": 81.7953680545639
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 218.85700966288888,
+        "p95": 380.5866453045761,
+        "mean": 234.16810056688917
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "all_classes",
+      "model": "scale",
+      "split": "test_episode",
+      "cls": 4,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 75.06452030890797,
+        "p95": 95.79532417318481,
+        "mean": 67.61237168788205
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 75.5762425705548,
+        "p95": 96.5133521698288,
+        "mean": 68.66552784005904
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 75.80371844266148,
+        "p95": 97.051736497183,
+        "mean": 68.38933987493176
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 110.42716514300787,
+        "p95": 124.3539839894273,
+        "mean": 105.3054357400638
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "all_classes",
+      "model": "affine",
+      "split": "fit",
+      "cls": 2,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 34.493154869113084,
+        "p95": 48.287071137157604,
+        "mean": 35.7507717117254
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 64.50215193696515,
+        "p95": 79.47633318913165,
+        "mean": 61.36491847628607
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 37.097695161270046,
+        "p95": 51.38466378506196,
+        "mean": 38.63229830114681
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 107.56675557777028,
+        "p95": 131.9989268763747,
+        "mean": 104.98213378337925
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "all_classes",
+      "model": "affine",
+      "split": "fit",
+      "cls": 3,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 59.63520012433548,
+        "p95": 67.59149287462893,
+        "mean": 49.44510985485439
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 75.51520278765864,
+        "p95": 92.13005406135944,
+        "mean": 75.89961940915241
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 61.99145449563639,
+        "p95": 72.05939927163217,
+        "mean": 51.832456784383886
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 132.26289665864144,
+        "p95": 252.86000367265245,
+        "mean": 151.9530721910273
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "all_classes",
+      "model": "affine",
+      "split": "fit",
+      "cls": 4,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 47.91675519787475,
+        "p95": 75.18689607288582,
+        "mean": 47.73495562779143
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 48.587535078142594,
+        "p95": 76.01317975017145,
+        "mean": 49.251330587171644
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 48.62491068181978,
+        "p95": 75.91445464337646,
+        "mean": 48.297237306336974
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 79.44219867962059,
+        "p95": 107.6427174921146,
+        "mean": 83.39306237092505
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "all_classes",
+      "model": "affine",
+      "split": "test_time",
+      "cls": 2,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 55.750730575527626,
+        "p95": 102.68016078447233,
+        "mean": 61.51947755666649
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 75.3910500676984,
+        "p95": 118.50350236505898,
+        "mean": 82.79017119494756
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 59.89565333549524,
+        "p95": 107.37931779107754,
+        "mean": 65.57341863315462
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 135.5563448915226,
+        "p95": 199.60287833219164,
+        "mean": 144.95813396408752
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "all_classes",
+      "model": "affine",
+      "split": "test_time",
+      "cls": 3,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 52.639491218878455,
+        "p95": 77.47351443286497,
+        "mean": 53.929967532430034
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 69.83580107334275,
+        "p95": 105.26009340426083,
+        "mean": 76.09957932612521
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 55.53754453539602,
+        "p95": 81.91050788096697,
+        "mean": 56.907481060157586
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 179.38970149713438,
+        "p95": 276.80466382413715,
+        "mean": 181.21071233507124
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "all_classes",
+      "model": "affine",
+      "split": "test_time",
+      "cls": 4,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 50.07752925491624,
+        "p95": 70.45436110191274,
+        "mean": 47.46694112907628
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 50.87996970087667,
+        "p95": 71.33755314519999,
+        "mean": 48.855732164316414
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 50.57784758976721,
+        "p95": 71.26426727887666,
+        "mean": 47.98163319202725
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 88.86390477386661,
+        "p95": 104.54139164651772,
+        "mean": 84.0300237484091
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "all_classes",
+      "model": "affine",
+      "split": "test_episode",
+      "cls": 2,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 41.09369902556689,
+        "p95": 55.40193488964239,
+        "mean": 40.935538555961166
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 66.6220629346742,
+        "p95": 80.95663144187439,
+        "mean": 65.52959278494835
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 44.371846567303734,
+        "p95": 60.25526188676502,
+        "mean": 44.3243107913865
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 116.96906113962369,
+        "p95": 177.92797267107852,
+        "mean": 120.58277432696745
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "all_classes",
+      "model": "affine",
+      "split": "test_episode",
+      "cls": 3,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 85.58867168461958,
+        "p95": 95.58327124064601,
+        "mean": 79.37649069412056
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 97.75619121153886,
+        "p95": 103.02925521569944,
+        "mean": 91.93147020056016
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 89.31555592820385,
+        "p95": 100.40742601931714,
+        "mean": 82.99886236011609
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 216.32555409288028,
+        "p95": 376.0506148308628,
+        "mean": 232.4258073716686
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "all_classes",
+      "model": "affine",
+      "split": "test_episode",
+      "cls": 4,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 75.0777037837477,
+        "p95": 95.62788061982036,
+        "mean": 67.59942029809007
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 75.6184444432696,
+        "p95": 96.30616165644805,
+        "mean": 68.6695066536944
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 75.8040451679424,
+        "p95": 96.77116842181704,
+        "mean": 68.34803790690881
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 110.04645810405594,
+        "p95": 123.62719139467526,
+        "mean": 104.78451098320772
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "hand_only",
+      "model": "raw",
+      "split": "fit",
+      "cls": 2,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 39.97302217071391,
+        "p95": 61.29759004503761,
+        "mean": 42.31377026999894
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 70.0861194203724,
+        "p95": 91.39707276652945,
+        "mean": 68.5260173256853
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 42.54746032894985,
+        "p95": 64.93241232602338,
+        "mean": 45.334799709939794
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 114.22990878038938,
+        "p95": 146.71622521793657,
+        "mean": 114.59281320163996
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "hand_only",
+      "model": "raw",
+      "split": "fit",
+      "cls": 3,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 62.356275492301165,
+        "p95": 84.49219675596414,
+        "mean": 58.04032285224873
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 86.05935626363927,
+        "p95": 109.92362723118909,
+        "mean": 84.57843702919261
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 64.72207361616863,
+        "p95": 90.38279082830405,
+        "mean": 61.06229311105941
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 151.42925770320352,
+        "p95": 278.25760821315225,
+        "mean": 171.51758807866057
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "hand_only",
+      "model": "raw",
+      "split": "fit",
+      "cls": 4,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 34.18895531477739,
+        "p95": 60.210183497087456,
+        "mean": 36.990050745530816
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 35.61412233734039,
+        "p95": 61.13855778007951,
+        "mean": 38.72854790412294
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 34.705022947360526,
+        "p95": 60.82053635585825,
+        "mean": 37.40738337963767
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 66.00347443252492,
+        "p95": 92.94448076648621,
+        "mean": 71.07427608002185
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "hand_only",
+      "model": "raw",
+      "split": "test_time",
+      "cls": 2,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 64.29057077462144,
+        "p95": 115.47364190371407,
+        "mean": 70.41791152429779
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 84.16562037946645,
+        "p95": 134.0998409569356,
+        "mean": 92.8606632781147
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 68.57173128571884,
+        "p95": 121.75286027232939,
+        "mean": 75.23792614587016
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 148.422603087381,
+        "p95": 215.8725289454127,
+        "mean": 157.72472456727732
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "hand_only",
+      "model": "raw",
+      "split": "test_time",
+      "cls": 3,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 54.72746553585233,
+        "p95": 92.23557159497284,
+        "mean": 63.16948854587785
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 80.83542784224375,
+        "p95": 121.83005198276976,
+        "mean": 86.69743873418065
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 57.16262209888076,
+        "p95": 97.33402638386815,
+        "mean": 66.24496462132534
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 197.46996995644332,
+        "p95": 300.3857035591544,
+        "mean": 200.87847924359116
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "hand_only",
+      "model": "raw",
+      "split": "test_time",
+      "cls": 4,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 36.46766171286764,
+        "p95": 55.40199860295959,
+        "mean": 37.43402180083484
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 38.33814074563819,
+        "p95": 56.356630419578465,
+        "mean": 39.17689375489219
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 36.923655033606224,
+        "p95": 55.985726738786575,
+        "mean": 37.84974451251532
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 74.81584585505402,
+        "p95": 90.46899652368757,
+        "mean": 73.47067504032086
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "hand_only",
+      "model": "raw",
+      "split": "test_episode",
+      "cls": 2,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 39.949512239089934,
+        "p95": 60.97245649949639,
+        "mean": 41.19237476498275
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 70.98261170629523,
+        "p95": 91.49202769094197,
+        "mean": 70.9099274211455
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 43.15445554228043,
+        "p95": 65.16872553189901,
+        "mean": 44.5599302289404
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 124.35509554549385,
+        "p95": 192.5167044180777,
+        "mean": 128.14311618548257
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "hand_only",
+      "model": "raw",
+      "split": "test_episode",
+      "cls": 3,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 76.12170355839152,
+        "p95": 90.13785989052514,
+        "mean": 75.18295281522566
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 91.59862016858258,
+        "p95": 109.17384256420881,
+        "mean": 90.88449266646514
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 79.22511237711277,
+        "p95": 93.0567669341758,
+        "mean": 78.29599298619576
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 236.08161591769954,
+        "p95": 400.02711824299547,
+        "mean": 241.04659166193946
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "hand_only",
+      "model": "raw",
+      "split": "test_episode",
+      "cls": 4,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 60.21306729549025,
+        "p95": 81.06123381715955,
+        "mean": 56.60703621717804
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 60.85130237781025,
+        "p95": 81.9248481712868,
+        "mean": 57.807268826826515
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 60.791582416243386,
+        "p95": 82.09076507866882,
+        "mean": 57.2418972692762
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 96.41936058185053,
+        "p95": 110.0425687003672,
+        "mean": 91.90472602541048
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "hand_only",
+      "model": "offset",
+      "split": "fit",
+      "cls": 2,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 34.93666397636622,
+        "p95": 40.74387176820389,
+        "mean": 33.290740067988104
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 59.656847086534306,
+        "p95": 65.51513813813884,
+        "mean": 55.812880743558004
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 37.85857093863234,
+        "p95": 43.51974189053743,
+        "mean": 35.948712280643356
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 105.72282172630874,
+        "p95": 113.22234882423463,
+        "mean": 101.02712000865263
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "hand_only",
+      "model": "offset",
+      "split": "fit",
+      "cls": 3,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 46.27200528978814,
+        "p95": 59.21864405059162,
+        "mean": 44.83948013387634
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 68.96050821126464,
+        "p95": 76.43192646656348,
+        "mean": 67.0432713852279
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 48.18788988303511,
+        "p95": 62.194148141230116,
+        "mean": 47.03060416871889
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 117.02539376150666,
+        "p95": 248.65613750602253,
+        "mean": 141.07583236597654
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "hand_only",
+      "model": "offset",
+      "split": "fit",
+      "cls": 4,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 66.42197418782364,
+        "p95": 94.3337736371287,
+        "mean": 64.56851643804559
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 66.75389063204759,
+        "p95": 95.18784841694293,
+        "mean": 65.48279520602851
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 67.44278165611722,
+        "p95": 95.28387475668731,
+        "mean": 65.34280060973855
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 99.51535418757138,
+        "p95": 127.17340556300408,
+        "mean": 102.42894857102384
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "hand_only",
+      "model": "offset",
+      "split": "test_time",
+      "cls": 2,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 49.703120357232265,
+        "p95": 88.6813418767737,
+        "mean": 54.15994478081663
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 67.75949597161636,
+        "p95": 102.40911318058473,
+        "mean": 71.28644387616283
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 54.151421902955235,
+        "p95": 93.2309777162479,
+        "mean": 57.905931690904225
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 126.69667513667329,
+        "p95": 181.3722164303979,
+        "mean": 132.8822712621397
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "hand_only",
+      "model": "offset",
+      "split": "test_time",
+      "cls": 3,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 43.81194800592125,
+        "p95": 66.65476505747343,
+        "mean": 45.538511158714776
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 63.42254279821807,
+        "p95": 88.65329095724645,
+        "mean": 66.45286757978943
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 45.49733441618524,
+        "p95": 70.03073531166936,
+        "mean": 47.44885125259676
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 162.9625756353387,
+        "p95": 265.8783092380497,
+        "mean": 169.19060421611525
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "hand_only",
+      "model": "offset",
+      "split": "test_time",
+      "cls": 4,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 68.37801276645916,
+        "p95": 89.66264389851175,
+        "mean": 64.6245801541012
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 68.75884937959594,
+        "p95": 90.4805193672235,
+        "mean": 65.46902723990611
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 69.19208042459972,
+        "p95": 90.5400617079357,
+        "mean": 65.3197619139927
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 108.6934352858796,
+        "p95": 124.90910788921315,
+        "mean": 103.4397010837577
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "hand_only",
+      "model": "offset",
+      "split": "test_episode",
+      "cls": 2,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 41.50368670650281,
+        "p95": 64.12541580178085,
+        "mean": 45.260938548049786
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 60.1346638984376,
+        "p95": 79.00132577710106,
+        "mean": 62.80856379197211
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 45.16575637664629,
+        "p95": 69.52946697308565,
+        "mean": 49.18115835170971
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 115.16733334108132,
+        "p95": 158.2440338536964,
+        "mean": 119.22640568227075
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "hand_only",
+      "model": "offset",
+      "split": "test_episode",
+      "cls": 3,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 92.13726922591356,
+        "p95": 108.4358561207872,
+        "mean": 81.66859411973931
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 100.8064722688537,
+        "p95": 112.14975893665991,
+        "mean": 94.10306768545077
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 96.38770260854218,
+        "p95": 113.86106482188434,
+        "mean": 85.83921831968769
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 211.67308191093892,
+        "p95": 365.5197239218908,
+        "mean": 228.97784205558378
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "hand_only",
+      "model": "offset",
+      "split": "test_episode",
+      "cls": 4,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 94.23269861325024,
+        "p95": 115.55737923598564,
+        "mean": 85.45468960314186
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 94.70799176269759,
+        "p95": 116.25979834849758,
+        "mean": 86.1232809452009
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 95.11888886198149,
+        "p95": 116.98781014527692,
+        "mean": 86.4154621838477
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 130.16511970129343,
+        "p95": 144.5295192681729,
+        "mean": 124.83433594483148
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "hand_only",
+      "model": "scale",
+      "split": "fit",
+      "cls": 2,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 33.5244771092848,
+        "p95": 41.077837058736826,
+        "mean": 32.8668964242211
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 59.28109452752109,
+        "p95": 64.46315972354463,
+        "mean": 55.08233364622344
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 36.395065088246746,
+        "p95": 43.93765456151634,
+        "mean": 35.47544848595455
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 103.26304707116805,
+        "p95": 110.29296510170084,
+        "mean": 98.1067791490707
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "hand_only",
+      "model": "scale",
+      "split": "fit",
+      "cls": 3,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 41.262006113683135,
+        "p95": 54.63471027897575,
+        "mean": 41.81941918011144
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 64.92102735811551,
+        "p95": 69.63473834559461,
+        "mean": 63.219746186299595
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 42.95222725623949,
+        "p95": 57.361905499257276,
+        "mean": 43.83218492039621
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 106.95767352352678,
+        "p95": 235.0752752974605,
+        "mean": 137.01910003510196
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "hand_only",
+      "model": "scale",
+      "split": "fit",
+      "cls": 4,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 72.24045781219971,
+        "p95": 99.75876579775192,
+        "mean": 70.90338801185652
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 72.525526150419,
+        "p95": 100.60784332880407,
+        "mean": 71.68383536363365
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 73.3470433023508,
+        "p95": 100.8138154509468,
+        "mean": 71.77972051107533
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 103.90658135286404,
+        "p95": 132.3196063066104,
+        "mean": 107.1678444113553
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "hand_only",
+      "model": "scale",
+      "split": "test_time",
+      "cls": 2,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 49.58967212090428,
+        "p95": 85.18393190110002,
+        "mean": 52.686536720549356
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 67.02380524788231,
+        "p95": 97.26311807426825,
+        "mean": 69.97123533757791
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 54.04323136520402,
+        "p95": 89.53790878555824,
+        "mean": 56.459752658366405
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 124.0214729543269,
+        "p95": 174.6796008726447,
+        "mean": 129.62222944055557
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "hand_only",
+      "model": "scale",
+      "split": "test_time",
+      "cls": 3,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 43.041534912076514,
+        "p95": 71.11868056059092,
+        "mean": 44.11495741650711
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 62.11394317368458,
+        "p95": 84.36120269037714,
+        "mean": 64.88945352117098
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 44.514261047109,
+        "p95": 73.91963817232867,
+        "mean": 46.04442970925995
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 153.72714286598028,
+        "p95": 249.2523396557664,
+        "mean": 160.07013808080066
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "hand_only",
+      "model": "scale",
+      "split": "test_time",
+      "cls": 4,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 74.60635111694393,
+        "p95": 95.06712543613148,
+        "mean": 70.89054025351903
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 74.91334294799755,
+        "p95": 95.96043497944424,
+        "mean": 71.58439078871389
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 75.39617323834207,
+        "p95": 96.1342863333491,
+        "mean": 71.6095108852082
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 113.4082210394775,
+        "p95": 128.81421126089626,
+        "mean": 107.73976899518112
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "hand_only",
+      "model": "scale",
+      "split": "test_episode",
+      "cls": 2,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 39.3740041487918,
+        "p95": 63.10410698170974,
+        "mean": 43.60442912174236
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 58.62859074373652,
+        "p95": 77.79003628125278,
+        "mean": 61.803265594066154
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 42.797844503739725,
+        "p95": 67.99680588398743,
+        "mean": 47.17205096797901
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 112.8753953276169,
+        "p95": 153.7659040171804,
+        "mean": 117.04737382370327
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "hand_only",
+      "model": "scale",
+      "split": "test_episode",
+      "cls": 3,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 95.6053430344734,
+        "p95": 120.99417806480139,
+        "mean": 87.50491043223484
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 103.50372994256135,
+        "p95": 122.94954147753589,
+        "mean": 98.25516461013865
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 99.75043766093282,
+        "p95": 126.56548147681855,
+        "mean": 91.7041556727243
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 208.97568093157014,
+        "p95": 348.2838825722551,
+        "mean": 222.52948962151325
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "hand_only",
+      "model": "scale",
+      "split": "test_episode",
+      "cls": 4,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 99.5704409187011,
+        "p95": 120.05464307605865,
+        "mean": 90.72761606777233
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 99.99076660685466,
+        "p95": 120.77333422450778,
+        "mean": 91.34322703478985
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 100.58864860242629,
+        "p95": 121.50520048923431,
+        "mean": 91.76664110522087
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 134.2847785421879,
+        "p95": 147.91312263218614,
+        "mean": 128.84687403278858
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "hand_only",
+      "model": "affine",
+      "split": "fit",
+      "cls": 2,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 28.163174102531496,
+        "p95": 39.48800560516794,
+        "mean": 31.11002120108768
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 57.044056392830576,
+        "p95": 63.64328982854098,
+        "mean": 54.58435328644885
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 30.588589631692834,
+        "p95": 43.21468962205247,
+        "mean": 33.807014151094116
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 93.56239641056827,
+        "p95": 99.11817781737324,
+        "mean": 89.66709572306793
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "hand_only",
+      "model": "affine",
+      "split": "fit",
+      "cls": 3,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 40.66338200551711,
+        "p95": 47.26635467558249,
+        "mean": 37.99363266730432
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 56.20802484653689,
+        "p95": 59.337397106833926,
+        "mean": 54.431022412772016
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 42.36510903453835,
+        "p95": 50.130158923649056,
+        "mean": 39.93142165529493
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 145.576055877766,
+        "p95": 172.62858961630633,
+        "mean": 141.86830596527815
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "hand_only",
+      "model": "affine",
+      "split": "fit",
+      "cls": 4,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 92.55737209859674,
+        "p95": 117.72599950554188,
+        "mean": 94.27624802532172
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 92.88089716977402,
+        "p95": 118.27193009607723,
+        "mean": 94.95938862598611
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 93.63729738263203,
+        "p95": 118.93260688360414,
+        "mean": 95.24136788473923
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 121.56743532596636,
+        "p95": 157.58620520588067,
+        "mean": 129.16173755889616
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "hand_only",
+      "model": "affine",
+      "split": "test_time",
+      "cls": 2,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 52.72540693728542,
+        "p95": 70.8440808709812,
+        "mean": 50.81351151637565
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 68.64579566109464,
+        "p95": 80.00074697180867,
+        "mean": 67.8504740780697
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 57.28269292001605,
+        "p95": 74.26887664501946,
+        "mean": 54.716648996274294
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 117.87436968200166,
+        "p95": 152.17743729144473,
+        "mean": 120.51373587383917
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "hand_only",
+      "model": "affine",
+      "split": "test_time",
+      "cls": 3,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 48.570893109690736,
+        "p95": 79.63616326725045,
+        "mean": 51.784622548464164
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 63.39133215003547,
+        "p95": 86.81711841123655,
+        "mean": 64.28286050911082
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 50.10422479672104,
+        "p95": 82.75134546579893,
+        "mean": 53.79185346389056
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 142.46338604841895,
+        "p95": 182.23059207377923,
+        "mean": 148.11113192657334
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "hand_only",
+      "model": "affine",
+      "split": "test_time",
+      "cls": 4,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 94.8328607753991,
+        "p95": 112.75248478631418,
+        "mean": 93.46041693770547
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 95.21260565382656,
+        "p95": 113.40494689969803,
+        "mean": 94.18080554012681
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 96.1133729682027,
+        "p95": 113.91319569432815,
+        "mean": 94.52464467962017
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 128.48656690619677,
+        "p95": 149.93127145883778,
+        "mean": 128.59976456475545
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "hand_only",
+      "model": "affine",
+      "split": "test_episode",
+      "cls": 2,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 38.28289873429064,
+        "p95": 55.34979888079272,
+        "mean": 40.53207047833566
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 58.53395174745488,
+        "p95": 74.83783456229926,
+        "mean": 62.012120893062104
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 41.27231318490964,
+        "p95": 59.4166592499982,
+        "mean": 43.51593703934579
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 103.57973605057202,
+        "p95": 143.57554332586568,
+        "mean": 109.08187977423562
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "hand_only",
+      "model": "affine",
+      "split": "test_episode",
+      "cls": 3,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 90.05536363258096,
+        "p95": 175.7629267799685,
+        "mean": 103.15149076425196
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 99.60633241956734,
+        "p95": 176.16042367819463,
+        "mean": 113.94745670653981
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 94.2801632104859,
+        "p95": 184.84462619750533,
+        "mean": 108.03129782189343
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 178.30245097062493,
+        "p95": 290.361744274951,
+        "mean": 197.87457197116305
+      }
+    },
+    {
+      "group": "dagger",
+      "fit_scope": "hand_only",
+      "model": "affine",
+      "split": "test_episode",
+      "cls": 4,
+      "episodes": 6,
+      "episode_median_abs_depth_mm": {
+        "n": 6,
+        "median": 115.72151380304888,
+        "p95": 132.9574900544308,
+        "mean": 108.38810917210175
+      },
+      "episode_median_native_xyz_mm": {
+        "n": 6,
+        "median": 116.2136935215988,
+        "p95": 133.63185428206327,
+        "mean": 108.90074347077916
+      },
+      "episode_median_knownK_xyz_mm": {
+        "n": 6,
+        "median": 117.16927581061123,
+        "p95": 134.17311654277813,
+        "mean": 109.60589347715023
+      },
+      "episode_p95_abs_depth_mm": {
+        "n": 6,
+        "median": 149.433685986753,
+        "p95": 165.45553618899808,
+        "mean": 145.25967673990672
+      }
+    }
+  ],
+  "limitations": [
+    "D435 black-glove/reflective/thin-object holes and noise mean reference is imperfect.",
+    "Mask interiors and local depth smoothness gates preferentially retain easier pixels; no rejection based on PF residual.",
+    "No interpolation across time, no FK-based fitting, no source data modification.",
+    "Results are for existing pointflow, not the isolated chunk-fix rerun.",
+    "Known-K XYZ diagnostic changes rays as well as corrected depth; native-ray result isolates only depth correction."
+  ]
+}

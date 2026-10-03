@@ -1,0 +1,712 @@
+[
+  {
+    "episode": "episode_0000_20260830_155455",
+    "pointflow_frames": 2251,
+    "cache_frames": 2251,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0000_20260830_155455/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0000_20260830_155455/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0001_20260830_155619",
+    "pointflow_frames": 1673,
+    "cache_frames": 1673,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0001_20260830_155619/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0001_20260830_155619/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0002_20260830_155725",
+    "pointflow_frames": 1425,
+    "cache_frames": 1425,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0002_20260830_155725/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0002_20260830_155725/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0007_20260830_160029",
+    "pointflow_frames": 982,
+    "cache_frames": 982,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0007_20260830_160029/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0007_20260830_160029/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0008_20260830_160108",
+    "pointflow_frames": 957,
+    "cache_frames": 957,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0008_20260830_160108/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0008_20260830_160108/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0009_20260830_160144",
+    "pointflow_frames": 1111,
+    "cache_frames": 1111,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0009_20260830_160144/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0009_20260830_160144/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0010_20260830_160737",
+    "pointflow_frames": 1080,
+    "cache_frames": 1080,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0010_20260830_160737/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0010_20260830_160737/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0011_20260830_160819",
+    "pointflow_frames": 1291,
+    "cache_frames": 1291,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0011_20260830_160819/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0011_20260830_160819/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0012_20260830_160906",
+    "pointflow_frames": 1067,
+    "cache_frames": 1067,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0012_20260830_160906/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0012_20260830_160906/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0013_20260830_160946",
+    "pointflow_frames": 938,
+    "cache_frames": 938,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0013_20260830_160946/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0013_20260830_160946/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0014_20260830_161022",
+    "pointflow_frames": 1182,
+    "cache_frames": 1182,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0014_20260830_161022/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0014_20260830_161022/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0015_20260830_161130",
+    "pointflow_frames": 1206,
+    "cache_frames": 1206,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0015_20260830_161130/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0015_20260830_161130/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0016_20260830_161213",
+    "pointflow_frames": 803,
+    "cache_frames": 803,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0016_20260830_161213/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0016_20260830_161213/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0017_20260830_161244",
+    "pointflow_frames": 1012,
+    "cache_frames": 1012,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0017_20260830_161244/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0017_20260830_161244/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0018_20260830_161322",
+    "pointflow_frames": 1016,
+    "cache_frames": 1016,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0018_20260830_161322/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0018_20260830_161322/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0019_20260830_161402",
+    "pointflow_frames": 924,
+    "cache_frames": 924,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0019_20260830_161402/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0019_20260830_161402/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0020_20260830_161437",
+    "pointflow_frames": 862,
+    "cache_frames": 862,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0020_20260830_161437/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0020_20260830_161437/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0021_20260830_161509",
+    "pointflow_frames": 761,
+    "cache_frames": 761,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0021_20260830_161509/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0021_20260830_161509/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0022_20260830_161538",
+    "pointflow_frames": 866,
+    "cache_frames": 866,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0022_20260830_161538/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0022_20260830_161538/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0023_20260830_161611",
+    "pointflow_frames": 938,
+    "cache_frames": 938,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0023_20260830_161611/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0023_20260830_161611/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0024_20260830_161646",
+    "pointflow_frames": 808,
+    "cache_frames": 808,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0024_20260830_161646/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0024_20260830_161646/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0026_20260830_162430",
+    "pointflow_frames": 1215,
+    "cache_frames": 1215,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0026_20260830_162430/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0026_20260830_162430/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0027_20260830_162514",
+    "pointflow_frames": 1097,
+    "cache_frames": 1097,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0027_20260830_162514/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0027_20260830_162514/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0028_20260830_162554",
+    "pointflow_frames": 1286,
+    "cache_frames": 1286,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0028_20260830_162554/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0028_20260830_162554/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0029_20260830_162641",
+    "pointflow_frames": 931,
+    "cache_frames": 931,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0029_20260830_162641/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0029_20260830_162641/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0030_20260830_162715",
+    "pointflow_frames": 1069,
+    "cache_frames": 1069,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0030_20260830_162715/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0030_20260830_162715/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0031_20260830_162755",
+    "pointflow_frames": 1211,
+    "cache_frames": 1211,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0031_20260830_162755/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0031_20260830_162755/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0032_20260830_162838",
+    "pointflow_frames": 1107,
+    "cache_frames": 1107,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0032_20260830_162838/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0032_20260830_162838/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0033_20260830_163009",
+    "pointflow_frames": 1093,
+    "cache_frames": 1093,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0033_20260830_163009/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0033_20260830_163009/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0034_20260830_163052",
+    "pointflow_frames": 967,
+    "cache_frames": 967,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0034_20260830_163052/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0034_20260830_163052/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0036_20260830_163133",
+    "pointflow_frames": 1016,
+    "cache_frames": 1016,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0036_20260830_163133/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0036_20260830_163133/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0037_20260830_163221",
+    "pointflow_frames": 1128,
+    "cache_frames": 1128,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0037_20260830_163221/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0037_20260830_163221/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0038_20260830_163308",
+    "pointflow_frames": 1207,
+    "cache_frames": 1207,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0038_20260830_163308/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0038_20260830_163308/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0039_20260830_163356",
+    "pointflow_frames": 1071,
+    "cache_frames": 1071,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0039_20260830_163356/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0039_20260830_163356/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0041_20260830_163452",
+    "pointflow_frames": 1046,
+    "cache_frames": 1046,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0041_20260830_163452/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0041_20260830_163452/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0042_20260830_163531",
+    "pointflow_frames": 874,
+    "cache_frames": 874,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0042_20260830_163531/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0042_20260830_163531/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0043_20260830_163607",
+    "pointflow_frames": 978,
+    "cache_frames": 978,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0043_20260830_163607/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0043_20260830_163607/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0046_20260830_163732",
+    "pointflow_frames": 825,
+    "cache_frames": 825,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0046_20260830_163732/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0046_20260830_163732/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0047_20260830_165343",
+    "pointflow_frames": 858,
+    "cache_frames": 858,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0047_20260830_165343/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0047_20260830_165343/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0048_20260830_165425",
+    "pointflow_frames": 1102,
+    "cache_frames": 1102,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0048_20260830_165425/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0048_20260830_165425/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0050_20260830_165537",
+    "pointflow_frames": 761,
+    "cache_frames": 761,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0050_20260830_165537/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0050_20260830_165537/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0052_20260830_165628",
+    "pointflow_frames": 848,
+    "cache_frames": 848,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0052_20260830_165628/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0052_20260830_165628/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0053_20260830_165701",
+    "pointflow_frames": 715,
+    "cache_frames": 715,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0053_20260830_165701/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0053_20260830_165701/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0054_20260830_165730",
+    "pointflow_frames": 774,
+    "cache_frames": 774,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0054_20260830_165730/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0054_20260830_165730/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0055_20260830_165806",
+    "pointflow_frames": 1051,
+    "cache_frames": 1051,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0055_20260830_165806/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0055_20260830_165806/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0056_20260830_165848",
+    "pointflow_frames": 983,
+    "cache_frames": 983,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0056_20260830_165848/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0056_20260830_165848/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0057_20260830_165925",
+    "pointflow_frames": 838,
+    "cache_frames": 838,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0057_20260830_165925/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0057_20260830_165925/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0059_20260830_170243",
+    "pointflow_frames": 903,
+    "cache_frames": 903,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0059_20260830_170243/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0059_20260830_170243/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0060_20260830_170318",
+    "pointflow_frames": 1015,
+    "cache_frames": 1015,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0060_20260830_170318/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0060_20260830_170318/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0061_20260830_170355",
+    "pointflow_frames": 769,
+    "cache_frames": 769,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0061_20260830_170355/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0061_20260830_170355/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0062_20260830_170434",
+    "pointflow_frames": 882,
+    "cache_frames": 882,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger/episode_0062_20260830_170434/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0062_20260830_170434/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0005_20260903_185554",
+    "pointflow_frames": 1496,
+    "cache_frames": 1496,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger_new/episode_0005_20260903_185554/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0005_20260903_185554/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0006_20260903_185650",
+    "pointflow_frames": 1396,
+    "cache_frames": 1396,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger_new/episode_0006_20260903_185650/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0006_20260903_185650/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0007_20260903_185740",
+    "pointflow_frames": 1163,
+    "cache_frames": 1163,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger_new/episode_0007_20260903_185740/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0007_20260903_185740/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0008_20260903_185822",
+    "pointflow_frames": 1112,
+    "cache_frames": 1112,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger_new/episode_0008_20260903_185822/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0008_20260903_185822/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0009_20260903_190127",
+    "pointflow_frames": 1150,
+    "cache_frames": 1150,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger_new/episode_0009_20260903_190127/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0009_20260903_190127/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0011_20260903_190341",
+    "pointflow_frames": 1135,
+    "cache_frames": 1135,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger_new/episode_0011_20260903_190341/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0011_20260903_190341/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0012_20260903_190440",
+    "pointflow_frames": 870,
+    "cache_frames": 870,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger_new/episode_0012_20260903_190440/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0012_20260903_190440/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0013_20260903_190520",
+    "pointflow_frames": 933,
+    "cache_frames": 933,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger_new/episode_0013_20260903_190520/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0013_20260903_190520/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0014_20260903_190554",
+    "pointflow_frames": 756,
+    "cache_frames": 756,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger_new/episode_0014_20260903_190554/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0014_20260903_190554/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0015_20260903_190636",
+    "pointflow_frames": 1099,
+    "cache_frames": 1099,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger_new/episode_0015_20260903_190636/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0015_20260903_190636/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0016_20260903_190720",
+    "pointflow_frames": 1122,
+    "cache_frames": 1122,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger_new/episode_0016_20260903_190720/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0016_20260903_190720/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0017_20260903_191053",
+    "pointflow_frames": 841,
+    "cache_frames": 841,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger_new/episode_0017_20260903_191053/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0017_20260903_191053/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0018_20260903_191125",
+    "pointflow_frames": 811,
+    "cache_frames": 811,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger_new/episode_0018_20260903_191125/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0018_20260903_191125/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0020_20260903_191211",
+    "pointflow_frames": 949,
+    "cache_frames": 949,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger_new/episode_0020_20260903_191211/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0020_20260903_191211/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0021_20260903_191250",
+    "pointflow_frames": 856,
+    "cache_frames": 856,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger_new/episode_0021_20260903_191250/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0021_20260903_191250/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0024_20260903_191423",
+    "pointflow_frames": 868,
+    "cache_frames": 868,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger_new/episode_0024_20260903_191423/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0024_20260903_191423/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0025_20260903_191459",
+    "pointflow_frames": 805,
+    "cache_frames": 805,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger_new/episode_0025_20260903_191459/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0025_20260903_191459/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0030_20260903_192013",
+    "pointflow_frames": 1036,
+    "cache_frames": 1036,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger_new/episode_0030_20260903_192013/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0030_20260903_192013/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0031_20260903_192052",
+    "pointflow_frames": 935,
+    "cache_frames": 935,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger_new/episode_0031_20260903_192052/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0031_20260903_192052/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  },
+  {
+    "episode": "episode_0033_20260903_192205",
+    "pointflow_frames": 682,
+    "cache_frames": 682,
+    "cache_frames_match": true,
+    "export_video": "/data/shichaojian/raw_data/dropper_dagger_new/episode_0033_20260903_192205/videos/head.mp4",
+    "evaluation_video": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0033_20260903_192205/videos/head.mp4",
+    "samefile": true,
+    "video_identical": true
+  }
+]

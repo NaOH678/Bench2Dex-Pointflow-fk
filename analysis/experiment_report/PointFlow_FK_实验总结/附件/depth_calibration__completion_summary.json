@@ -1,0 +1,37 @@
+{
+  "status": "complete",
+  "episodes": 24,
+  "datasets": [
+    "sandwich",
+    "dagger merged 9.24+10.1"
+  ],
+  "calibration_episodes_per_dataset": 6,
+  "heldout_episodes_per_dataset": 6,
+  "sampled_depth_frames": 576,
+  "accepted_rgb_depth_frame_pairs": 567,
+  "correspondence_points": 624475,
+  "timestamp_abs_delta_ms": {
+    "n": 576,
+    "median": 8.52954387664795,
+    "p95": 16.182303428649902,
+    "mean": 8.915281130207909
+  },
+  "timestamp_rejections": 9,
+  "no_gpu_used": true,
+  "no_original_data_modified": true,
+  "no_fk_fitting": true,
+  "conclusions": [
+    "Sandwich global offset learned from calibration data improves held-out episodes but leaves substantial late-frame and non-hand residuals; not a validated production correction.",
+    "DAgger global offset/scale/affine do not improve held-out episode depth; no universal global correction established.",
+    "Correcting depth alone leaves transverse geometry error; known-K reprojection improves some results but is not equivalent to correct depth inference."
+  ],
+  "artifacts": [
+    "heldout_summary.png",
+    "depth_relationship.png",
+    "heldout_rgb_examples.png",
+    "results.json",
+    "episode_results.json",
+    "frame_results.json",
+    "timestamp_checks.json"
+  ]
+}

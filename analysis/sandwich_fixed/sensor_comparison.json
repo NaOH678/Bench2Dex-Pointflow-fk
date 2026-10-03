@@ -1,0 +1,20 @@
+{
+  "frame": 650,
+  "samples": 265,
+  "note": "Same-pixel D435 depth neighbourhood, >=3 samples within 2px; sensor corroboration, not perfect truth.",
+  "old_minus_d435_mm": {
+    "signed_median": -66.42660791679967,
+    "absolute_median": 66.42660791679967,
+    "absolute_p95": 75.56259967500459
+  },
+  "fixed_minus_d435_mm": {
+    "signed_median": -128.80047719506837,
+    "absolute_median": 128.80047719506837,
+    "absolute_p95": 139.80220612868007
+  },
+  "mesh_minus_d435_mm": {
+    "signed_median": 1.353934167936055,
+    "absolute_median": 3.322398474091881,
+    "absolute_p95": 59.66695328632491
+  }
+}

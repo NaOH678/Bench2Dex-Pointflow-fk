@@ -1,0 +1,15 @@
+{
+  "native_repo": "/mnt/afs/WorldAct-pointflow-native",
+  "stage": "export",
+  "seed": 17,
+  "external_chunks": 0,
+  "max_frames": 0,
+  "source_files_sha256": {
+    "/mnt/afs/WorldAct-pointflow-native/pf_out/run_efep_export.py": "7de55fa6bc45606a442cc16535542c6a434505c6101afd0978619d47658291b7",
+    "/mnt/afs/WorldAct-pointflow-native/Track4World_portable/Track4World/demo.py": "ab34c2cabbbcdc1117447d0bfd5618bdbec447b44ef196de16b6f5f02ccea2f5",
+    "/mnt/afs/WorldAct-pointflow-native/Track4World_portable/Track4World/track4world/nets/model.py": "9d9b7f0e60b2cdb2a8a01ee38afd9fe7d115b3ab01855a3bec43b527a1016b6f"
+  },
+  "adaptations": [
+    "Legacy ROOT and REPO mapped to installed local assets; native functions unchanged."
+  ]
+}

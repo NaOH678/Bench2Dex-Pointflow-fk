@@ -1,0 +1,75 @@
+{
+  "episodes": 101,
+  "sampled_frames": 706,
+  "accepted_frames": 706,
+  "surface_correspondences": 208687,
+  "candidate_rays": 259944,
+  "aggregation": "First compute median across matched surface points in each frame, then summarize those 706 frame medians. Not pooled point percentiles.",
+  "frame_median_signed_surface_depth_mm": {
+    "n": 706,
+    "median": -112.3722053115378,
+    "p05": -178.3872308400445,
+    "p95": -32.10807595818474,
+    "mean": -110.20637776539401
+  },
+  "frame_median_surface_xyz_mm": {
+    "n": 706,
+    "median": 113.17533172940735,
+    "p05": 43.187448354100596,
+    "p95": 181.58010629903595,
+    "mean": 113.68109977751698
+  },
+  "episode_median_surface_xyz_mm": {
+    "n": 101,
+    "median": 113.21915496253337,
+    "p05": 58.242899771414926,
+    "p95": 171.27632074824945,
+    "mean": 113.7271478596325
+  },
+  "fk_independent_recompute_max_frame_p95_mm": 4.107559428218584e-05,
+  "sensor_check": {
+    "episode": "episode_0013_20260731_133649",
+    "frame": 650,
+    "n": 265,
+    "pf_minus_d435_z_mm": {
+      "n": 265,
+      "median": -66.42660791679967,
+      "p05": -75.5625996750046,
+      "p95": -46.079575050600944,
+      "mean": -65.05596890228016
+    },
+    "d435_minus_mesh_z_mm": {
+      "n": 265,
+      "median": -1.353934167936055,
+      "p05": -59.666953286325025,
+      "p95": 7.761671732192907,
+      "mean": -4.972579026122706
+    },
+    "pf_minus_mesh_z_mm": {
+      "n": 265,
+      "median": -65.94823043749398,
+      "p05": -126.30212485805185,
+      "p95": -50.97715167850359,
+      "mean": -70.02854792840286
+    },
+    "note": "Same retained hand pixels with URDF first-hit surface. Sensor is an independent cross-check, not perfect ground truth; 2px neighbourhoods, >=3 sensor samples. RealSense column-major extrinsics."
+  },
+  "source_pointflow": "/data/shichaojian/pf_out/9.24/sandwich/efep_seg_v2",
+  "fk_source": "/data/shichaojian/raw_data/sandwich_fk21",
+  "urdf": "/data/shichaojian/wuji-mjlab/marvin_wuji_d435_description/urdf/marvin_wuji_d435_complete.urdf",
+  "extrinsic": "/mnt/afs/WorldAct-cosmos3-edge-droid-sft_mano/cosmos_framework/data/fk_camera_extrinsic.py",
+  "alignment_fitted": false,
+  "method": [
+    "Recompute URDF link transforms from recorded 54D qpos; cross-check FK21 against hand link origins.",
+    "Use calibrated colour intrinsics resized to 640x448; cast rays at stored pixel coordinates.",
+    "Only valid & unique hand pixels; 5x5 mask erosion, every fourth pixel on each image axis; intersect nearest URDF hand visual surface.",
+    "Compare original PointFlow camera-space XYZ directly to same-ray mesh surface. No scaling, translation fitting, smoothing or GPU rerun."
+  ],
+  "limitations": [
+    "URDF visual surface is a geometry reference, not perfect glove ground truth.",
+    "Non-hand object occlusion, residual extrinsic error and recording latency are not fully resolved.",
+    "v2 hand mask already uses URDF proximity, so mask agreement is not independent calibration validation.",
+    "Only one frame has independent D435 corroboration; D435 itself has noise/occlusion.",
+    "Current data gap does not by itself establish how much is caused by the DA3 chunk metadata bug."
+  ]
+}

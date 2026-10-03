@@ -1,0 +1,178 @@
+{
+  "version": "v6-efep-sam2",
+  "episode": "episode_0013_20260731_133649",
+  "frames": 1192,
+  "anchor_frame": 0,
+  "observations_labelled": 69899281,
+  "unique_points": 32066979,
+  "groups": {
+    "dexterous_hand": {
+      "label": 2,
+      "valid_per_frame_median": 6079.0,
+      "valid_per_frame_max": 9192,
+      "tracks": 238404
+    },
+    "manipulated_object": {
+      "label": 3,
+      "valid_per_frame_median": 12318.0,
+      "valid_per_frame_max": 16966,
+      "tracks": 80623
+    },
+    "operated_surface": {
+      "label": 4,
+      "valid_per_frame_median": 8720.0,
+      "valid_per_frame_max": 13917,
+      "tracks": 205945
+    }
+  },
+  "export": {
+    "episode": "episode_0013_20260731_133649",
+    "video": "/data/shichaojian/raw_data/singlerighthand_sandwich_100/episode_0013_20260731_133649/videos/head.mp4",
+    "frames": 1192,
+    "fps": 30.0,
+    "width": 640,
+    "height": 480,
+    "start_frame": 0,
+    "mode": "3d_efep",
+    "coordinate": "world_depthanythingv3",
+    "metric_scale": true,
+    "inference_call": "model.infer_pair(force_projection=True)",
+    "inference_calls": 1,
+    "external_chunks": 0,
+    "frames_inferred": 1192,
+    "infer_height": 448,
+    "infer_width": 640,
+    "inference_seconds": 524.7294290736318,
+    "total_seconds": 567.1042676400393,
+    "observations": 564755092,
+    "tracks": 35529923,
+    "chaining": "official demo.py save_efep rules, sparse storage",
+    "updated": 1790946641.290103
+  },
+  "segmentation": {
+    "dataset": "sandwich",
+    "episode": "episode_0013_20260731_133649",
+    "frames": 1192,
+    "anchor": 0,
+    "size": [
+      640,
+      480
+    ],
+    "model": "sam2.1_hiera_large video predictor",
+    "prompts": [
+      {
+        "obj_id": 1,
+        "cls": 2,
+        "box": [
+          447.8175048828125,
+          200.2696075439453,
+          593.3473510742188,
+          320.5695495605469
+        ],
+        "points": null
+      },
+      {
+        "obj_id": 10,
+        "cls": 3,
+        "box": [
+          248.0,
+          250.0,
+          428.0,
+          395.0
+        ],
+        "points": null
+      },
+      {
+        "obj_id": 20,
+        "cls": 4,
+        "box": [
+          398.0,
+          395.0,
+          535.0,
+          470.0
+        ],
+        "points": null
+      },
+      {
+        "obj_id": 21,
+        "cls": 4,
+        "box": [
+          478.0,
+          285.0,
+          548.0,
+          385.0
+        ],
+        "points": null
+      }
+    ],
+    "hand_prompt": [
+      {
+        "obj_id": 1,
+        "source": "grounding_dino",
+        "score": 0.451
+      }
+    ],
+    "hand_text": "black robotic hand.",
+    "dino_model": "/mnt/shared-storage-gpfs2/ailab-eailabagent-gpfs/shichaojian/checkpoints/grounding-dino-base",
+    "classes": {
+      "2": "dexterous_hand",
+      "3": "manipulated_object",
+      "4": "operated_surface"
+    },
+    "mean_coverage_pct": {
+      "2": 2.2282400792610457,
+      "3": 4.548857618498322,
+      "4": 3.250327159361018
+    },
+    "frames_without_class": {
+      "2": 0,
+      "3": 0,
+      "4": 0
+    }
+  },
+  "erode_px": 1,
+  "gap_fill": {
+    "max_frames": 3,
+    "tol_m": 0.02,
+    "observations_readmitted": 520934
+  },
+  "despike": {
+    "threshold_m": 0.03,
+    "observations_dropped": 681
+  },
+  "point_gates": {
+    "clean_mask": true,
+    "min_conf": 0.3,
+    "depth_m": [
+      0.1,
+      6.0
+    ]
+  },
+  "per_track_filters": false,
+  "interpolation": false,
+  "smoothing": false,
+  "seconds": 162.87238963507116,
+  "detached_removal": {
+    "voxel_m": 0.015,
+    "min_frac": 0.25,
+    "touch_voxels": 2,
+    "depth_gap_m": 0.1,
+    "per_class": {
+      "dexterous_hand": {
+        "points": 36266780,
+        "detached": 158,
+        "detached_pct": 0.0
+      },
+      "manipulated_object": {
+        "points": 16755501,
+        "detached": 30691,
+        "detached_pct": 0.183
+      },
+      "operated_surface": {
+        "points": 16877000,
+        "detached": 3467,
+        "detached_pct": 0.021
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "source": "/tmp/bench2dex_replay21_ep0.hdf5",
+  "source_sha256": "bd1b6452e9ba050d417c4fed46da25451184b0c1c40147643a9d59c11fb0ac32",
+  "video": "/mnt/afs/Bench2Dex/analysis/native_full_episode/source/task21_episode000000/videos/head.mp4",
+  "frames": 713,
+  "fps": 20.0,
+  "seconds": 35.65,
+  "camera": "cam_overhead",
+  "encoding": "lossless libx264rgb crf0",
+  "decode_exact_frames": [
+    0,
+    348,
+    712
+  ],
+  "truncated": false
+}

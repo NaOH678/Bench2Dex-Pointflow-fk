@@ -1,0 +1,357 @@
+{
+  "episode_0000_20260830_155455": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0000_20260830_155455",
+    "source": "9.24",
+    "frames": 2251
+  },
+  "episode_0001_20260830_155619": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0001_20260830_155619",
+    "source": "9.24",
+    "frames": 1673
+  },
+  "episode_0002_20260830_155725": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0002_20260830_155725",
+    "source": "9.24",
+    "frames": 1425
+  },
+  "episode_0007_20260830_160029": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0007_20260830_160029",
+    "source": "9.24",
+    "frames": 982
+  },
+  "episode_0008_20260830_160108": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0008_20260830_160108",
+    "source": "9.24",
+    "frames": 957
+  },
+  "episode_0009_20260830_160144": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0009_20260830_160144",
+    "source": "9.24",
+    "frames": 1111
+  },
+  "episode_0010_20260830_160737": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0010_20260830_160737",
+    "source": "9.24",
+    "frames": 1080
+  },
+  "episode_0011_20260830_160819": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0011_20260830_160819",
+    "source": "9.24",
+    "frames": 1291
+  },
+  "episode_0012_20260830_160906": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0012_20260830_160906",
+    "source": "9.24",
+    "frames": 1067
+  },
+  "episode_0013_20260830_160946": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0013_20260830_160946",
+    "source": "9.24",
+    "frames": 938
+  },
+  "episode_0014_20260830_161022": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0014_20260830_161022",
+    "source": "9.24",
+    "frames": 1182
+  },
+  "episode_0015_20260830_161130": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0015_20260830_161130",
+    "source": "9.24",
+    "frames": 1206
+  },
+  "episode_0016_20260830_161213": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0016_20260830_161213",
+    "source": "9.24",
+    "frames": 803
+  },
+  "episode_0017_20260830_161244": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0017_20260830_161244",
+    "source": "9.24",
+    "frames": 1012
+  },
+  "episode_0018_20260830_161322": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0018_20260830_161322",
+    "source": "9.24",
+    "frames": 1016
+  },
+  "episode_0019_20260830_161402": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0019_20260830_161402",
+    "source": "9.24",
+    "frames": 924
+  },
+  "episode_0020_20260830_161437": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0020_20260830_161437",
+    "source": "9.24",
+    "frames": 862
+  },
+  "episode_0021_20260830_161509": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0021_20260830_161509",
+    "source": "9.24",
+    "frames": 761
+  },
+  "episode_0022_20260830_161538": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0022_20260830_161538",
+    "source": "9.24",
+    "frames": 866
+  },
+  "episode_0023_20260830_161611": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0023_20260830_161611",
+    "source": "9.24",
+    "frames": 938
+  },
+  "episode_0024_20260830_161646": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0024_20260830_161646",
+    "source": "9.24",
+    "frames": 808
+  },
+  "episode_0026_20260830_162430": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0026_20260830_162430",
+    "source": "9.24",
+    "frames": 1215
+  },
+  "episode_0027_20260830_162514": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0027_20260830_162514",
+    "source": "9.24",
+    "frames": 1097
+  },
+  "episode_0028_20260830_162554": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0028_20260830_162554",
+    "source": "9.24",
+    "frames": 1286
+  },
+  "episode_0029_20260830_162641": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0029_20260830_162641",
+    "source": "9.24",
+    "frames": 931
+  },
+  "episode_0030_20260830_162715": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0030_20260830_162715",
+    "source": "9.24",
+    "frames": 1069
+  },
+  "episode_0031_20260830_162755": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0031_20260830_162755",
+    "source": "9.24",
+    "frames": 1211
+  },
+  "episode_0032_20260830_162838": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0032_20260830_162838",
+    "source": "9.24",
+    "frames": 1107
+  },
+  "episode_0033_20260830_163009": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0033_20260830_163009",
+    "source": "9.24",
+    "frames": 1093
+  },
+  "episode_0034_20260830_163052": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0034_20260830_163052",
+    "source": "9.24",
+    "frames": 967
+  },
+  "episode_0036_20260830_163133": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0036_20260830_163133",
+    "source": "9.24",
+    "frames": 1016
+  },
+  "episode_0037_20260830_163221": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0037_20260830_163221",
+    "source": "9.24",
+    "frames": 1128
+  },
+  "episode_0038_20260830_163308": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0038_20260830_163308",
+    "source": "9.24",
+    "frames": 1207
+  },
+  "episode_0039_20260830_163356": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0039_20260830_163356",
+    "source": "9.24",
+    "frames": 1071
+  },
+  "episode_0041_20260830_163452": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0041_20260830_163452",
+    "source": "9.24",
+    "frames": 1046
+  },
+  "episode_0042_20260830_163531": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0042_20260830_163531",
+    "source": "9.24",
+    "frames": 874
+  },
+  "episode_0043_20260830_163607": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0043_20260830_163607",
+    "source": "9.24",
+    "frames": 978
+  },
+  "episode_0046_20260830_163732": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0046_20260830_163732",
+    "source": "9.24",
+    "frames": 825
+  },
+  "episode_0047_20260830_165343": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0047_20260830_165343",
+    "source": "9.24",
+    "frames": 858
+  },
+  "episode_0048_20260830_165425": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0048_20260830_165425",
+    "source": "9.24",
+    "frames": 1102
+  },
+  "episode_0050_20260830_165537": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0050_20260830_165537",
+    "source": "9.24",
+    "frames": 761
+  },
+  "episode_0052_20260830_165628": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0052_20260830_165628",
+    "source": "9.24",
+    "frames": 848
+  },
+  "episode_0053_20260830_165701": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0053_20260830_165701",
+    "source": "9.24",
+    "frames": 715
+  },
+  "episode_0054_20260830_165730": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0054_20260830_165730",
+    "source": "9.24",
+    "frames": 774
+  },
+  "episode_0055_20260830_165806": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0055_20260830_165806",
+    "source": "9.24",
+    "frames": 1051
+  },
+  "episode_0056_20260830_165848": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0056_20260830_165848",
+    "source": "9.24",
+    "frames": 983
+  },
+  "episode_0057_20260830_165925": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0057_20260830_165925",
+    "source": "9.24",
+    "frames": 838
+  },
+  "episode_0059_20260830_170243": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0059_20260830_170243",
+    "source": "9.24",
+    "frames": 903
+  },
+  "episode_0060_20260830_170318": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0060_20260830_170318",
+    "source": "9.24",
+    "frames": 1015
+  },
+  "episode_0061_20260830_170355": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0061_20260830_170355",
+    "source": "9.24",
+    "frames": 769
+  },
+  "episode_0062_20260830_170434": {
+    "pointflow": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0062_20260830_170434",
+    "source": "9.24",
+    "frames": 882
+  },
+  "episode_0005_20260903_185554": {
+    "pointflow": "/data/shichaojian/pf_out/10.1/dagger_new/efep_seg_v61/episode_0005_20260903_185554",
+    "source": "10.1",
+    "frames": 1496
+  },
+  "episode_0006_20260903_185650": {
+    "pointflow": "/data/shichaojian/pf_out/10.1/dagger_new/efep_seg_v61/episode_0006_20260903_185650",
+    "source": "10.1",
+    "frames": 1396
+  },
+  "episode_0007_20260903_185740": {
+    "pointflow": "/data/shichaojian/pf_out/10.1/dagger_new/efep_seg_v61/episode_0007_20260903_185740",
+    "source": "10.1",
+    "frames": 1163
+  },
+  "episode_0008_20260903_185822": {
+    "pointflow": "/data/shichaojian/pf_out/10.1/dagger_new/efep_seg_v61/episode_0008_20260903_185822",
+    "source": "10.1",
+    "frames": 1112
+  },
+  "episode_0009_20260903_190127": {
+    "pointflow": "/data/shichaojian/pf_out/10.1/dagger_new/efep_seg_v61/episode_0009_20260903_190127",
+    "source": "10.1",
+    "frames": 1150
+  },
+  "episode_0011_20260903_190341": {
+    "pointflow": "/data/shichaojian/pf_out/10.1/dagger_new/efep_seg_v61/episode_0011_20260903_190341",
+    "source": "10.1",
+    "frames": 1135
+  },
+  "episode_0012_20260903_190440": {
+    "pointflow": "/data/shichaojian/pf_out/10.1/dagger_new/efep_seg_v61/episode_0012_20260903_190440",
+    "source": "10.1",
+    "frames": 870
+  },
+  "episode_0013_20260903_190520": {
+    "pointflow": "/data/shichaojian/pf_out/10.1/dagger_new/efep_seg_v61/episode_0013_20260903_190520",
+    "source": "10.1",
+    "frames": 933
+  },
+  "episode_0014_20260903_190554": {
+    "pointflow": "/data/shichaojian/pf_out/10.1/dagger_new/efep_seg_v61/episode_0014_20260903_190554",
+    "source": "10.1",
+    "frames": 756
+  },
+  "episode_0015_20260903_190636": {
+    "pointflow": "/data/shichaojian/pf_out/10.1/dagger_new/efep_seg_v61/episode_0015_20260903_190636",
+    "source": "10.1",
+    "frames": 1099
+  },
+  "episode_0016_20260903_190720": {
+    "pointflow": "/data/shichaojian/pf_out/10.1/dagger_new/efep_seg_v61/episode_0016_20260903_190720",
+    "source": "10.1",
+    "frames": 1122
+  },
+  "episode_0017_20260903_191053": {
+    "pointflow": "/data/shichaojian/pf_out/10.1/dagger_new/efep_seg_v61/episode_0017_20260903_191053",
+    "source": "10.1",
+    "frames": 841
+  },
+  "episode_0018_20260903_191125": {
+    "pointflow": "/data/shichaojian/pf_out/10.1/dagger_new/efep_seg_v61/episode_0018_20260903_191125",
+    "source": "10.1",
+    "frames": 811
+  },
+  "episode_0020_20260903_191211": {
+    "pointflow": "/data/shichaojian/pf_out/10.1/dagger_new/efep_seg_v61/episode_0020_20260903_191211",
+    "source": "10.1",
+    "frames": 949
+  },
+  "episode_0021_20260903_191250": {
+    "pointflow": "/data/shichaojian/pf_out/10.1/dagger_new/efep_seg_v61/episode_0021_20260903_191250",
+    "source": "10.1",
+    "frames": 856
+  },
+  "episode_0024_20260903_191423": {
+    "pointflow": "/data/shichaojian/pf_out/10.1/dagger_new/efep_seg_v61/episode_0024_20260903_191423",
+    "source": "10.1",
+    "frames": 868
+  },
+  "episode_0025_20260903_191459": {
+    "pointflow": "/data/shichaojian/pf_out/10.1/dagger_new/efep_seg_v61/episode_0025_20260903_191459",
+    "source": "10.1",
+    "frames": 805
+  },
+  "episode_0030_20260903_192013": {
+    "pointflow": "/data/shichaojian/pf_out/10.1/dagger_new/efep_seg_v61/episode_0030_20260903_192013",
+    "source": "10.1",
+    "frames": 1036
+  },
+  "episode_0031_20260903_192052": {
+    "pointflow": "/data/shichaojian/pf_out/10.1/dagger_new/efep_seg_v61/episode_0031_20260903_192052",
+    "source": "10.1",
+    "frames": 935
+  },
+  "episode_0033_20260903_192205": {
+    "pointflow": "/data/shichaojian/pf_out/10.1/dagger_new/efep_seg_v61/episode_0033_20260903_192205",
+    "source": "10.1",
+    "frames": 682
+  }
+}

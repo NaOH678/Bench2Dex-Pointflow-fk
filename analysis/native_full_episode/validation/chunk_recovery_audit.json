@@ -1,0 +1,395 @@
+{
+  "chunks": [
+    {
+      "start": 0,
+      "end": 127,
+      "metric_scale": 0.9655857086181641,
+      "normalized_focal": 1.1948214769363403
+    },
+    {
+      "start": 128,
+      "end": 255,
+      "metric_scale": 1.10041344165802,
+      "normalized_focal": 1.1837799549102783
+    },
+    {
+      "start": 256,
+      "end": 383,
+      "metric_scale": 0.9426007270812988,
+      "normalized_focal": 1.1057976484298706
+    },
+    {
+      "start": 384,
+      "end": 511,
+      "metric_scale": 1.0495781898498535,
+      "normalized_focal": 1.2036939859390259
+    },
+    {
+      "start": 512,
+      "end": 639,
+      "metric_scale": 1.060530185699463,
+      "normalized_focal": 1.291900396347046
+    },
+    {
+      "start": 640,
+      "end": 712,
+      "metric_scale": 1.1494399309158325,
+      "normalized_focal": 1.3747628927230835
+    }
+  ],
+  "source_issue": "get_fmaps overwrites model._metric_scale and model._da3_focal on each 128-frame block; infer_pair reads only the last values for all frames.",
+  "correction": "Diagnostic only: XYZ *= chunk_scale/last_scale, then XY *= last_focal/chunk_focal. Does not rerun motion estimation, change native final outputs, or fit to FK.",
+  "samples": [
+    {
+      "frame": 0,
+      "chunk_start": 0,
+      "native_z_vs_last_scale_reconstruction_mm": {
+        "n": 779,
+        "median": 0.0,
+        "p95": 0.0,
+        "max": 0.0
+      },
+      "native_xyz_mm": {
+        "n": 779,
+        "median": 139.620777747302,
+        "p95": 168.0184936454018,
+        "max": 230.6023654310251
+      },
+      "chunk_metadata_corrected_xyz_mm": {
+        "n": 779,
+        "median": 22.16718929839007,
+        "p95": 41.60890059908587,
+        "max": 93.22926328286766
+      },
+      "corrected_signed_depth_mm": {
+        "n": 779,
+        "median": 17.68370479220438,
+        "p95": 39.32785302395188,
+        "max": 87.74274857415354
+      }
+    },
+    {
+      "frame": 63,
+      "chunk_start": 0,
+      "native_z_vs_last_scale_reconstruction_mm": {
+        "n": 388,
+        "median": 0.0,
+        "p95": 0.0,
+        "max": 0.0
+      },
+      "native_xyz_mm": {
+        "n": 388,
+        "median": 177.09832823524377,
+        "p95": 201.1248418847847,
+        "max": 262.57021529568993
+      },
+      "chunk_metadata_corrected_xyz_mm": {
+        "n": 388,
+        "median": 59.392456636986225,
+        "p95": 115.64484379175803,
+        "max": 158.76311655412616
+      },
+      "corrected_signed_depth_mm": {
+        "n": 388,
+        "median": 48.891657142534626,
+        "p95": 65.04743871488365,
+        "max": 108.56893133333668
+      }
+    },
+    {
+      "frame": 100,
+      "chunk_start": 0,
+      "native_z_vs_last_scale_reconstruction_mm": {
+        "n": 419,
+        "median": 0.0,
+        "p95": 0.0,
+        "max": 0.0
+      },
+      "native_xyz_mm": {
+        "n": 419,
+        "median": 181.60603996579914,
+        "p95": 203.51997754679388,
+        "max": 243.64566669586722
+      },
+      "chunk_metadata_corrected_xyz_mm": {
+        "n": 419,
+        "median": 53.06218571344162,
+        "p95": 75.7680713277547,
+        "max": 97.68668863566714
+      },
+      "corrected_signed_depth_mm": {
+        "n": 419,
+        "median": 48.89025415182113,
+        "p95": 69.16868462276967,
+        "max": 92.20563370719947
+      }
+    },
+    {
+      "frame": 200,
+      "chunk_start": 128,
+      "native_z_vs_last_scale_reconstruction_mm": {
+        "n": 326,
+        "median": 0.0,
+        "p95": 0.0,
+        "max": 0.0
+      },
+      "native_xyz_mm": {
+        "n": 326,
+        "median": 263.4411098727321,
+        "p95": 279.88959554202415,
+        "max": 351.1663144110874
+      },
+      "chunk_metadata_corrected_xyz_mm": {
+        "n": 326,
+        "median": 237.35050483685157,
+        "p95": 250.5249943301723,
+        "max": 312.6527233525842
+      },
+      "corrected_signed_depth_mm": {
+        "n": 326,
+        "median": 221.0538546571097,
+        "p95": 236.91706026596026,
+        "max": 303.88605321593764
+      }
+    },
+    {
+      "frame": 300,
+      "chunk_start": 256,
+      "native_z_vs_last_scale_reconstruction_mm": {
+        "n": 294,
+        "median": 0.0,
+        "p95": 0.0,
+        "max": 0.0
+      },
+      "native_xyz_mm": {
+        "n": 294,
+        "median": 162.90334888865118,
+        "p95": 181.5572802222764,
+        "max": 189.10785664236369
+      },
+      "chunk_metadata_corrected_xyz_mm": {
+        "n": 294,
+        "median": 39.3509034119575,
+        "p95": 52.070804951795374,
+        "max": 60.3722012694166
+      },
+      "corrected_signed_depth_mm": {
+        "n": 294,
+        "median": 19.736567810201112,
+        "p95": 33.678787267159265,
+        "max": 39.8621401283219
+      }
+    },
+    {
+      "frame": 316,
+      "chunk_start": 256,
+      "native_z_vs_last_scale_reconstruction_mm": {
+        "n": 276,
+        "median": 0.0,
+        "p95": 0.0,
+        "max": 0.0
+      },
+      "native_xyz_mm": {
+        "n": 276,
+        "median": 164.42700356103586,
+        "p95": 201.26787268550504,
+        "max": 244.01902391878434
+      },
+      "chunk_metadata_corrected_xyz_mm": {
+        "n": 276,
+        "median": 40.37246604096234,
+        "p95": 62.98415880594446,
+        "max": 90.93685814908079
+      },
+      "corrected_signed_depth_mm": {
+        "n": 276,
+        "median": 20.0897670402706,
+        "p95": 44.26116151693588,
+        "max": 73.98839170086913
+      }
+    },
+    {
+      "frame": 348,
+      "chunk_start": 256,
+      "native_z_vs_last_scale_reconstruction_mm": {
+        "n": 157,
+        "median": 0.0,
+        "p95": 0.0,
+        "max": 0.0
+      },
+      "native_xyz_mm": {
+        "n": 157,
+        "median": 127.9925553233259,
+        "p95": 173.4953740869449,
+        "max": 227.66720201261674
+      },
+      "chunk_metadata_corrected_xyz_mm": {
+        "n": 157,
+        "median": 28.786818559203393,
+        "p95": 54.457346091543656,
+        "max": 78.54285434847849
+      },
+      "corrected_signed_depth_mm": {
+        "n": 157,
+        "median": -25.76288315276254,
+        "p95": 5.098169651183586,
+        "max": 47.41485350019736
+      }
+    },
+    {
+      "frame": 379,
+      "chunk_start": 256,
+      "native_z_vs_last_scale_reconstruction_mm": {
+        "n": 64,
+        "median": 0.0,
+        "p95": 0.0,
+        "max": 0.0
+      },
+      "native_xyz_mm": {
+        "n": 64,
+        "median": 81.7186345505584,
+        "p95": 95.95711119663879,
+        "max": 127.2782751677474
+      },
+      "chunk_metadata_corrected_xyz_mm": {
+        "n": 64,
+        "median": 195.80901959528,
+        "p95": 223.77900416453744,
+        "max": 256.80252933643385
+      },
+      "corrected_signed_depth_mm": {
+        "n": 64,
+        "median": -182.3478747250977,
+        "p95": -167.60347589606715,
+        "max": -145.44318528559853
+      }
+    },
+    {
+      "frame": 400,
+      "chunk_start": 384,
+      "native_z_vs_last_scale_reconstruction_mm": {
+        "n": 64,
+        "median": 0.0,
+        "p95": 0.0,
+        "max": 0.0
+      },
+      "native_xyz_mm": {
+        "n": 64,
+        "median": 74.14493114745542,
+        "p95": 90.55104733100893,
+        "max": 108.58809888643854
+      },
+      "chunk_metadata_corrected_xyz_mm": {
+        "n": 64,
+        "median": 43.27521409704244,
+        "p95": 78.59012307056537,
+        "max": 81.75141376397158
+      },
+      "corrected_signed_depth_mm": {
+        "n": 64,
+        "median": -29.60667700632108,
+        "p95": -13.376668341348434,
+        "max": 7.946043118254309
+      }
+    },
+    {
+      "frame": 500,
+      "chunk_start": 384,
+      "native_z_vs_last_scale_reconstruction_mm": {
+        "n": 268,
+        "median": 0.0,
+        "p95": 0.0,
+        "max": 0.0
+      },
+      "native_xyz_mm": {
+        "n": 268,
+        "median": 127.75580511539556,
+        "p95": 164.51078134823268,
+        "max": 210.4751024869666
+      },
+      "chunk_metadata_corrected_xyz_mm": {
+        "n": 268,
+        "median": 68.31054923585414,
+        "p95": 101.37309144989317,
+        "max": 141.96422094005914
+      },
+      "corrected_signed_depth_mm": {
+        "n": 268,
+        "median": 64.83107587361175,
+        "p95": 96.36750034769393,
+        "max": 135.07992670080603
+      }
+    },
+    {
+      "frame": 600,
+      "chunk_start": 512,
+      "native_z_vs_last_scale_reconstruction_mm": {
+        "n": 292,
+        "median": 0.0,
+        "p95": 0.0,
+        "max": 0.0
+      },
+      "native_xyz_mm": {
+        "n": 292,
+        "median": 106.22731743061472,
+        "p95": 157.2107995166689,
+        "max": 190.58170237180124
+      },
+      "chunk_metadata_corrected_xyz_mm": {
+        "n": 292,
+        "median": 55.21524920838323,
+        "p95": 101.52656552169587,
+        "max": 133.3995122060378
+      },
+      "corrected_signed_depth_mm": {
+        "n": 292,
+        "median": 54.6818445354852,
+        "p95": 100.85972426949112,
+        "max": 132.33014919409314
+      }
+    },
+    {
+      "frame": 712,
+      "chunk_start": 640,
+      "native_z_vs_last_scale_reconstruction_mm": {
+        "n": 398,
+        "median": 0.0,
+        "p95": 0.0,
+        "max": 0.0
+      },
+      "native_xyz_mm": {
+        "n": 398,
+        "median": 129.6936020782427,
+        "p95": 179.87127292377193,
+        "max": 253.59831204654176
+      },
+      "chunk_metadata_corrected_xyz_mm": {
+        "n": 398,
+        "median": 129.6936020782427,
+        "p95": 179.87127292377193,
+        "max": 253.59831204654176
+      },
+      "corrected_signed_depth_mm": {
+        "n": 398,
+        "median": 129.1081944109044,
+        "p95": 177.87986845236253,
+        "max": 249.23417396046543
+      }
+    }
+  ],
+  "pooled_interior_native_xyz_mm": {
+    "n": 2802,
+    "median": 146.72205109772455,
+    "p95": 261.84119265021576,
+    "max": 309.4395931528685
+  },
+  "pooled_interior_chunk_corrected_xyz_mm": {
+    "n": 2802,
+    "median": 49.65279785551165,
+    "p95": 236.16160575935803,
+    "max": 279.0731051751521
+  },
+  "native_exported_focal_pixels": 536.9957733154297,
+  "last_chunk_focal_pixels": 536.9958306710804,
+  "native_K_same_all_frames": true
+}

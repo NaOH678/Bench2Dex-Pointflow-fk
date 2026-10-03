@@ -1,0 +1,170 @@
+[
+  {
+    "group": "sandwich",
+    "episode": "episode_0000_20260730_163803",
+    "split": "calibration",
+    "pf": "/data/shichaojian/pf_out/9.24/sandwich/efep_seg_v2/episode_0000_20260730_163803",
+    "raw": "/data/shichaojian/raw_data/singlerighthand_sandwich_100/episode_0000_20260730_163803"
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0013_20260730_170250",
+    "split": "test_episode",
+    "pf": "/data/shichaojian/pf_out/9.24/sandwich/efep_seg_v2/episode_0013_20260730_170250",
+    "raw": "/data/shichaojian/raw_data/singlerighthand_sandwich_100/episode_0013_20260730_170250"
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0019_20260730_171242",
+    "split": "calibration",
+    "pf": "/data/shichaojian/pf_out/9.24/sandwich/efep_seg_v2/episode_0019_20260730_171242",
+    "raw": "/data/shichaojian/raw_data/singlerighthand_sandwich_100/episode_0019_20260730_171242"
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0023_20260731_134714",
+    "split": "test_episode",
+    "pf": "/data/shichaojian/pf_out/9.24/sandwich/efep_seg_v2/episode_0023_20260731_134714",
+    "raw": "/data/shichaojian/raw_data/singlerighthand_sandwich_100/episode_0023_20260731_134714"
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0029_20260730_172413",
+    "split": "calibration",
+    "pf": "/data/shichaojian/pf_out/9.24/sandwich/efep_seg_v2/episode_0029_20260730_172413",
+    "raw": "/data/shichaojian/raw_data/singlerighthand_sandwich_100/episode_0029_20260730_172413"
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0034_20260730_172929",
+    "split": "test_episode",
+    "pf": "/data/shichaojian/pf_out/9.24/sandwich/efep_seg_v2/episode_0034_20260730_172929",
+    "raw": "/data/shichaojian/raw_data/singlerighthand_sandwich_100/episode_0034_20260730_172929"
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0040_20260731_140141",
+    "split": "calibration",
+    "pf": "/data/shichaojian/pf_out/9.24/sandwich/efep_seg_v2/episode_0040_20260731_140141",
+    "raw": "/data/shichaojian/raw_data/singlerighthand_sandwich_100/episode_0040_20260731_140141"
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0051_20260731_141010",
+    "split": "test_episode",
+    "pf": "/data/shichaojian/pf_out/9.24/sandwich/efep_seg_v2/episode_0051_20260731_141010",
+    "raw": "/data/shichaojian/raw_data/singlerighthand_sandwich_100/episode_0051_20260731_141010"
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0063_20260731_141938",
+    "split": "calibration",
+    "pf": "/data/shichaojian/pf_out/9.24/sandwich/efep_seg_v2/episode_0063_20260731_141938",
+    "raw": "/data/shichaojian/raw_data/singlerighthand_sandwich_100/episode_0063_20260731_141938"
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0075_20260731_142752",
+    "split": "test_episode",
+    "pf": "/data/shichaojian/pf_out/9.24/sandwich/efep_seg_v2/episode_0075_20260731_142752",
+    "raw": "/data/shichaojian/raw_data/singlerighthand_sandwich_100/episode_0075_20260731_142752"
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0088_20260731_143616",
+    "split": "calibration",
+    "pf": "/data/shichaojian/pf_out/9.24/sandwich/efep_seg_v2/episode_0088_20260731_143616",
+    "raw": "/data/shichaojian/raw_data/singlerighthand_sandwich_100/episode_0088_20260731_143616"
+  },
+  {
+    "group": "sandwich",
+    "episode": "episode_0099_20260731_144354",
+    "split": "test_episode",
+    "pf": "/data/shichaojian/pf_out/9.24/sandwich/efep_seg_v2/episode_0099_20260731_144354",
+    "raw": "/data/shichaojian/raw_data/singlerighthand_sandwich_100/episode_0099_20260731_144354"
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0000_20260830_155455",
+    "split": "calibration",
+    "pf": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0000_20260830_155455",
+    "raw": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0000_20260830_155455"
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0014_20260830_161022",
+    "split": "test_episode",
+    "pf": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0014_20260830_161022",
+    "raw": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0014_20260830_161022"
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260830_161646",
+    "split": "calibration",
+    "pf": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0024_20260830_161646",
+    "raw": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0024_20260830_161646"
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0036_20260830_163133",
+    "split": "test_episode",
+    "pf": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0036_20260830_163133",
+    "raw": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0036_20260830_163133"
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0050_20260830_165537",
+    "split": "calibration",
+    "pf": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0050_20260830_165537",
+    "raw": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0050_20260830_165537"
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0062_20260830_170434",
+    "split": "test_episode",
+    "pf": "/data/shichaojian/pf_out/9.24/dagger/efep_seg_v61/episode_0062_20260830_170434",
+    "raw": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0062_20260830_170434"
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0005_20260903_185554",
+    "split": "calibration",
+    "pf": "/data/shichaojian/pf_out/10.1/dagger_new/efep_seg_v61/episode_0005_20260903_185554",
+    "raw": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0005_20260903_185554"
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0008_20260903_185822",
+    "split": "test_episode",
+    "pf": "/data/shichaojian/pf_out/10.1/dagger_new/efep_seg_v61/episode_0008_20260903_185822",
+    "raw": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0008_20260903_185822"
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0013_20260903_190520",
+    "split": "calibration",
+    "pf": "/data/shichaojian/pf_out/10.1/dagger_new/efep_seg_v61/episode_0013_20260903_190520",
+    "raw": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0013_20260903_190520"
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0017_20260903_191053",
+    "split": "test_episode",
+    "pf": "/data/shichaojian/pf_out/10.1/dagger_new/efep_seg_v61/episode_0017_20260903_191053",
+    "raw": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0017_20260903_191053"
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0024_20260903_191423",
+    "split": "calibration",
+    "pf": "/data/shichaojian/pf_out/10.1/dagger_new/efep_seg_v61/episode_0024_20260903_191423",
+    "raw": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0024_20260903_191423"
+  },
+  {
+    "group": "dagger",
+    "episode": "episode_0033_20260903_192205",
+    "split": "test_episode",
+    "pf": "/data/shichaojian/pf_out/10.1/dagger_new/efep_seg_v61/episode_0033_20260903_192205",
+    "raw": "/data/shichaojian/raw_data/dropper_dagger_mix/episode_0033_20260903_192205"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "start": 0,
+    "end": 127,
+    "metric_scale": 0.9655857086181641,
+    "normalized_focal": 1.1948214769363403
+  },
+  {
+    "start": 128,
+    "end": 255,
+    "metric_scale": 1.10041344165802,
+    "normalized_focal": 1.1837799549102783
+  },
+  {
+    "start": 256,
+    "end": 383,
+    "metric_scale": 0.9426007270812988,
+    "normalized_focal": 1.1057976484298706
+  },
+  {
+    "start": 384,
+    "end": 511,
+    "metric_scale": 1.0495781898498535,
+    "normalized_focal": 1.2036939859390259
+  },
+  {
+    "start": 512,
+    "end": 639,
+    "metric_scale": 1.060530185699463,
+    "normalized_focal": 1.291900396347046
+  },
+  {
+    "start": 640,
+    "end": 712,
+    "metric_scale": 1.1494399309158325,
+    "normalized_focal": 1.3747628927230835
+  }
+]

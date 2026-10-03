@@ -1,0 +1,499 @@
+[
+  {
+    "episode": "episode_0000_20260830_155455",
+    "source": "9.24",
+    "valid_frames": 6,
+    "median_xyz_mm": 63.31114209263504,
+    "median_signed_z_mm": 51.72346143702042
+  },
+  {
+    "episode": "episode_0001_20260830_155619",
+    "source": "9.24",
+    "valid_frames": 5,
+    "median_xyz_mm": 66.85164738958674,
+    "median_signed_z_mm": -62.34684841437532
+  },
+  {
+    "episode": "episode_0002_20260830_155725",
+    "source": "9.24",
+    "valid_frames": 6,
+    "median_xyz_mm": 56.218957372319196,
+    "median_signed_z_mm": 51.4164905004813
+  },
+  {
+    "episode": "episode_0005_20260903_185554",
+    "source": "10.1",
+    "valid_frames": 7,
+    "median_xyz_mm": 74.22557024250261,
+    "median_signed_z_mm": 54.353587678450886
+  },
+  {
+    "episode": "episode_0006_20260903_185650",
+    "source": "10.1",
+    "valid_frames": 7,
+    "median_xyz_mm": 95.83321669892433,
+    "median_signed_z_mm": 67.62937061786134
+  },
+  {
+    "episode": "episode_0007_20260830_160029",
+    "source": "9.24",
+    "valid_frames": 6,
+    "median_xyz_mm": 65.20880841224547,
+    "median_signed_z_mm": -23.908359751974697
+  },
+  {
+    "episode": "episode_0007_20260903_185740",
+    "source": "10.1",
+    "valid_frames": 7,
+    "median_xyz_mm": 83.2119146828753,
+    "median_signed_z_mm": 51.97148984853078
+  },
+  {
+    "episode": "episode_0008_20260830_160108",
+    "source": "9.24",
+    "valid_frames": 6,
+    "median_xyz_mm": 53.00382540372782,
+    "median_signed_z_mm": -40.435698567064975
+  },
+  {
+    "episode": "episode_0008_20260903_185822",
+    "source": "10.1",
+    "valid_frames": 7,
+    "median_xyz_mm": 79.11439174883895,
+    "median_signed_z_mm": 35.698574397281746
+  },
+  {
+    "episode": "episode_0009_20260830_160144",
+    "source": "9.24",
+    "valid_frames": 7,
+    "median_xyz_mm": 64.12861722576211,
+    "median_signed_z_mm": 20.679793086109566
+  },
+  {
+    "episode": "episode_0009_20260903_190127",
+    "source": "10.1",
+    "valid_frames": 7,
+    "median_xyz_mm": 125.37061955172891,
+    "median_signed_z_mm": 119.0828103483037
+  },
+  {
+    "episode": "episode_0010_20260830_160737",
+    "source": "9.24",
+    "valid_frames": 6,
+    "median_xyz_mm": 55.541953174213184,
+    "median_signed_z_mm": -0.06733191510285819
+  },
+  {
+    "episode": "episode_0011_20260830_160819",
+    "source": "9.24",
+    "valid_frames": 6,
+    "median_xyz_mm": 60.658389509772825,
+    "median_signed_z_mm": -7.154596222769481
+  },
+  {
+    "episode": "episode_0011_20260903_190341",
+    "source": "10.1",
+    "valid_frames": 7,
+    "median_xyz_mm": 89.84369321632606,
+    "median_signed_z_mm": 56.06608200064689
+  },
+  {
+    "episode": "episode_0012_20260830_160906",
+    "source": "9.24",
+    "valid_frames": 5,
+    "median_xyz_mm": 70.11188224059595,
+    "median_signed_z_mm": 40.47319446702291
+  },
+  {
+    "episode": "episode_0012_20260903_190440",
+    "source": "10.1",
+    "valid_frames": 7,
+    "median_xyz_mm": 66.49095700118508,
+    "median_signed_z_mm": 38.67797170316256
+  },
+  {
+    "episode": "episode_0013_20260830_160946",
+    "source": "9.24",
+    "valid_frames": 6,
+    "median_xyz_mm": 56.33097775946432,
+    "median_signed_z_mm": -6.5958952926993835
+  },
+  {
+    "episode": "episode_0013_20260903_190520",
+    "source": "10.1",
+    "valid_frames": 7,
+    "median_xyz_mm": 73.06681280966512,
+    "median_signed_z_mm": 25.85417037137272
+  },
+  {
+    "episode": "episode_0014_20260830_161022",
+    "source": "9.24",
+    "valid_frames": 6,
+    "median_xyz_mm": 75.6448971076615,
+    "median_signed_z_mm": 37.400155321678895
+  },
+  {
+    "episode": "episode_0014_20260903_190554",
+    "source": "10.1",
+    "valid_frames": 7,
+    "median_xyz_mm": 71.11720969170212,
+    "median_signed_z_mm": 21.999017722170557
+  },
+  {
+    "episode": "episode_0015_20260830_161130",
+    "source": "9.24",
+    "valid_frames": 7,
+    "median_xyz_mm": 74.9096046147953,
+    "median_signed_z_mm": 32.81513920284451
+  },
+  {
+    "episode": "episode_0015_20260903_190636",
+    "source": "10.1",
+    "valid_frames": 6,
+    "median_xyz_mm": 58.67505912217718,
+    "median_signed_z_mm": 28.41641405702941
+  },
+  {
+    "episode": "episode_0016_20260830_161213",
+    "source": "9.24",
+    "valid_frames": 7,
+    "median_xyz_mm": 55.880584940157334,
+    "median_signed_z_mm": -42.96305916159182
+  },
+  {
+    "episode": "episode_0016_20260903_190720",
+    "source": "10.1",
+    "valid_frames": 7,
+    "median_xyz_mm": 65.30429384317091,
+    "median_signed_z_mm": 10.646346424637688
+  },
+  {
+    "episode": "episode_0017_20260830_161244",
+    "source": "9.24",
+    "valid_frames": 7,
+    "median_xyz_mm": 51.27961927161749,
+    "median_signed_z_mm": 5.38635779216412
+  },
+  {
+    "episode": "episode_0017_20260903_191053",
+    "source": "10.1",
+    "valid_frames": 7,
+    "median_xyz_mm": 63.23488600132649,
+    "median_signed_z_mm": -28.618984668564053
+  },
+  {
+    "episode": "episode_0018_20260830_161322",
+    "source": "9.24",
+    "valid_frames": 7,
+    "median_xyz_mm": 54.47763951775077,
+    "median_signed_z_mm": 28.886613486328592
+  },
+  {
+    "episode": "episode_0018_20260903_191125",
+    "source": "10.1",
+    "valid_frames": 7,
+    "median_xyz_mm": 69.01067623523976,
+    "median_signed_z_mm": -17.997972739896838
+  },
+  {
+    "episode": "episode_0019_20260830_161402",
+    "source": "9.24",
+    "valid_frames": 7,
+    "median_xyz_mm": 96.82544854522385,
+    "median_signed_z_mm": 72.11553639825358
+  },
+  {
+    "episode": "episode_0020_20260830_161437",
+    "source": "9.24",
+    "valid_frames": 7,
+    "median_xyz_mm": 44.926679502759335,
+    "median_signed_z_mm": 14.984669943794549
+  },
+  {
+    "episode": "episode_0020_20260903_191211",
+    "source": "10.1",
+    "valid_frames": 7,
+    "median_xyz_mm": 123.49484469411092,
+    "median_signed_z_mm": 91.50125057494134
+  },
+  {
+    "episode": "episode_0021_20260830_161509",
+    "source": "9.24",
+    "valid_frames": 7,
+    "median_xyz_mm": 54.69374366578894,
+    "median_signed_z_mm": -23.367066914007307
+  },
+  {
+    "episode": "episode_0021_20260903_191250",
+    "source": "10.1",
+    "valid_frames": 7,
+    "median_xyz_mm": 61.54357893289107,
+    "median_signed_z_mm": -23.07539707589057
+  },
+  {
+    "episode": "episode_0022_20260830_161538",
+    "source": "9.24",
+    "valid_frames": 7,
+    "median_xyz_mm": 52.796535711055654,
+    "median_signed_z_mm": 19.500568495802952
+  },
+  {
+    "episode": "episode_0023_20260830_161611",
+    "source": "9.24",
+    "valid_frames": 7,
+    "median_xyz_mm": 63.257645322580935,
+    "median_signed_z_mm": 20.57364428137609
+  },
+  {
+    "episode": "episode_0024_20260830_161646",
+    "source": "9.24",
+    "valid_frames": 7,
+    "median_xyz_mm": 57.453557851191974,
+    "median_signed_z_mm": -26.594049576645354
+  },
+  {
+    "episode": "episode_0024_20260903_191423",
+    "source": "10.1",
+    "valid_frames": 7,
+    "median_xyz_mm": 76.7451695382558,
+    "median_signed_z_mm": 26.139177409139513
+  },
+  {
+    "episode": "episode_0025_20260903_191459",
+    "source": "10.1",
+    "valid_frames": 7,
+    "median_xyz_mm": 64.98271347362285,
+    "median_signed_z_mm": -30.11489167332315
+  },
+  {
+    "episode": "episode_0026_20260830_162430",
+    "source": "9.24",
+    "valid_frames": 6,
+    "median_xyz_mm": 39.33885239386609,
+    "median_signed_z_mm": 6.572311528473623
+  },
+  {
+    "episode": "episode_0027_20260830_162514",
+    "source": "9.24",
+    "valid_frames": 7,
+    "median_xyz_mm": 54.12949392395571,
+    "median_signed_z_mm": -5.759303376598246
+  },
+  {
+    "episode": "episode_0028_20260830_162554",
+    "source": "9.24",
+    "valid_frames": 7,
+    "median_xyz_mm": 43.117507842499705,
+    "median_signed_z_mm": 35.10716146822351
+  },
+  {
+    "episode": "episode_0029_20260830_162641",
+    "source": "9.24",
+    "valid_frames": 7,
+    "median_xyz_mm": 76.29173880480424,
+    "median_signed_z_mm": -69.18104071274101
+  },
+  {
+    "episode": "episode_0030_20260830_162715",
+    "source": "9.24",
+    "valid_frames": 7,
+    "median_xyz_mm": 49.7898140888728,
+    "median_signed_z_mm": 6.73512716020086
+  },
+  {
+    "episode": "episode_0030_20260903_192013",
+    "source": "10.1",
+    "valid_frames": 7,
+    "median_xyz_mm": 85.09257799118615,
+    "median_signed_z_mm": -18.94379752283104
+  },
+  {
+    "episode": "episode_0031_20260830_162755",
+    "source": "9.24",
+    "valid_frames": 7,
+    "median_xyz_mm": 77.08444808298123,
+    "median_signed_z_mm": 22.17864615716597
+  },
+  {
+    "episode": "episode_0031_20260903_192052",
+    "source": "10.1",
+    "valid_frames": 7,
+    "median_xyz_mm": 83.45950432183693,
+    "median_signed_z_mm": 25.39832475428555
+  },
+  {
+    "episode": "episode_0032_20260830_162838",
+    "source": "9.24",
+    "valid_frames": 7,
+    "median_xyz_mm": 60.47419512532573,
+    "median_signed_z_mm": 41.050426573098264
+  },
+  {
+    "episode": "episode_0033_20260830_163009",
+    "source": "9.24",
+    "valid_frames": 6,
+    "median_xyz_mm": 31.099960978377286,
+    "median_signed_z_mm": 6.04024957997415
+  },
+  {
+    "episode": "episode_0033_20260903_192205",
+    "source": "10.1",
+    "valid_frames": 7,
+    "median_xyz_mm": 73.40648522561918,
+    "median_signed_z_mm": 0.16892861966733008
+  },
+  {
+    "episode": "episode_0034_20260830_163052",
+    "source": "9.24",
+    "valid_frames": 5,
+    "median_xyz_mm": 41.29013812290383,
+    "median_signed_z_mm": 8.669135598749323
+  },
+  {
+    "episode": "episode_0036_20260830_163133",
+    "source": "9.24",
+    "valid_frames": 5,
+    "median_xyz_mm": 35.78019022181681,
+    "median_signed_z_mm": -16.194900072010967
+  },
+  {
+    "episode": "episode_0037_20260830_163221",
+    "source": "9.24",
+    "valid_frames": 6,
+    "median_xyz_mm": 71.97912327708654,
+    "median_signed_z_mm": -57.1647922867368
+  },
+  {
+    "episode": "episode_0038_20260830_163308",
+    "source": "9.24",
+    "valid_frames": 6,
+    "median_xyz_mm": 57.53310721799008,
+    "median_signed_z_mm": 46.63197003628689
+  },
+  {
+    "episode": "episode_0039_20260830_163356",
+    "source": "9.24",
+    "valid_frames": 5,
+    "median_xyz_mm": 45.72888862888101,
+    "median_signed_z_mm": 41.39198251322773
+  },
+  {
+    "episode": "episode_0041_20260830_163452",
+    "source": "9.24",
+    "valid_frames": 5,
+    "median_xyz_mm": 48.98892781290052,
+    "median_signed_z_mm": -36.847720736050306
+  },
+  {
+    "episode": "episode_0042_20260830_163531",
+    "source": "9.24",
+    "valid_frames": 7,
+    "median_xyz_mm": 79.94425525126982,
+    "median_signed_z_mm": -74.08671560304691
+  },
+  {
+    "episode": "episode_0043_20260830_163607",
+    "source": "9.24",
+    "valid_frames": 6,
+    "median_xyz_mm": 49.11387074519594,
+    "median_signed_z_mm": -23.999182400810696
+  },
+  {
+    "episode": "episode_0046_20260830_163732",
+    "source": "9.24",
+    "valid_frames": 6,
+    "median_xyz_mm": 69.47981604266849,
+    "median_signed_z_mm": -66.20773149559164
+  },
+  {
+    "episode": "episode_0047_20260830_165343",
+    "source": "9.24",
+    "valid_frames": 7,
+    "median_xyz_mm": 41.14229473584068,
+    "median_signed_z_mm": -16.416531305081694
+  },
+  {
+    "episode": "episode_0048_20260830_165425",
+    "source": "9.24",
+    "valid_frames": 6,
+    "median_xyz_mm": 53.24275733444085,
+    "median_signed_z_mm": -39.26336607244327
+  },
+  {
+    "episode": "episode_0050_20260830_165537",
+    "source": "9.24",
+    "valid_frames": 7,
+    "median_xyz_mm": 49.61653763744284,
+    "median_signed_z_mm": -22.734430861721947
+  },
+  {
+    "episode": "episode_0052_20260830_165628",
+    "source": "9.24",
+    "valid_frames": 7,
+    "median_xyz_mm": 50.02363469368805,
+    "median_signed_z_mm": -12.820839856132693
+  },
+  {
+    "episode": "episode_0053_20260830_165701",
+    "source": "9.24",
+    "valid_frames": 7,
+    "median_xyz_mm": 55.83354781424448,
+    "median_signed_z_mm": -9.804681224849453
+  },
+  {
+    "episode": "episode_0054_20260830_165730",
+    "source": "9.24",
+    "valid_frames": 7,
+    "median_xyz_mm": 48.27228686604313,
+    "median_signed_z_mm": -26.335990970397237
+  },
+  {
+    "episode": "episode_0055_20260830_165806",
+    "source": "9.24",
+    "valid_frames": 7,
+    "median_xyz_mm": 74.15535548969875,
+    "median_signed_z_mm": 60.14893810693877
+  },
+  {
+    "episode": "episode_0056_20260830_165848",
+    "source": "9.24",
+    "valid_frames": 7,
+    "median_xyz_mm": 58.60767575921853,
+    "median_signed_z_mm": 42.47642778186139
+  },
+  {
+    "episode": "episode_0057_20260830_165925",
+    "source": "9.24",
+    "valid_frames": 7,
+    "median_xyz_mm": 54.56953448428284,
+    "median_signed_z_mm": 49.53862221933025
+  },
+  {
+    "episode": "episode_0059_20260830_170243",
+    "source": "9.24",
+    "valid_frames": 7,
+    "median_xyz_mm": 67.82272752436305,
+    "median_signed_z_mm": 43.44290060848799
+  },
+  {
+    "episode": "episode_0060_20260830_170318",
+    "source": "9.24",
+    "valid_frames": 7,
+    "median_xyz_mm": 62.29614290653461,
+    "median_signed_z_mm": 36.05239948641287
+  },
+  {
+    "episode": "episode_0061_20260830_170355",
+    "source": "9.24",
+    "valid_frames": 7,
+    "median_xyz_mm": 57.18352406943946,
+    "median_signed_z_mm": 46.06836299161932
+  },
+  {
+    "episode": "episode_0062_20260830_170434",
+    "source": "9.24",
+    "valid_frames": 7,
+    "median_xyz_mm": 55.43902935546651,
+    "median_signed_z_mm": -8.963424609716775
+  }
+]
