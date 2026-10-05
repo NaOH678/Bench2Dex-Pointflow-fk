@@ -96,3 +96,15 @@ output_zdj/
 outputs/
 .codex
 docs/
+
+# Local inference environments and exported datasets / transfer archives
+/.venv/
+/.venvs/
+/exports/
+
+# Generated local validation reports and visualizations.
+# Keep scripts, patches, tests and environment configuration visible to Git.
+/analysis/cosmos_local_validation/**/*.json
+/analysis/sim_pointflow_validation/**/*.json
+/analysis/sim_pointflow_validation/**/*.png
+/analysis/sim_pointflow_validation/**/*.mp4
