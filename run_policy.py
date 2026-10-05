@@ -21,7 +21,7 @@ Notes:
     - --enable-rgb enables RGB rendering (required for policy inference).
     - Default cameras (stereo 双目 + wrist 双腕 only):
         cam_wrist_right, cam_wrist_left, cam_stereo_left, cam_stereo_right.
-      cam_overhead and cam_chest are excluded by default regardless of policy type.
+      Use --cameras to select the exact views used by the trained policy.
     - Policy obs keys: right_cam <- cam_wrist_right, left_cam <- cam_wrist_left,
                        stereo_left_cam <- cam_stereo_left, stereo_right_cam <- cam_stereo_right
     - Each episode runs for --episode-steps steps, then resets and loops forever.
@@ -152,6 +152,10 @@ parser.add_argument("--remote-host", type=str, default="127.0.0.1",
                     help="Remote policy server host when --policy-type REMOTE.")
 parser.add_argument("--remote-port", type=int, default=9000,
                     help="Remote policy server port when --policy-type REMOTE.")
+parser.add_argument("--remote-timeout-s", type=float, default=30.0,
+                    help="Inference response timeout; local video policies may need several minutes.")
+parser.add_argument("--cameras", nargs="+", default=None,
+                    help="Explicit inference cameras; overrides the legacy stereo/wrist default.")
 AppLauncher.add_app_launcher_args(parser)
 add_logging_arguments(parser)
 args_cli = parser.parse_args()
@@ -575,7 +579,7 @@ def _load_dp_policy(args: argparse.Namespace):
 
 
 def _load_remote_policy(args: argparse.Namespace):
-    client = RemotePolicyClient(args.remote_host, args.remote_port)
+    client = RemotePolicyClient(args.remote_host, args.remote_port, timeout_s=args.remote_timeout_s)
     print(f"[policy] Connected to remote policy server at {args.remote_host}:{args.remote_port}", flush=True)
     return client
 
@@ -790,6 +794,10 @@ def _build_remote_policy_obs(
         return np.zeros((_IMG_H, _IMG_W, 3), dtype=np.uint8)
 
     observation = {
+        "joint_names": (list(_active_dof_info.active_joint_names) if _active_dof_info is not None
+                        else list(robot_art.joint_names)),
+        "available_camera_ids": [name for name, frame in frames.items()
+                                 if frame is not None and frame.rgb is not None],
         "observation": {
             "head_camera": {"rgb": _frame_rgb("cam_overhead")},
             "right_camera": {"rgb": _frame_rgb("cam_wrist_right")},
@@ -1160,7 +1168,11 @@ def _run_episode(
             object_ids,
             camera_rig.camera_ids,
             episode_idx=episode_idx,
+            joint_names=list(robot_art.joint_names),
+            action_names=(list(_active_dof_info.active_joint_names) if _active_dof_info is not None
+                          else list(robot_art.joint_names)),
             metadata={
+                "control_fps": 20,
                 "scene_generalization_sample": relativize_sample_paths(
                     dict(scene_generalization_sample or {})
                 ),
@@ -1279,7 +1291,7 @@ def _run_episode(
                 if _active_dof_info is not None and len(action_vec) == _active_dof_info.active_dof:
                     action_vec = expand_to_full(action_vec, _active_dof_info)
                 if target is not None and len(action_vec) == target.shape[1]:
-                    target[0, :] = torch.from_numpy(action_vec).to(
+                    target[0, :] = torch.from_numpy(np.array(action_vec, copy=True)).to(
                         dtype=target.dtype, device=target.device,
                     )
                     _latest_joint_command = _joint_command_context(
@@ -1560,7 +1572,7 @@ def _run_episode(
     if _recorder is not None:
         _path = _recorder.finish_episode(_success)
         if _path is not None:
-            print(f"[ep {episode_idx}] Recorded successful episode to {_path}", flush=True)
+            print(f"[ep {episode_idx}] Recorded episode (success={_success}) to {_path}", flush=True)
 
     _log_memory(f"ep {episode_idx} after episode cleanup", args.device)
     return episode_result
@@ -1611,10 +1623,9 @@ def main() -> None:
         args_cli.resolved_robot_key = default_robot_key
 
         collect_cfg = load_collect_config(collect_cfg_path, robot_key=default_robot_key)
-        # Default to stereo (双目) + wrist (双腕) cameras only for policy inference.
-        # cam_overhead and cam_chest are excluded regardless of policy type.
+        # Explicit views override the legacy camera set; retain its existing default.
         collect_cfg.cameras = [c for c in collect_cfg.cameras
-                               if c.camera_id in _DEFAULT_INFERENCE_CAMERAS]
+                               if c.camera_id in (args_cli.cameras or _DEFAULT_INFERENCE_CAMERAS)]
         collect_cfg_by_robot = {default_robot_key: collect_cfg}
         print(f"[init] Collect config: {collect_cfg_path}", flush=True)
         print(f"[init] Camera robot profile: {default_robot_key}", flush=True)
@@ -1940,9 +1951,9 @@ def main() -> None:
             episode_collect_cfg = collect_cfg_by_robot.get(robot_key)
             if episode_collect_cfg is None:
                 episode_collect_cfg = load_collect_config(collect_cfg_path, robot_key=robot_key)
-                # Apply the same stereo+wrist-only default as the initial load.
+                # Keep the same explicit/default camera selection across robot changes.
                 episode_collect_cfg.cameras = [c for c in episode_collect_cfg.cameras
-                                               if c.camera_id in _DEFAULT_INFERENCE_CAMERAS]
+                                               if c.camera_id in (args_cli.cameras or _DEFAULT_INFERENCE_CAMERAS)]
                 collect_cfg_by_robot[robot_key] = episode_collect_cfg
             if args_cli.active_dof:
                 _active_dof_info = get_active_dof_info(robot_key)
