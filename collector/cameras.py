@@ -69,11 +69,13 @@ class CameraRig:
         enable_depth: bool,
         robot_articulation: object | None = None,
         camera_generalization_sample: Dict | None = None,
+        depth_camera_ids: set[str] | None = None,
     ):
         self._sim = sim
         self._cfg = cameras
         self._enable_rgb = enable_rgb
         self._enable_depth = enable_depth
+        self._depth_camera_ids = depth_camera_ids
         self._robot_articulation = robot_articulation
         self._robot_prim_path = str(self._infer_robot_prim_path(robot_articulation) or "").rstrip("/")
         self._camera_generalization_sample = camera_generalization_sample or {}
@@ -265,7 +267,8 @@ class CameraRig:
                 "update_period": 0,
                 "width": cam_cfg.width,
                 "height": cam_cfg.height,
-                "data_types": data_types,
+                "data_types": [kind for kind in data_types if kind != 'distance_to_image_plane'
+                               or self._depth_camera_ids is None or cam_cfg.camera_id in self._depth_camera_ids],
                 "spawn": spawn_cfg,
                 "offset": offset_cfg,
             }

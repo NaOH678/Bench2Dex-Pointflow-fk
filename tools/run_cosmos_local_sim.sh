@@ -8,8 +8,34 @@ cd "$repo_root"
 : "${BASELINE_ANCHOR_HDF5:?Set BASELINE_ANCHOR_HDF5 to the RGB HDF5 matching the baseline training appearance}"
 run_dir="${COSMOS_RUN_DIR:-outputs/cosmos_local/run_$(date +%Y%m%d_%H%M%S)}"
 mkdir -p "$run_dir"
+export COSMOS_PREDICTION_DIR="${COSMOS_PREDICTION_DIR:-$(realpath "$run_dir")/predictions}"
+# A benchmark can require complete asset pools before entering selected channels.
+asset_gate="${COSMOS_ASSET_GATE:-$run_dir/../../asset_gate.json}"
+if [[ -f "$asset_gate" ]]; then
+  "$COSMOS_PYTHON" - "$asset_gate" "$@" <<'PY'
+import json, sys, time
+from pathlib import Path
+gate = json.loads(Path(sys.argv[1]).read_text())
+args = sys.argv[2:]
+profile = 'none'
+for i, arg in enumerate(args):
+    if arg == '--generalization-profile':
+        profile = args[i + 1]
+if profile in gate['channels']:
+    while not Path(gate['ready_file']).is_file():
+        if Path(gate['failure_file']).is_file():
+            raise RuntimeError('Benchmark asset preparation failed; inspect assets.log')
+        print('Waiting for verified benchmark assets:', gate['ready_file'], flush=True)
+        time.sleep(30)
+PY
+fi
 export CUDA_VISIBLE_DEVICES="${CUDA_VISIBLE_DEVICES:-0}"
 export HF_HUB_OFFLINE=1 TRANSFORMERS_OFFLINE=1
+# Geometry consists of small matrices; avoid creating a BLAS worker pool per
+# process. Explicit environment values still override these defaults.
+export OPENBLAS_NUM_THREADS="${OPENBLAS_NUM_THREADS:-1}"
+export MKL_NUM_THREADS="${MKL_NUM_THREADS:-1}"
+export OMNI_KIT_ACCEPT_EULA="${OMNI_KIT_ACCEPT_EULA:-YES}"
 export DEX2BENCH_RECORD_RES="${DEX2BENCH_RECORD_RES:-640}"
 export DEX2BENCH_RECORD_JPEG="${DEX2BENCH_RECORD_JPEG:-90}"
 export DEX2BENCH_RECORD_STRIDE="${DEX2BENCH_RECORD_STRIDE:-1}"
@@ -18,6 +44,7 @@ unset FK_ENCODER_CHECKPOINT
 "$COSMOS_PYTHON" - <<'PY'
 import socket
 with socket.socket() as sock:
+    sock.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
     sock.bind(('127.0.0.1', 9000))  # Refuse to connect the simulator to an unrelated existing service.
 PY
 "$COSMOS_PYTHON" -m script.policy_model_server --config "$COSMOS_CONFIG" --host 127.0.0.1 --port 9000 \

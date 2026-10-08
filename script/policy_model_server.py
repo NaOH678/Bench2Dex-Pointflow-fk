@@ -29,6 +29,7 @@ class PolicyModelServer:
 
     def serve_forever(self) -> None:
         self._sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        self._sock.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
         self._sock.bind((self._host, self._port))
         self._sock.listen(5)
         self._sock.settimeout(1.0)

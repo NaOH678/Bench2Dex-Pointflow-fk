@@ -101,10 +101,18 @@ parser.add_argument("--collect-config", type=str, default=None,
                     help="Collect config YAML. Defaults to configs/collect/default.yaml.")
 parser.add_argument("--enable-rgb", action="store_true",
                     help="Enable RGB capture (required for policy inference).")
+parser.add_argument("--live-pointfk", action="store_true",
+                    help="Compute current visible PointFlow/FK conditioning at each action-chunk query.")
+parser.add_argument("--async-inference", action="store_true",
+                    help="REMOTE only: predict 32 actions; prefetch at observation-relative step 16.")
+parser.add_argument("--pointfk-robot-asset", default="../dex2bench_dataset/Robots_p/ur5+wuji",
+                    help="UR5+Wuji USD/URDF asset directory for current geometry.")
 parser.add_argument("--enable-generalization", action="store_true",
                     help="Enable scene generalization (object/background/lighting randomization).")
 parser.add_argument("--generalization-config", type=str, default=None,
                     help="Path to scene generalization YAML. Defaults to configs/scene/generalization.yaml.")
+parser.add_argument("--reference-episodes", type=str, default=None,
+                    help="Baseline per_episode.jsonl: restore exact recorded scenes and verify matching seeds.")
 parser.add_argument("--generalization-profile", type=str, default="none",
                     choices=[
                         "none",
@@ -979,7 +987,8 @@ def _run_episode(
         sim,
         camera_cfgs,
         enable_rgb=args.enable_rgb,
-        enable_depth=False,
+        enable_depth=args.live_pointfk,
+        depth_camera_ids={'cam_overhead'} if args.live_pointfk else None,
         robot_articulation=robot_art,
         camera_generalization_sample=camera_generalization_sample,
     )
@@ -1189,14 +1198,46 @@ def _run_episode(
 
     frames = None
     obs = None
+    geometry_provider = None
+    if args.live_pointfk:
+        if args.policy_type.upper() != 'REMOTE' or not args.enable_rgb:
+            raise ValueError('--live-pointfk requires REMOTE policy and --enable-rgb')
+        from policy.Cosmos.sim_geometry import SimGeometryProvider
+        geometry_provider = SimGeometryProvider(runtime, args.pointfk_robot_asset, args.output_dir)
     # Metric state is sampled after a physics step.  That is exactly the state
     # consumed by policy observation at the start of the next step, so cache it
     # rather than issuing a second qpos GPU→CPU transfer.
     _latest_metric_robot_state = None
     _sim_shutdown = False
+    _wall_started = _time.perf_counter()
+    _wall_frames, _wall_queries = [], []
+    _async_actions = None
+    if args.async_inference:
+        if args.policy_type.upper() != 'REMOTE':
+            raise ValueError('--async-inference requires REMOTE policy')
+        from policy.Cosmos.async_actions import AsyncActionQueue
+        _async_actions = AsyncActionQueue(policy.get_action,
+            clock=lambda: _time.perf_counter() - _wall_started)
+
+    def _async_observation():
+        # Isaac/renderer access stays on the simulation thread. The scheduler
+        # copies the complete snapshot before the RPC worker receives it.
+        snapshot = dict(_last_obs)
+        if geometry_provider is not None:
+            snapshot['current_geometry'] = geometry_provider.compute(
+                frames.get('cam_overhead'), robot_art,
+                _get_object_states(interactive_objects, sorted(geometry_provider.renderer.object_names)),
+                frame_id=step, sim_time_sec=step * physics_dt)
+            snapshot['geometry_frame_id'] = step
+        return snapshot
 
     try:
         for step in range(max_steps):
+            if args.live_pointfk:
+                # A C/CUDA/PhysX stall can otherwise leave an episode silent forever.
+                # Dump stacks without killing the simulation or changing its timing.
+                import faulthandler
+                faulthandler.dump_traceback_later(60, repeat=False)
             if not simulation_app.is_running():
                 _sim_shutdown = True
                 break
@@ -1214,6 +1255,7 @@ def _run_episode(
                 if not args.render_every_physics_step:
                     _render_camera_sample(sim, camera_rig)
                 frames = _capture_complete_camera_set(camera_rig, sim, physics_dt)
+                _capture_wall_sec = _time.perf_counter() - _wall_started
                 if rgb_ok:
                     if getattr(policy, "uses_raw_observation", False):
                         obs = _build_remote_policy_obs(
@@ -1245,21 +1287,38 @@ def _run_episode(
             if _last_obs is not None and rgb_ok:
                 if uses_chunks:
                     if should_query_policy(step, stride=POLICY_STRIDE):
-                        if _queued_actions:
-                            if hasattr(policy, "update_obs"):
-                                policy.update_obs(_last_obs)
+                        if _async_actions is not None:
+                            _current_action = _async_actions.action(
+                                step // POLICY_STRIDE, _async_observation,
+                                episode_steps=args.episode_steps)
+                            _policy_query_count = len(_async_actions.events)
                         else:
-                            actions = policy.get_action(_last_obs)
-                            if actions is not None:
-                                actions = np.asarray(actions, dtype=np.float32)
-                                if actions.ndim == 1:
-                                    _queued_actions.append(actions)
-                                else:
-                                    actions = actions.reshape(-1, actions.shape[-1])
-                                    _queued_actions.extend(actions)
-                                _policy_query_count += 1
-                        if _queued_actions:
-                            _current_action = np.asarray(_queued_actions.popleft(), dtype=np.float32)
+                            if _queued_actions:
+                                if hasattr(policy, "update_obs"):
+                                    policy.update_obs(_last_obs)
+                            else:
+                                _query_wall_start = _time.perf_counter() - _wall_started
+                                if geometry_provider is not None:
+                                    _last_obs['current_geometry'] = geometry_provider.compute(
+                                        frames.get('cam_overhead'), robot_art,
+                                        _get_object_states(interactive_objects, sorted(geometry_provider.renderer.object_names)),
+                                        frame_id=step, sim_time_sec=step*physics_dt)
+                                    _last_obs['geometry_frame_id'] = step
+                                _geometry_wall_end = _time.perf_counter() - _wall_started
+                                actions = policy.get_action(_last_obs)
+                                _wall_queries.append(dict(physics_step=step,
+                                    geometry_start_sec=_query_wall_start, geometry_end_sec=_geometry_wall_end,
+                                    rpc_end_sec=_time.perf_counter() - _wall_started))
+                                if actions is not None:
+                                    actions = np.asarray(actions, dtype=np.float32)
+                                    if actions.ndim == 1:
+                                        _queued_actions.append(actions)
+                                    else:
+                                        actions = actions.reshape(-1, actions.shape[-1])
+                                        _queued_actions.extend(actions)
+                                    _policy_query_count += 1
+                            if _queued_actions:
+                                _current_action = np.asarray(_queued_actions.popleft(), dtype=np.float32)
                 else:
                     # ACT: query at capture rate (20Hz), matching training data rate
                     if should_query_policy(step, stride=POLICY_STRIDE):
@@ -1282,6 +1341,8 @@ def _run_episode(
                     object_states=_get_object_states(interactive_objects, _recorder.current_object_ids()),
                     camera_frames=_cam_frames,
                 )
+                _wall_frames.append(dict(physics_step=step, sim_time_sec=step * physics_dt,
+                                         captured_wall_sec=_capture_wall_sec))
 
             # Apply current action target every physical step
             if _current_action is not None:
@@ -1405,6 +1466,29 @@ def _run_episode(
             f"before policy_query_count={_policy_query_count}: {exc}",
             flush=True,
         )
+        import traceback
+        traceback.print_exc()
+    finally:
+        _loop_end_wall_sec = _time.perf_counter() - _wall_started
+        if _async_actions is not None:
+            _async_actions.close()
+            _policy_query_count = len(_async_actions.events)
+            _wall_queries = [dict(event, physics_step=event['observation_step'] * POLICY_STRIDE)
+                             for event in _async_actions.events]
+        if args.live_pointfk:
+            faulthandler.cancel_dump_traceback_later()
+        if _recorder is not None:
+            import json
+            from pathlib import Path
+            _timing_path = Path(args.output_dir) / f'episode_{episode_idx:06d}_wall_timing.json'
+            _timing_path.parent.mkdir(parents=True, exist_ok=True)
+            _timing_path.write_text(json.dumps(dict(
+                schema='cosmos_episode_wall_timing_v1', frames=_wall_frames, queries=_wall_queries,
+                end_wall_sec=_loop_end_wall_sec,
+                async_inference=bool(args.async_inference),
+                record_stride=int(os.environ.get('DEX2BENCH_RECORD_STRIDE', '3')),
+                scope='control loop only; excludes model/scene startup and final HDF5/video encoding'
+            ), indent=2) + '\n')
 
     if _sim_shutdown:
         episode_result = None
@@ -1947,6 +2031,16 @@ def main() -> None:
                     asset_split="unseen" if generalization_profile == "inv_cov" else args_cli.generalization_split,
                     available_robot_keys=get_robot_keys(),
                 )
+            _reference_sample = None
+            if args_cli.reference_episodes:
+                from utils.benchmark_reference import reference_episode, verify_reference_scene
+                _reference_sample = reference_episode(args_cli.reference_episodes, episode_idx,
+                                                       episode_seed, generalization_profile)
+                validate_resolved_object_placement_keys(_reference_sample,
+                    (obj['id'] for obj in task.get('objects', [])), required=True)
+                scene_generalization_sample = dict_to_generalization_sample(_reference_sample)
+                _anchor_idx = _reference_sample.get('_anchor_source_index')
+                print(f'[reference] Restoring baseline scene for episode {episode_idx}', flush=True)
             robot_key = str(getattr(scene_generalization_sample, "robot_key", "") or default_robot_key)
             episode_collect_cfg = collect_cfg_by_robot.get(robot_key)
             if episode_collect_cfg is None:
@@ -2053,6 +2147,9 @@ def main() -> None:
                     _current_gen_sample_dict["_anchor_source_index"] = _anchor_idx
 
             print(f"[ep {episode_idx}] Preparing CameraRig config ...", flush=True)
+            if _reference_sample is not None:
+                verify_reference_scene(_reference_sample, _current_gen_sample_dict)
+                print(f'[reference] Built scene matches baseline episode {episode_idx}', flush=True)
             print(f"[ep {episode_idx}] Camera robot profile: {robot_key}", flush=True)
             for camera_cfg in episode_collect_cfg.cameras:
                 if camera_cfg.mount_type == "robot_link":
