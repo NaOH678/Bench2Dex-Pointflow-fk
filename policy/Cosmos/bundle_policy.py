@@ -9,6 +9,27 @@ import typing
 from policy.Cosmos.contract import load_contract, prepare_observation
 
 
+def normalize_bundle_batch(batch, normalization):
+    """Normalize observed state; let Cosmos invert generated actions exactly once."""
+    if normalization['kind'] == 'none':
+        return batch
+    import torch
+    from cosmos_framework.data.generator.action.action_processing import (
+        ActionAffineNormalization, ActionProcessingRecord, make_batched_action_processing_fields,
+    )
+    if normalization['kind'] != 'affine':
+        raise ValueError('Unsupported bundle action normalization')
+    normalizer = ActionAffineNormalization(
+        offset=torch.tensor(normalization['offset'], dtype=torch.float32),
+        scale=torch.tensor(normalization['scale'], dtype=torch.float32),
+        forward_clamp=normalization.get('forward_clamp'))
+    action = batch['action'][0][0]
+    action[0, :52] = normalizer.normalize_action(action[0, :52])
+    batch.update(make_batched_action_processing_fields(
+        ActionProcessingRecord(raw_action_dim=52, action_normalizer=normalizer), batch_size=1))
+    return batch
+
+
 class BundlePolicy:
     def __init__(self, config):
         if config.get('fixture_only'):
@@ -31,9 +52,24 @@ class BundlePolicy:
                        num_steps=int(config.get('num_steps', 4)),
                        guidance=float(config.get('guidance', 3)),
                        output_dir=config['output_dir'])
-        self.backend = Bench2DexPolicy(options)
+        normalization = self.contract['normalization']
+        owner = self
+        self.preprocess_observed_frame_only = bool(config.get("preprocess_observed_frame_only", True))
+        class ContractBench2DexPolicy(Bench2DexPolicy):
+            def _build_batch(self, images_rgb, right_state):
+                if owner.preprocess_observed_frame_only:
+                    from policy.Cosmos.observed_frame_batch import build_observed_frame_batch
+                    batch = build_observed_frame_batch(self, images_rgb, right_state)
+                else:
+                    batch = super()._build_batch(images_rgb, right_state)
+                batch = normalize_bundle_batch(batch, normalization)
+                return owner.augment_batch(batch)
+        self.backend = ContractBench2DexPolicy(options)
         self.profile_path = Path(config['output_dir']) / 'local_inference.jsonl'
         self.profile_path.parent.mkdir(parents=True, exist_ok=True)
+
+    def augment_batch(self, batch):
+        return batch
 
     def reset(self, seed=None):
         with self.backend._lock:

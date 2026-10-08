@@ -168,6 +168,9 @@ class CosmosPolicy:
 
 
 def get_model(config):
+    if config.get('backend') == 'pointfk_bundle':
+        from policy.Cosmos.pointfk_policy import PointFKPolicy
+        return PointFKPolicy(config)
     if config.get('backend') == 'training_bundle':
         from policy.Cosmos.bundle_policy import BundlePolicy
         return BundlePolicy(config)
@@ -176,18 +179,36 @@ def get_model(config):
 
 class LocalSession:
     def __init__(self, config):
+        from policy.Cosmos.action_smoothing import ActionSmoother
+        self.smoother = ActionSmoother(config.get('action_smoothing'))
+        self.smoothing_log = None
+        if self.smoother.mode != 'none':
+            self.smoothing_log = Path(config['output_dir']) / 'action_smoothing.jsonl'
+            self.smoothing_log.parent.mkdir(parents=True, exist_ok=True)
         self.model = get_model(config)
         self.instruction = None
 
     def reset(self, instruction=None, *, seed=None):
         self.instruction = instruction
         self.model.reset(seed)
+        self.smoother.reset()
 
     def get_action_chunk(self, observation, instruction=None):
         observation = dict(observation)
         if instruction or self.instruction:
             observation['language'] = instruction or self.instruction
-        return self.model.get_action(observation)
+        raw_actions = self.model.get_action(observation)
+        if self.smoother.mode == 'none':
+            return raw_actions
+        # Both backends return denormalized actions in runtime joint order.
+        # Filter only the returned execution horizon, retaining state across RPCs.
+        actions = self.smoother.apply(raw_actions, observation['joint_action']['vector'],
+                                      observation['joint_names'])
+        with self.smoothing_log.open('a') as stream:
+            stream.write(json.dumps(dict(mode=self.smoother.mode, alpha=self.smoother.alpha,
+                joint_names=list(observation['joint_names']),
+                raw=np.asarray(raw_actions).tolist(), smoothed=actions.tolist())) + '\n')
+        return actions
 
     def update_after_action(self, observation, instruction=None):
         return None
