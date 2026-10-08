@@ -108,3 +108,7 @@ docs/
 /analysis/sim_pointflow_validation/**/*.json
 /analysis/sim_pointflow_validation/**/*.png
 /analysis/sim_pointflow_validation/**/*.mp4
+
+# Local credentials and generated artifact inventories
+/.aws/
+/analysis/artifact_inventory_*/
